@@ -1,0 +1,23 @@
+---
+layout: page
+title: Blog
+description: My blog about Front End Development.
+---
+
+<section class="blog">
+
+    <ul class="post-list">
+      {% for post in paginator.posts %}
+        <li class="post-container"> 
+
+          <p> <span><i>{{ post.date | date: "%-d %b, %Y" }}</i></span> — <a class="post-link" href="{{ post.permalink | prepend: site.baseurl }}">{{ post.title }}</a> — {{ post.content | strip_html | truncatewords: 40  }} <a href="{{ post.permalink | prepend: site.baseurl }}"> Read more... </a> </p>
+
+        </li>
+      {% endfor %}
+    </ul>
+
+    {% include pagination.html %}
+
+  <p class="rss-subscribe">Subscribe <a aria-label="Subscribe via RSS and receive all new posts" href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a> and receive all new posts</p>
+
+</section>

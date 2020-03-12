@@ -1,24 +1,41 @@
-title: Zixiang Zhao
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+# Site settings
+title: Blade Theme
+description: A simple Jekyll blog theme developed by Mateus Medeiros 
+url: "http://mateussmedeiros.github.io/blade-theme/" # the base hostname & protocol for your site, e.g. http://example.com
 
+# Author settings
+author:
+  name     : Mateus Medeiros
+  bio      : Front End Developer passionate about new technologies. I am passionate about what I do and I try to learn more every day.
+  email    : mateus.sousamedeiros@gmail.com
+  twitter  : https://twitter.com/mateussousam
+
+#SEO settings
+logo: /assets/img/img-blog.png/ # Site logo URL
+twitter_username: mateussousam # Twitter username
+facebook:
+    app_id: 1445035275808959 # App ID
+    publisher: https://www.facebook.com/mateus.sousamedeiros # URL of the Facebook page
+    admins: 100000229048939 # Facebook user ID that manages the page
+
+# Build settings
+permalink: /:title/
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+paginate: 5
+paginate_path: "/blog/page/:num"
 
-tracking_id: #
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+exclude:
+  - Gemfile
+  - Gemfile.lock
 
+css_folder:  "/assets/css"
+js_folder:  "/assets/js"
+img_folder:  "/assets/img"
 sass:
     style: compressed
-    sass_dir: _sass
-
-nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"

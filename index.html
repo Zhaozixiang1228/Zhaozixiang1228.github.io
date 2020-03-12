@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <p class="welcome-title"> Hi, I’m <a href="http://mateussmedeiros.github.io/" target="_blank">{{ site.author.name }}</a>, a Front End Developer. </p>
+
+  <p> I am passionate about what I do and what makes me even happier is the ease of learning more every day. <a href="about">About me...</a></p>
+  
+    <h1 class="page-title"> My Blog </h1>
+
+    <ul class="post-list">
+      {% for post in site.posts limit:2 %}
+        <li class="post-container"> 
+        
+          <p> <span class="post-date"><i>{{ post.date | date: "%-d %b, %Y" }}</i></span> — <a class="post-link" href="{{ post.permalink | prepend: site.baseurl }}">{{ post.title }}</a> — {{ post.content | strip_html | truncatewords: 40  }} <a href="{{ post.permalink | prepend: site.baseurl }}"> Read more... </a> </p>
+
+        </li>
+      {% endfor %}
+    </ul>
+  
+    <a href="blog"> See more in the blog... </a>
+    <p class="rss-subscribe">Subscribe <a aria-label="Subscribe via RSS and receive all new posts" href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a> and receive all new posts</p>
+
+</div>

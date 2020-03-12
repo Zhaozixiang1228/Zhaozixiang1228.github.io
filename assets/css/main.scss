@@ -1,0 +1,48 @@
+---
+
+---
+
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400');
+
+////////////////
+// Variáveis //
+///////////////
+
+// Fonte
+$default-font: 'Open Sans', Arial, sans-serif;
+$title-font: 'Roboto Slab', serif;
+
+// Cores
+$black: #202020;
+$white: #ecf0f1;
+$grey: darken($white, 3%);
+$blue: #1e8bc3;
+
+// Breakpints
+$bp-tablet-large: 800px;
+$bp-mobile-large: 500px;
+
+///////////////////
+// Placeholders //
+//////////////////
+%margins {
+    margin: 1em 0;
+}
+
+/////////////
+// Mixins //
+////////////
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+@import
+        "base",
+        "layout",
+        "syntax-highlighting",
+        "responsive"
+;

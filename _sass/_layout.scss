@@ -1,0 +1,268 @@
+/*-----------------------
+---- Header | Footer ----
+-----------------------*/
+.header {
+  background: $blue;
+    a {
+        text-decoration: none;
+    }
+}
+
+.footer {
+  background: $black;
+    color: $white;
+
+    p, a {
+      margin: 0;
+      font-size: 11pt;
+    }
+
+}
+
+.header, .footer {
+    padding: 15px;
+    text-align: center;
+}
+
+/*------------------
+---- Site Title ----
+------------------*/
+.title {
+  clear: both;
+  padding: 20px 0;
+
+    h1 {
+      margin-bottom: 10px;
+    }
+
+    h1 a {
+        font-family: $title-font;
+        font-size: 32pt;
+    }
+
+    h2 a {
+        font-size: 24pt;
+        font-weight: 300;
+    }
+
+    h1 a, h2 a {
+      color: $white;
+    }
+}
+
+/*------------
+---- Menu ----
+------------*/
+.bt-menu {
+    display: none;
+    float: left;
+}
+
+.menu {
+    a {
+        float: left;
+        margin: 0 10px;
+        font-size: 16pt;
+        color: $white;
+
+        &:last-child {
+            margin-right: none;
+        }
+
+        &:hover {
+            color: $black;
+        }
+    }
+}
+
+/*--------------
+---- Search ----
+--------------*/
+.bt-search {
+    float: right;
+}
+
+#search-container {
+    display: none;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.8);
+
+    input[type=text]{
+        width: 400px;
+        height: 30px;
+        margin: 10px auto;
+        background: transparent;
+        border: 0;
+        border-bottom: 1px solid $white;
+        outline: 0;
+        text-align: center;
+        font-size: 16pt;
+        color: $white;
+    }
+
+    ::-webkit-input-placeholder{
+        color: $white;
+    }
+
+    :-ms-input-placeholder {
+        color: $white;
+    }
+
+    ::-ms-input-placeholder {
+        color: $white;
+    }
+
+    ::-moz-placeholder {
+        color: $white;
+    }
+
+    a, p {
+        display: block;
+        margin: 10px;
+        color: $white;
+    }
+
+    a:hover {
+        color: $blue;
+        text-decoration: underline;
+    }
+}  
+
+/*--------------------
+---- Social Icons ----
+--------------------*/
+.icon-top {
+    width: 25px;
+    height: 25px;
+    fill: $white;
+    cursor: pointer;
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  display: inline-block;
+  fill: $blue;
+
+  &:hover {
+    fill: $white;
+  }
+}
+
+/*-----------------
+---- Home Page ----
+-----------------*/
+.welcome-title {
+    font-size: 16pt;
+    line-height: 20pt;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 0;
+} 
+
+/*-------------------
+---- Page | Post ----
+-------------------*/
+.page-content {
+    display: block;
+    margin: 0 auto;
+    padding: 35px 30px;
+    max-width: 1000px;
+}
+
+.post-content {
+    h2, h3, h4, h5, h6 {
+        margin: 20px 0;
+    }
+}
+
+.post-list {
+    list-style: none;
+    padding: 0;
+}
+
+.post-date {
+    font-size: 12pt;
+    font-weight: 300;
+}
+
+.post-container {
+  padding: 15px 0;
+    border-bottom: 1px solid $black;
+
+    span {
+      font-weight: 300;
+    }
+}
+
+.page-title {
+  border-bottom: 1px solid $black;
+  padding: 5px 0;
+  font-size: 22pt;
+}
+
+/*---------------------------
+---- Paginations Buttons ----
+---------------------------*/
+.pagination {
+  a, span {  
+    padding: 0 6px;
+  }
+} 
+
+/*--------------
+---- Author ----
+--------------*/
+.img-author {
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin-right: 20px;
+  border-radius: 100%;
+  border: 3px solid $blue;
+}
+
+.author {
+  background: $grey;
+  padding: 15px;
+  @extend %margins;
+
+  .details {
+    @extend %margins;
+  }
+
+  .name a {
+    font-size: 18pt;
+    text-decoration: none;
+  }
+}
+
+/*--------------------------------
+---- Share Buttons | Comments ----
+--------------------------------*/
+.share, .comments {
+  text-align: center;
+  border-top: 1px solid $black;
+  padding: 10px;
+}
+
+.share {
+  a {
+    text-decoration: none;
+  }
+
+  .icon {
+    margin-top: 10px;
+    
+    &:hover {
+      fill: darken($blue, 15%);
+    }
+  }
+}

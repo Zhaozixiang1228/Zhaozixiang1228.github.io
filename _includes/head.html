@@ -1,0 +1,37 @@
+<head>
+  	<meta charset="utf-8">
+  	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+  	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  	<meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  	<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
+  	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
+
+  	<!-- Social: Facebook / Open Graph -->
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta property="og:image" content="{{ page_image }}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:site_name" content="{{ site.title }}">
+
+  	<!-- Social: Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="{{ site.twitter_username }}">
+    <meta name="twitter:title" content="{% if post.title %}{{ post.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:image:src" content="{{ page_image }}">
+
+    <!-- Social: Google+ / Schema.org  -->
+    <meta itemprop="name" content="{% if post.title %}{{ post.title }}{% else %}{{ site.title }}{% endif %}"/>
+    <meta itemprop="description" content="{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta itemprop="image" content="{{ page_image }}">
+
+    {% include svg.html %}
+    {% seo %}
+
+</head>

@@ -1,4 +1,8 @@
 _site
 .sass-cache
-.sass-cache/
-.DS_Store
+.jekyll-metadata
+blade-theme-1.0.2.gem
+blade-theme-1.1.0.gem
+blade-theme-1.1.1.gem
+blade-theme-1.2.1.gem
+blade-theme.gemspec

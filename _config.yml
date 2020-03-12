@@ -1,12 +1,12 @@
 # Site settings
 title: Zixiang Zhao
-description: A simple Jekyll blog theme developed by Mateus Medeiros 
-url: "http://mateussmedeiros.github.io/blade-theme/" # the base hostname & protocol for your site, e.g. http://example.com
+description: A simple Jekyll blog theme developed by Zixiang Zhao 
+url: "https://zhaozixiang1228.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author:
-  name     : Mateus Medeiros
-  bio      : Front End Developer passionate about new technologies. I am passionate about what I do and I try to learn more every day.
+  name     : Zixiang Zhao
+  bio      : My name is Zixiang Zhao. I am currently a second year MPhil student at Xi'an Jiaotong University, supervised by Prof. Jiangshe Zhang. I obtained my Bachelor's degree from Northwest University in China. My current research interests are in computer vision and image fusion. I am expected to obtain my Master's degree in 2021 and purse an admission of a PhD program in the area of deep learning and computer vision.
   email    : mateus.sousamedeiros@gmail.com
   twitter  : https://twitter.com/mateussousam
 

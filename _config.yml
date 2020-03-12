@@ -7,8 +7,8 @@ url: "https://zhaozixiang1228.github.io/" # the base hostname & protocol for you
 author:
   name     : Zixiang Zhao
   bio      : My name is Zixiang Zhao. I am currently a second year MPhil student at Xi'an Jiaotong University, supervised by Prof. Jiangshe Zhang. I obtained my Bachelor's degree from Northwest University in China. My current research interests are in computer vision and image fusion. I am expected to obtain my Master's degree in 2021 and purse an admission of a PhD program in the area of deep learning and computer vision.
-  email    : mateus.sousamedeiros@gmail.com
-  twitter  : https://twitter.com/mateussousam
+  email    : zixiangzhao@stu.xjtu.edu.cn
+#  twitter  : https://twitter.com/mateussousam
 
 #SEO settings
 logo: /assets/img/img-blog.png/ # Site logo URL

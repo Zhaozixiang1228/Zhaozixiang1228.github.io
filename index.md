@@ -10,9 +10,11 @@ I obtained my Bachelor's degree from [Northwest University](http://www.nwu.edu.c
 ---
 # Current research
 
-1. Image Processing  
-- Image fusion(infrared and visible)  
-- Image style transfer  
+1. Image Processing
+   - Image fusion(infrared and visible)
+   - Image Decomposition
 2. Face Recognition
+
+---
 
 

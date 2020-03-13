@@ -15,7 +15,8 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 1. Image Processing
    - Image fusion(infrared and visible)
    - Image Decomposition
-2. Face Recognition
+2. Computer Vision
+3. Machine Learning
 
 ---
 
@@ -23,10 +24,9 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 
 1.***Efficient and Interpretable Infrared and Visible Image Fusion Via Algorithm Unrolling.***
 
-	***Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang*
-	-Submitted to ECCV 2020  
-	                                                
-	-Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion
+	* **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
+	* Submitted to ECCV 2020                                                  
+	* Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion
 
 
 2.***DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion. Zixiang Zhao, Jiangshe Zhang et al.***

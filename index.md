@@ -13,7 +13,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 # CURRENT RESEARCH
 
 1. Image Processing
-   - Image fusion(infrared and visible)
+   - Image Fusion(infrared and visible)
    - Image Decomposition
 2. Computer Vision
 3. Machine Learning

@@ -10,7 +10,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 *zixiangzhao@foxmail.com*
 
 ---
-# Current research
+# CURRENT RESEARCH
 
 1. Image Processing
    - Image fusion(infrared and visible)

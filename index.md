@@ -20,7 +20,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 
 ---
 
-# RESEARCH PROJECT
+# PUBLICATIONS
 
 1. ***Efficient and Interpretable Infrared and Visible Image Fusion Via Algorithm Unrolling.***
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang

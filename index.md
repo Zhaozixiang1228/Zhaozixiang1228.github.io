@@ -26,24 +26,28 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * Submitted to ECCV 2020                                                  
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion  
-[*[arxiv]*](https://arxiv.org/abs/2005.05896), [*[code]*]()
+[*[ArXiv]*](https://arxiv.org/abs/2005.05896), <details>
+  <summary>[*[Abstract]*]</summary>
+Infrared and visible image fusion expects to obtain images that highlight thermal radiation information from infrared images and texture details from visible images. In this paper, an interpretable deep network fusion model is proposed. Initially, two optimization models are established to accomplish two-scale decomposition, separating low-frequency base information and high-frequency detail information from source images. The algorithm unrolling that each iteration process is mapped to a convolutional neural network layer to transfer the optimization steps into the trainable neural networks, is implemented to solve the optimization models. In the test phase, the two decomposition feature maps of base and detail are merged respectively by the fusion layer, and then the decoder outputs the fusion image. Qualitative and quantitative comparisons demonstrate the superiority of our model, which is interpretable and can robustly generate fusion images containing highlight targets and legible details, exceeding the state-of-the-art methods.
+</details>
+, [*[code: coming soon]*]()
 
 2. ***DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion.***
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * **Accepted** by IJCAI 2020 (acceptance rate: 12.6%)
-* Proposed a data-driven auto-encoder based network to accomplish the two-scale decomposition for image fusion
-[*[arxiv]*](https://arxiv.org/abs/2003.09210v1)
+* Proposed a data-driven auto-encoder based network to accomplish the two-scale decomposition for image fusion  
+[*[ArXiv]*](https://arxiv.org/abs/2003.09210v1), [*[code: coming soon]*]()
 
 3. ***Bayesian Fusion for Infrared and Visible Images.***
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * Submitted to Signal Processing (IF2019: 4.086)     
-* Established a Bayesian fusion model with a hierarchical Bayesian manner and the total-variation penalty, which can be inferred by the EM algorithm
-[*[arxiv]*](https://arxiv.org/abs/2005.05839)
+* Established a Bayesian fusion model with a hierarchical Bayesian manner and the total-variation penalty, which can be inferred by the EM algorithm  
+[*[ArXiv]*](https://arxiv.org/abs/2005.05839), [*[code: coming soon]*]()
 
 4. ***Deep Convolutional Sparse Coding Networks for Image Fusion.***
 * Shuang Xu, **Zixiang Zhao**, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * Plan to submit to NeurIPS 2020 (Co-first Author) 
-* Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm
+* Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm  
 
 ---
 

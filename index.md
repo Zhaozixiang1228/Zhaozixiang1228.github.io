@@ -38,12 +38,13 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * Submitted to ECCV 2020                                                  
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion  
-[*[arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code: coming soon]*]()
+[*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code: coming soon]*]()
 
 4. ***Deep Convolutional Sparse Coding Networks for Image Fusion.***
-* Shuang Xu, **Zixiang Zhao**, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
+* Shuang Xu, **Zixiang Zhao**, Yicheng Wang, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * Plan to submit to NeurIPS 2020 (Co-first Author) 
-* Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm  
+* Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm    
+[*[Arxiv]*](https://arxiv.org/abs/2005.08448), [*[Code: coming soon]*]()
 
 ---
 

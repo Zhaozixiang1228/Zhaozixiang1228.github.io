@@ -1,4 +1,4 @@
-<img align="right" src="images//me.jpg"/>
+<img align="right" src="images//me.jpg" height="300px"/>
 
 My name is **Zixiang Zhao**. I am currently a second year MPhil student at [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang). 
 

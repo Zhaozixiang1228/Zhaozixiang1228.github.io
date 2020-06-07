@@ -1,3 +1,5 @@
+<img align="right" src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png"/>
+
 My name is **Zixiang Zhao**. I am currently a second year MPhil student at [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang). 
 
 I obtained my Bachelor's degree from [Northwest University](http://www.nwu.edu.cn/) in China. My current research interests are in **computer vision** and **image fusion**. 

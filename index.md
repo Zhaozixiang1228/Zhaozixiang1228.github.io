@@ -44,7 +44,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 
 4. ***Deep Convolutional Sparse Coding Networks for Image Fusion.***
 * Shuang Xu, **Zixiang Zhao**, Yicheng Wang, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
-* Plan to submit to NeurIPS 2020 (Co-first Author) 
+* Submitted to NeurIPS 2020 (Co-first Author) 
 * Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm    
 [*[Arxiv]*](https://arxiv.org/abs/2005.08448), [*[Code: coming soon]*]()
 

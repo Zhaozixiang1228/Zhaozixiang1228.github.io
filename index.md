@@ -21,6 +21,11 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 3. Machine Learning
 
 ---
+# NEWS
+
+- [2020-04] One paper on a data-driven image fusion network is accepted by IJCAI2020 [Accepted list](http://static.ijcai.org/2020-accepted_papers.html).
+
+---
 
 # PUBLICATIONS
 

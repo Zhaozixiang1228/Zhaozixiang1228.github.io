@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png"/>
+<img align="right" src="images//me.jpg"/>
 
 My name is **Zixiang Zhao**. I am currently a second year MPhil student at [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang). 
 

@@ -33,7 +33,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * **Accepted** by IJCAI 2020 (acceptance rate: 12.6%)
 * Proposed a data-driven auto-encoder based network to accomplish the two-scale decomposition for image fusion  
-[*[ArXiv]*](https://arxiv.org/abs/2003.09210v1), [*[Code: coming soon]*]()
+[*[Paper]*](https://www.ijcai.org/Proceedings/2020/135), [*[ArXiv]*](https://arxiv.org/abs/2003.09210v1), [*[Code: coming soon]*]()
 
 2. ***Bayesian Fusion for Infrared and Visible Images.***
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
@@ -43,7 +43,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 
 3. ***Efficient and Interpretable Infrared and Visible Image Fusion Via Algorithm Unrolling.***
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
-* Submitted to ECCV 2020                                                  
+* Submitted to AAAI 2021                                                  
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion  
 [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code: coming soon]*]()
 

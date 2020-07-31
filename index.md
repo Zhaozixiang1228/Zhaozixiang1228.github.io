@@ -22,8 +22,8 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 
 ---
 # NEWS
-
-- [2020-04] One paper on data-driven image fusion is accepted by IJCAI2020 [\[Accepted list\]](http://static.ijcai.org/2020-accepted_papers.html).
+- [2020-07-31] One paper on Bayesian image fusion is accepted by Signal Processing.  
+- [2020-04-23] One paper on data-driven image fusion is accepted by IJCAI2020 [\[Accepted list\]](http://static.ijcai.org/2020-accepted_papers.html).
 
 ---
 
@@ -37,7 +37,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 
 2. ***Bayesian Fusion for Infrared and Visible Images.***
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
-* Submitted to Signal Processing (IF2019: 4.086)     
+* **Accepted** by Signal Processing (IF2019: 4.384)     
 * Established a Bayesian fusion model with a hierarchical Bayesian manner and the total-variation penalty, which can be inferred by the EM algorithm  
 [*[ArXiv]*](https://arxiv.org/abs/2005.05839), [*[Code: coming soon]*]()
 

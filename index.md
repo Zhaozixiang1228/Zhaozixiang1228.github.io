@@ -29,7 +29,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 
 # PUBLICATIONS
 
-## <u> Preprint </u>
+## $\color{#FF7D00}{Preprint}$
 
 1. ***Efficient and Interpretable Infrared and Visible Image Fusion Via Algorithm Unrolling.***
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang

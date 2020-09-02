@@ -34,7 +34,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 1. ***When Image Decomposition Meets Deep Learning: A Novel Infrared and Visible Image Fusion Method.***
 * **Zixiang Zhao**, Shuang Xu, Rui Feng, Chunxia Zhang, Junmin Liu, Jiangshe Zhang 
 * Submitted to IEEE Transactions on Multimedia 
-* Journal version of IJCAI2020 paper  
+* Journal version of IJCAI2020 paper    
 [*[ArXiv]*](https://arxiv.org/abs/), [*[Code]*]()
 
 1. ***Efficient and Interpretable Infrared and Visible Image Fusion Via Algorithm Unrolling.***

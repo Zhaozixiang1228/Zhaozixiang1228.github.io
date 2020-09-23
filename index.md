@@ -35,7 +35,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 * **Zixiang Zhao**, Shuang Xu, Rui Feng, Chunxia Zhang, Junmin Liu, Jiangshe Zhang 
 * Submitted to IEEE Transactions on Multimedia 
 * Journal version of IJCAI2020 paper    
-[*[ArXiv]*](https://arxiv.org/abs/), [*[Code]*]()
+[*[ArXiv]*](https://arxiv.org/abs/2009.01315), [*[Code]*]()
 
 1. ***Efficient and Interpretable Infrared and Visible Image Fusion Via Algorithm Unrolling.***
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
@@ -62,7 +62,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * **Accepted** by Signal Processing (IF2019: 4.384)     
 * Established a Bayesian fusion model with a hierarchical Bayesian manner and the total-variation penalty, which can be inferred by the EM algorithm  
-[*[ArXiv]*](https://arxiv.org/abs/2005.05839), [*[Code]*]()
+[*[Paper]*](https://www.sciencedirect.com/science/article/pii/S0165168420302772), [*[ArXiv]*](https://arxiv.org/abs/2005.05839), [*[Code]*]()
 
 ## <u> Conference Papers </u>
 

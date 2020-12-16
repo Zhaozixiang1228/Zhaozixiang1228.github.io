@@ -33,19 +33,19 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 
 1. ***When Image Decomposition Meets Deep Learning: A Novel Infrared and Visible Image Fusion Method.***
 * **Zixiang Zhao**, Shuang Xu, Rui Feng, Chunxia Zhang, Junmin Liu, Jiangshe Zhang 
-* Submitted to IEEE Transactions on Multimedia 
+* Submitted to IEEE Transactions on Neural Networks and Learning Systems 
 * Journal version of IJCAI2020 paper    
 [*[ArXiv]*](https://arxiv.org/abs/2009.01315), [*[Code]*]()
 
 1. ***Efficient and Interpretable Infrared and Visible Image Fusion Via Algorithm Unrolling.***
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
-* Submitted to AAAI 2021                                                  
+* Submitted to IEEE Transactions on Instrumentation and Measurement 
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion  
 [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*]()
 
 1. ***Deep Convolutional Sparse Coding Networks for Image Fusion.***
 * Shuang Xu, **Zixiang Zhao**, Yicheng Wang, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
-* Submitted to NeurIPS 2020 (Co-first Author) 
+* Submitted to IEEE Transactions on Circuits and Systems for Video Technology (Co-first Author) 
 * Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm    
 [*[Arxiv]*](https://arxiv.org/abs/2005.08448), [*[Code]*]()
 

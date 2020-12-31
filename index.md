@@ -32,7 +32,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 ## <u> Preprint </u>
 
 1. ***Domain Adaptive Object Detection via Feature Separation and Alignment.***
-* Chengyang Liang$^\*$, **Zixiang Zhao$^\*$**, Junmin Liu, Jiangshe Zhang
+* Chengyang Liang\*, **Zixiang Zhao**\*, Junmin Liu, Jiangshe Zhang
 * Submitted to CVPR 2021 (Co-first Author) 
 * Establish a Feature Separation and Alignment Network (FSANet) for domain adaptive object detection    
 [*[ArXiv]*](https://arxiv.org/abs/2012.08689), [*[Code]*]()
@@ -56,7 +56,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*]()
 
 1. ***Deep Convolutional Sparse Coding Networks for Image Fusion.***
-* Shuang Xu, **Zixiang Zhao**, Yicheng Wang, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
+* Shuang Xu\*, **Zixiang Zhao**\*, Yicheng Wang, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * Submitted to IEEE Transactions on Circuits and Systems for Video Technology (Co-first Author) 
 * Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm    
 [*[Arxiv]*](https://arxiv.org/abs/2005.08448), [*[Code]*]()
@@ -79,7 +79,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 ## <u> Conference Papers </u>
 
 1. ***DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion.***
-* **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
+* **Zixiang Zhao**\*, Shuang Xu\*, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * **Accepted** by IJCAI 2020 (acceptance rate: 12.6%)
 * Proposed a data-driven auto-encoder based network to accomplish the two-scale decomposition for image fusion  
 [*[Paper]*](https://www.ijcai.org/Proceedings/2020/135), [*[ArXiv]*](https://arxiv.org/abs/2003.09210v1), [*[Code]*]()

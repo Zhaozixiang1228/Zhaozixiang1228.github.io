@@ -63,7 +63,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 
 1. ***MFIF-GAN: A New Generative Adversarial Network for Multi-Focus Image Fusion***
 * Yicheng Wang, Shuang Xu, Junmin Liu, **Zixiang Zhao**, Chunxia Zhang, Jiangshe Zhang
-* Submitted to Signal Processing 
+* Submitted to Signal Processing: Image Communication 
 * Present a novel generative adversarial network termed MFIF-GAN to translate multi-focus images into focus maps and to get the all-in-focus images further    
 [*[Arxiv]*](https://arxiv.org/abs/2009.09718v2), [*[Code]*]()
 

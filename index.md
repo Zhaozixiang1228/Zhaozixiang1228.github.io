@@ -31,6 +31,18 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 
 ## <u> Preprint </u>
 
+1. ***Domain Adaptive Object Detection via Feature Separation and Alignment.***
+* Chengyang Liang$^\dagger$, **Zixiang Zhao$^\dagger$**, Junmin Liu, Jiangshe Zhang
+* Submitted to CVPR 2021 (Co-first Author) 
+* Establish a Feature Separation and Alignment Network (FSANet) for domain adaptive object detection    
+[*[ArXiv]*](https://arxiv.org/abs/2012.08689), [*[Code]*]()
+
+1. ***FGF-GAN: A Lightweight Generative Adversarial Network for Pansharpening via Fast Guided Filter.***
+* **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Kai Sun, Lu Huang, Junmin Liu, Chunxia Zhang
+* Submitted to ICME 2021
+* Propose a generative adversarial network via the fast guided filter for pansharpening    
+[*[ArXiv]*](https://arxiv.org/abs/xxxxxxxxxxxxxxxxxxx), [*[Code]*]()
+
 1. ***When Image Decomposition Meets Deep Learning: A Novel Infrared and Visible Image Fusion Method.***
 * **Zixiang Zhao**, Shuang Xu, Rui Feng, Chunxia Zhang, Junmin Liu, Jiangshe Zhang 
 * Submitted to IEEE Transactions on Neural Networks and Learning Systems 
@@ -39,7 +51,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 
 1. ***Efficient and Interpretable Infrared and Visible Image Fusion Via Algorithm Unrolling.***
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
-* Submitted to IEEE Transactions on Instrumentation and Measurement 
+* Submitted to IEEE Transactions on Circuits and Systems for Video Technology
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion  
 [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*]()
 

@@ -1,6 +1,6 @@
 <img align="right" src="images//me.jpg" height="360px"/>
 
-My name is **Zixiang Zhao**. I am currently a second year MPhil student at [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang). 
+My name is **Zixiang Zhao**. I am currently a second year MPhil student at [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang). 
 
 I obtained my Bachelor's degree from [Northwest University](http://www.nwu.edu.cn/) in China. My current research interests are in **computer vision** and **image fusion**. 
 

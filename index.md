@@ -32,7 +32,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 ## <u> Preprint </u>
 
 1. ***Domain Adaptive Object Detection via Feature Separation and Alignment.***
-* Chengyang Liang$^\dagger$, **Zixiang Zhao$^\dagger$**, Junmin Liu, Jiangshe Zhang
+* Chengyang Liang$^\*$, **Zixiang Zhao$^\*$**, Junmin Liu, Jiangshe Zhang
 * Submitted to CVPR 2021 (Co-first Author) 
 * Establish a Feature Separation and Alignment Network (FSANet) for domain adaptive object detection    
 [*[ArXiv]*](https://arxiv.org/abs/2012.08689), [*[Code]*]()

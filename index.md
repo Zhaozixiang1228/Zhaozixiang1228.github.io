@@ -83,13 +83,13 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 1. ***Deep Convolutional Sparse Coding Network for Pansharpening with Guidance of Side Information.***
 * Shuang Xu, Jiangshe Zhang, Kai Sun, **Zixiang Zhao**, Lu Huang, Junmin Liu, Chunxia Zhang
 * Accepted by **ICME 2021** (Poster)
-* Propose a side information partially guided convolutional sparse coding (SCSC) model for pansharpening
+* Propose a side information partially guided convolutional sparse coding (SCSC) model for pansharpening  
 [*[ArXiv]*](https://arxiv.org/abs/xxxxxxxxxxxxxxxxxxx), [*[Code]*]()
 
 1. ***Deep Gradient Projection Networks for Pan-sharpening.***
 * Shuang Xu, Jiangshe Zhang, **Zixiang Zhao**, Kai Sun, Junmin Liu, Chunxia Zhang
 * Accepted by **CVPR 2021** (Poster)
-* Develop a model-based deep pan-sharpening approach
+* Develop a model-based deep pan-sharpening approach  
 [*[ArXiv]*](https://arxiv.org/abs/xxxxxxxxxxxxxxxxxxx), [*[Code]*]()
 
 1. ***DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion.***

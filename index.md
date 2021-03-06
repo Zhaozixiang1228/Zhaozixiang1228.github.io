@@ -22,8 +22,10 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 
 ---
 # NEWS
-- [2020-07-31] One paper on Bayesian image fusion is accepted by Signal Processing.  
-- [2020-04-23] One paper on data-driven image fusion is accepted by IJCAI2020 [\[Accepted list\]](http://static.ijcai.org/2020-accepted_papers.html).
+- [2021-03-07] Two papers on remote sensing image processing are accepted by **ICME2021** (1 ORAL & 1 POSTER).
+- [2021-03-01] One paper on remote sensing image processing is accepted by **CVPR2021** (POSTER).  
+- [2020-07-31] One paper on Bayesian image fusion is accepted by **Signal Processing**.  
+- [2020-04-23] One paper on data-driven image fusion is accepted by **IJCAI2020** [\[Accepted list\]](http://static.ijcai.org/2020-accepted_papers.html).
 
 ---
 
@@ -33,15 +35,9 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 
 1. ***Domain Adaptive Object Detection via Feature Separation and Alignment.***
 * Chengyang Liang\*, **Zixiang Zhao**\*, Junmin Liu, Jiangshe Zhang
-* Submitted to **CVPR 2021** (Co-first Author) 
+* Submitted to **ICCV 2021** (Co-first Author) 
 * Establish a Feature Separation and Alignment Network (FSANet) for domain adaptive object detection    
 [*[ArXiv]*](https://arxiv.org/abs/2012.08689), [*[Code]*]()
-
-1. ***FGF-GAN: A Lightweight Generative Adversarial Network for Pansharpening via Fast Guided Filter.***
-* **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Kai Sun, Lu Huang, Junmin Liu, Chunxia Zhang
-* Submitted to **ICME 2021**
-* Propose a generative adversarial network via the fast guided filter for pansharpening    
-[*[ArXiv]*](https://arxiv.org/abs/xxxxxxxxxxxxxxxxxxx), [*[Code]*]()
 
 1. ***When Image Decomposition Meets Deep Learning: A Novel Infrared and Visible Image Fusion Method.***
 * **Zixiang Zhao**, Shuang Xu, Rui Feng, Chunxia Zhang, Junmin Liu, Jiangshe Zhang 
@@ -57,7 +53,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 
 1. ***Deep Convolutional Sparse Coding Networks for Image Fusion.***
 * Shuang Xu\*, **Zixiang Zhao**\*, Yicheng Wang, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
-* Submitted to **IEEE Transactions on Circuits and Systems for Video Technology** (Co-first Author) 
+* Submitted to **Information Fusion** (Co-first Author) 
 * Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm    
 [*[Arxiv]*](https://arxiv.org/abs/2005.08448), [*[Code]*]()
 
@@ -77,6 +73,24 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 [*[Paper]*](https://www.sciencedirect.com/science/article/pii/S0165168420302772), [*[ArXiv]*](https://arxiv.org/abs/2005.05839), [*[Code]*](https://github.com/Zhaozixiang1228/Bayesian-Fusion)
 
 ## <u> Conference Papers </u>
+
+1. ***FGF-GAN: A Lightweight Generative Adversarial Network for Pansharpening via Fast Guided Filter.***
+* **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Kai Sun, Lu Huang, Junmin Liu, Chunxia Zhang
+* Accepted by **ICME 2021** (Oral)
+* Propose a generative adversarial network for pansharpening via the fast guided filter and the spatial attention module  
+[*[ArXiv]*](https://arxiv.org/abs/2101.00062), [*[Code]*]()
+
+1. ***Deep Convolutional Sparse Coding Network for Pansharpening with Guidance of Side Information.***
+* Shuang Xu, Jiangshe Zhang, Kai Sun, **Zixiang Zhao**, Lu Huang, Junmin Liu, Chunxia Zhang
+* Accepted by **ICME 2021** (Poster)
+* Propose a side information partially guided convolutional sparse coding (SCSC) model for pansharpening
+[*[ArXiv]*](https://arxiv.org/abs/xxxxxxxxxxxxxxxxxxx), [*[Code]*]()
+
+1. ***Deep Gradient Projection Networks for Pan-sharpening.***
+* Shuang Xu, Jiangshe Zhang, **Zixiang Zhao**, Kai Sun, Junmin Liu, Chunxia Zhang
+* Accepted by **CVPR 2021** (Poster)
+* Develop a model-based deep pan-sharpening approach
+[*[ArXiv]*](https://arxiv.org/abs/xxxxxxxxxxxxxxxxxxx), [*[Code]*]()
 
 1. ***DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion.***
 * **Zixiang Zhao**\*, Shuang Xu\*, Chunxia Zhang, Junmin Liu, Jiangshe Zhang

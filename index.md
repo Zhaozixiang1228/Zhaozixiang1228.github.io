@@ -1,10 +1,10 @@
 <img align="right" src="images//me.jpg" height="360px"/>
 
-My name is **Zixiang Zhao**. I am currently a second year MPhil student in [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang). 
+My name is **Zixiang Zhao**. I am currently a PhD candidate in [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang). 
 
-I obtained my Bachelor's degree from [Northwest University](http://www.nwu.edu.cn/) in China. My current research interests are in **computer vision** and **image fusion**. 
+My current research interests are in **low-level computer vision** and **model-based image processing**.
 
-I am expected to obtain my Master's degree in 2021 and purse **an admission of a PhD program** in the area of deep learning and computer vision.
+I am looking for various cooperation in the area of computer vision and image processing. Please feel free to contact me.
 
 **Email:**  
 *zixiangzhao@stu.xjtu.edu.cn*  
@@ -14,10 +14,12 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 ---
 # CURRENT RESEARCH
 
-1. Image Processing
-   - Image Fusion(infrared and visible)
-   - Image Decomposition
+1. Image Processing (especially in Feature Separation and Information Fusion)
+   - Image Fusion (infrared and visible, remote sensing, multi-focus images)
+   - Multi-modal Image Processing (RGB guided depth super-resolution)
+   - Image Enhancement
 2. Computer Vision
+   - Domain Adaption
 3. Machine Learning
 
 ---
@@ -70,7 +72,7 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * Accepted by **Signal Processing** (IF2019: 4.384)     
 * Established a Bayesian fusion model with a hierarchical Bayesian manner and the total-variation penalty, which can be inferred by the EM algorithm  
-[*[Paper]*](https://www.sciencedirect.com/science/article/pii/S0165168420302772), [*[ArXiv]*](https://arxiv.org/abs/2005.05839), [*[Code]*](https://github.com/Zhaozixiang1228/Bayesian-Fusion)
+[*[Paper]*](https://www.sciencedirect.com/science/article/pii/S0165168420302772), [*[ArXiv]*](https://arxiv.org/abs/2005.05839), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-Bayesian-Fusion)
 
 ## <u> Conference Papers </u>
 
@@ -78,25 +80,25 @@ I am expected to obtain my Master's degree in 2021 and purse **an admission of a
 * **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Kai Sun, Lu Huang, Junmin Liu, Chunxia Zhang
 * Accepted by **ICME 2021** (Oral)
 * Propose a generative adversarial network for pansharpening via the fast guided filter and the spatial attention module  
-[*[ArXiv]*](https://arxiv.org/abs/2101.00062), [*[Code]*]()
+[*[ArXiv]*](https://arxiv.org/abs/2101.00062), [*[Code]*](https://github.com/Zhaozixiang1228/Pansharpening-FGF-GAN)
 
 1. ***Deep Convolutional Sparse Coding Network for Pansharpening with Guidance of Side Information.***
 * Shuang Xu, Jiangshe Zhang, Kai Sun, **Zixiang Zhao**, Lu Huang, Junmin Liu, Chunxia Zhang
 * Accepted by **ICME 2021** (Poster)
 * Propose a side information partially guided convolutional sparse coding (SCSC) model for pansharpening  
-[*[ArXiv]*](https://arxiv.org/abs/xxxxxxxxxxxxxxxxxxx), [*[Code]*]()
+[*[ArXiv]*](https://arxiv.org/abs/2103.05946), [*[Code]*](https://github.com/xsxjtu)
 
 1. ***Deep Gradient Projection Networks for Pan-sharpening.***
 * Shuang Xu, Jiangshe Zhang, **Zixiang Zhao**, Kai Sun, Junmin Liu, Chunxia Zhang
 * Accepted by **CVPR 2021** (Poster)
 * Develop a model-based deep pan-sharpening approach  
-[*[ArXiv]*](https://arxiv.org/abs/xxxxxxxxxxxxxxxxxxx), [*[Code]*]()
+[*[ArXiv]*](https://arxiv.org/abs/2103.04584), [*[Code]*](https://github.com/xsxjtu/GPPNN)
 
 1. ***DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion.***
 * **Zixiang Zhao**\*, Shuang Xu\*, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * Accepted by **IJCAI 2020** (acceptance rate: 12.6%)
 * Proposed a data-driven auto-encoder based network to accomplish the two-scale decomposition for image fusion  
-[*[Paper]*](https://www.ijcai.org/Proceedings/2020/135), [*[ArXiv]*](https://arxiv.org/abs/2003.09210v1), [*[Code]*]()
+[*[Paper]*](https://www.ijcai.org/Proceedings/2020/135), [*[ArXiv]*](https://arxiv.org/abs/2003.09210v1), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-DIDFuse)
 
 ---
 

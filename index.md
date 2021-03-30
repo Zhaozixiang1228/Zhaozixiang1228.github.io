@@ -2,11 +2,11 @@
 
 My name is **Zixiang Zhao**. I am currently a PhD candidate in [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang). 
 
+I also work closely with [Prof. Chunxia Zhang](https://scholar.google.com/citations?user=b5KG5awAAAAJ&hl=zh-CN), [Prof. Junmin Liu](https://scholar.google.com/citations?user=C9lKEu8AAAAJ&hl=zh-CN) and [Doc. Shuang Xu](https://xsxjtu.github.io/).
+
 My current research interests are in **low-level computer vision** and **model-based image processing**.
 
 I am looking for various cooperation in the area of computer vision and image processing. Please feel free to contact me.
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
 
 **Email:**  
 *zixiangzhao@stu.xjtu.edu.cn*  

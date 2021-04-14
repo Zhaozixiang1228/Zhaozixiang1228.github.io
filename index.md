@@ -26,10 +26,11 @@ I am looking for various cooperation in the area of computer vision and image pr
 
 ---
 # NEWS
+- [2021-04-14] One paper on model-driven image fusion is accepted by **IEEE TCSVT**.
 - [2021-03-07] Two papers on remote sensing image processing are accepted by **ICME2021** (1 ORAL & 1 POSTER).
 - [2021-03-01] One paper on remote sensing image processing is accepted by **CVPR2021** (POSTER).  
 - [2020-07-31] One paper on Bayesian image fusion is accepted by **Signal Processing**.  
-- [2020-04-23] One paper on data-driven image fusion is accepted by **IJCAI2020** [\[Accepted list\]](http://static.ijcai.org/2020-accepted_papers.html).
+- [2020-04-23] One paper on data-driven image fusion is accepted by **IJCAI2020**.
 
 ---
 
@@ -49,12 +50,6 @@ I am looking for various cooperation in the area of computer vision and image pr
 * Journal version of IJCAI2020 paper    
 [*[ArXiv]*](https://arxiv.org/abs/2009.01315), [*[Code]*]()
 
-1. ***Efficient and Interpretable Infrared and Visible Image Fusion Via Algorithm Unrolling.***
-* **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
-* Submitted to **IEEE Transactions on Circuits and Systems for Video Technology**
-* Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion  
-[*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*]()
-
 1. ***Deep Convolutional Sparse Coding Networks for Image Fusion.***
 * Shuang Xu\*, **Zixiang Zhao**\*, Yicheng Wang, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * Submitted to **Information Fusion** (Co-first Author) 
@@ -69,6 +64,12 @@ I am looking for various cooperation in the area of computer vision and image pr
 
 
 ## <u> Journal Papers </u>
+
+1. ***Efficient and Model-Based Infrared and Visible Image Fusion via Algorithm Unrolling.***
+* **Zixiang Zhao**, Shuang Xu, Jiangshe Zhang, Junmin Liu, Chunxia Zhang, Junmin Liu
+* Accepted by **IEEE Transactions on Circuits and Systems for Video Technology** (IF2019: 4.133)  
+* Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion  
+[*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-AUIF-Net)
 
 1. ***Bayesian Fusion for Infrared and Visible Images.***
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
@@ -100,7 +101,7 @@ I am looking for various cooperation in the area of computer vision and image pr
 * **Zixiang Zhao**\*, Shuang Xu\*, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * Accepted by **IJCAI 2020** (acceptance rate: 12.6%)
 * Proposed a data-driven auto-encoder based network to accomplish the two-scale decomposition for image fusion  
-[*[Paper]*](https://www.ijcai.org/Proceedings/2020/135), [*[ArXiv]*](https://arxiv.org/abs/2003.09210v1), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-DIDFuse)
+[*[Paper]*](https://www.ijcai.org/Proceedings/2020/135), [*[ArXiv]*](https://arxiv.org/abs/2003.09210v1), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-DIDFuse), [*[Accepted list]*](http://static.ijcai.org/2020-accepted_papers.html)
 
 ---
 

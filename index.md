@@ -83,6 +83,12 @@ I am looking for various cooperation in the area of computer vision and image pr
 * Present a novel generative adversarial network termed MFIF-GAN to translate multi-focus images into focus maps and to get the all-in-focus images further    
 [*[Arxiv]*](https://arxiv.org/abs/2009.09718v2), [*[Code]*]()
 
+1. ***Optimization Algorithm Unfolding Deep Networks of Detail Injection Model for Pansharpening***
+* Yunqiao Feng, Junmin Liu, Kun Chen, Bo Wang, **Zixiang Zhao**
+* Accepted by **IEEE Geoscience and Remote Sensing Letters**
+* Present a  present an algorithm unfolding model for Pansharpening 
+[*[Arxiv]*](https://arxiv.org/abs/xxxxxxx), [*[Code]*]()
+
 ## <u> Conference Papers </u>
 
 1. ***FGF-GAN: A Lightweight Generative Adversarial Network for Pansharpening via Fast Guided Filter.***

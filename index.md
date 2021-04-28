@@ -86,7 +86,7 @@ I am looking for various cooperation in the area of computer vision and image pr
 1. ***Optimization Algorithm Unfolding Deep Networks of Detail Injection Model for Pansharpening***
 * Yunqiao Feng, Junmin Liu, Kun Chen, Bo Wang, **Zixiang Zhao**
 * Accepted by **IEEE Geoscience and Remote Sensing Letters**
-* Present an algorithm unfolding model for Pansharpening 
+* Present an algorithm unfolding model for Pansharpening     
 [*[Arxiv]*](https://arxiv.org/abs/xxxxxxx), [*[Code]*]()
 
 ## <u> Conference Papers </u>

@@ -6,7 +6,7 @@ I also work closely with [Prof. Chunxia Zhang](https://scholar.google.com/citati
 
 My current research interests are in **low-level computer vision** and **model-based image processing**.
 
-I am looking for various cooperation in the area of computer vision and image processing. Please feel free to contact me.
+I'm open to any kinds of collaboration. Please feel free to contact me directly through email.
 
 **Email:**  
 *zixiangzhao@stu.xjtu.edu.cn*  

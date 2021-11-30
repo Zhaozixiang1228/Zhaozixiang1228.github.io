@@ -65,71 +65,63 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 * Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm    
   [*[Arxiv]*](https://arxiv.org/abs/2005.08448), [*[Code]*]()
 
-## `<u>` Journal Papers `</u>`
+## <u> Journal Papers </u>
 
 1. ***Efficient and Model-Based Infrared and Visible Image Fusion via Algorithm Unrolling.***
-
 * **Zixiang Zhao**, Shuang Xu, Jiangshe Zhang, Junmin Liu, Chunxia Zhang, Junmin Liu
 * Accepted by **IEEE Transactions on Circuits and Systems for Video Technology** (IF2019: 4.133)
-* Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion
+* Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9416456), [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-AUIF-Net)
 
 1. ***Bayesian Fusion for Infrared and Visible Images.***
-
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * Accepted by **Signal Processing** (IF2019: 4.384)
-* Established a Bayesian fusion model with a hierarchical Bayesian manner and the total-variation penalty, which can be inferred by the EM algorithm
+* Established a Bayesian fusion model with a hierarchical Bayesian manner and the total-variation penalty, which can be inferred by the EM algorithm    
   [*[Paper]*](https://www.sciencedirect.com/science/article/pii/S0165168420302772), [*[ArXiv]*](https://arxiv.org/abs/2005.05839), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-Bayesian-Fusion)
 
 1. ***MFIF-GAN: A New Generative Adversarial Network for Multi-Focus Image Fusion***
-
 * Yicheng Wang, Shuang Xu, Junmin Liu, **Zixiang Zhao**, Chunxia Zhang, Jiangshe Zhang
 * Accepted by **Signal Processing: Image Communication**
-* Present a novel generative adversarial network termed MFIF-GAN to translate multi-focus images into focus maps and to get the all-in-focus images further
+* Present a novel generative adversarial network termed MFIF-GAN to translate multi-focus images into focus maps and to get the all-in-focus images further    
 [*[Paper]*](https://www.sciencedirect.com/science/article/abs/pii/S0923596521001260), [*[Arxiv]*](https://arxiv.org/abs/2009.09718v2), [*[Code]*]()
 
 1. ***Optimization Algorithm Unfolding Deep Networks of Detail Injection Model for Pansharpening***
-
 * Yunqiao Feng, Junmin Liu, Kun Chen, Bo Wang, **Zixiang Zhao**
 * Accepted by **IEEE Geoscience and Remote Sensing Letters**
-* Present an algorithm unfolding model for Pansharpening
+* Present an algorithm unfolding model for Pansharpening    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9430890), [*[Arxiv]*](https://arxiv.org/abs/xxxxxxx), [*[Code]*]()
 
-## `<u>` Conference Papers `</u>`
+## </u> Conference Papers </u>
 
 1. ***FGF-GAN: A Lightweight Generative Adversarial Network for Pansharpening via Fast Guided Filter.***
-
 * **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Kai Sun, Lu Huang, Junmin Liu, Chunxia Zhang
 * Accepted by **ICME 2021** (Oral)
-* Propose a generative adversarial network for pansharpening via the fast guided filter and the spatial attention module
+* Propose a generative adversarial network for pansharpening via the fast guided filter and the spatial attention module    
   [*[Paper]*](https://ieeexplore.ieee.org/abstract/document/9428272), [*[ArXiv]*](https://arxiv.org/abs/2101.00062), [*[Code]*](https://github.com/Zhaozixiang1228/Pansharpening-FGF-GAN)
 
 1. ***Deep Convolutional Sparse Coding Network for Pansharpening with Guidance of Side Information.***
-
 * Shuang Xu, Jiangshe Zhang, Kai Sun, **Zixiang Zhao**, Lu Huang, Junmin Liu, Chunxia Zhang
 * Accepted by **ICME 2021** (Poster)
-* Propose a side information partially guided convolutional sparse coding (SCSC) model for pansharpening
+* Propose a side information partially guided convolutional sparse coding (SCSC) model for pansharpening    
   [*[Paper]*](https://ieeexplore.ieee.org/abstract/document/9428131), [*[ArXiv]*](https://arxiv.org/abs/2103.05946), [*[Code]*](https://github.com/xsxjtu)
 
 1. ***Deep Gradient Projection Networks for Pan-sharpening.***
-
 * Shuang Xu, Jiangshe Zhang, **Zixiang Zhao**, Kai Sun, Junmin Liu, Chunxia Zhang
 * Accepted by **CVPR 2021** (Poster)
-* Develop a model-based deep pan-sharpening approach
+* Develop a model-based deep pan-sharpening approach    
   *[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Xu_Deep_Gradient_Projection_Networks_for_Pan-sharpening_CVPR_2021_paper.html)*, [*[ArXiv]*](https://arxiv.org/abs/2103.04584), [*[Code]*](https://github.com/xsxjtu/GPPNN)
 
 1. ***DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion.***
-
 * **Zixiang Zhao**\*, Shuang Xu\*, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * Accepted by **IJCAI 2020** (acceptance rate: 12.6%)
-* Proposed a data-driven auto-encoder based network to accomplish the two-scale decomposition for image fusion
+* Proposed a data-driven auto-encoder based network to accomplish the two-scale decomposition for image fusion    
   [*[Paper]*](https://www.ijcai.org/Proceedings/2020/135), [*[ArXiv]*](https://arxiv.org/abs/2003.09210v1), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-DIDFuse), [*[Accepted list]*](http://static.ijcai.org/2020-accepted_papers.html)
 
 ---
 
 # Professional Services
 
-## `<u>` PC Member | Reviewer `</u>`
+## </u> PC Member | Reviewer </u>
 
 ### Conferences 
 
@@ -144,7 +136,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 * Signal Processing
 * IEEE Signal Processing Letters (SPL)
 
-## `<u>` Membership `</u>`
+## </u> Membership </u>
 * AI TIME PhD Branch Leader
 
 
@@ -152,11 +144,11 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 # Selected Talks
 
-* 2021 IJCAI-SAIA Young Elite Symposium: Deep Image Decomposition for Infrared and Visible Image Fusion [[video (in Chinese)]](http://www.ijcai-saia-yes.org.cn/#/conferee).\
+* 2021 IJCAI-SAIA Young Elite Symposium: Deep Image Decomposition for Infrared and Visible Image Fusion [[video (in Chinese)]](http://www.ijcai-saia-yes.org.cn/#/conferee).    
 at: [07/2021] World Artificial Intelligence Conference & Shanghai Jiao Tong University, Shanghai, China
 
-* AI TIME PhD Debate: Opportunities and Challenges in multimodal learning [[video (in Chinese)]](https://www.bilibili.com/video/BV14p4y1s77p).\
+* AI TIME PhD Debate: Opportunities and Challenges in multimodal learning [[video (in Chinese)]](https://www.bilibili.com/video/BV14p4y1s77p).    
 at: [07/2021] AI TIME & AMiner, Beijing, China
 
-* AI TIME PhD Presentation (IJCAI Branch): Deep Image Decomposition for Infrared and Visible Image Fusion [[video (in Chinese)]](https://www.bilibili.com/video/BV15h411h7M6).\
+* AI TIME PhD Presentation (IJCAI Branch): Deep Image Decomposition for Infrared and Visible Image Fusion [[video (in Chinese)]](https://www.bilibili.com/video/BV15h411h7M6).    
 at: [01/2021] AI TIME & AMiner, Beijing, China

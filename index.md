@@ -144,11 +144,11 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 # Selected Talks
 
-* 2021 IJCAI-SAIA Young Elite Symposium: Deep Image Decomposition for Infrared and Visible Image Fusion [[video (in Chinese)]](http://www.ijcai-saia-yes.org.cn/#/conferee).    
+* 2021 IJCAI-SAIA Young Elite Symposium: Deep Image Decomposition for Infrared and Visible Image Fusion [[video (Chinese)]](http://www.ijcai-saia-yes.org.cn/#/conferee).    
 at: [07/2021] World Artificial Intelligence Conference & Shanghai Jiao Tong University, Shanghai, China
 
-* AI TIME PhD Debate: Opportunities and Challenges in multimodal learning [[video (in Chinese)]](https://www.bilibili.com/video/BV14p4y1s77p).    
+* AI TIME PhD Debate: Opportunities and Challenges in multimodal learning [[video (Chinese)]](https://www.bilibili.com/video/BV14p4y1s77p).    
 at: [07/2021] AI TIME & AMiner, Beijing, China
 
-* AI TIME PhD Presentation (IJCAI Branch): Deep Image Decomposition for Infrared and Visible Image Fusion [[video (in Chinese)]](https://www.bilibili.com/video/BV15h411h7M6).    
+* AI TIME PhD Presentation (IJCAI Branch): Deep Image Decomposition for Infrared and Visible Image Fusion [[video (Chinese)]](https://www.bilibili.com/video/BV15h411h7M6).    
 at: [01/2021] AI TIME & AMiner, Beijing, China

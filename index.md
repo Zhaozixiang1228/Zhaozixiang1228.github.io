@@ -1,4 +1,4 @@
-<img align="right" src="images//me.jpg" height="360px"/>
+<img align="right" src="images//me.jpg" height="300px"/>
 
 My name is **Zixiang Zhao**. I am currently a PhD candidate in [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi&#39;an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang).
 
@@ -91,7 +91,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 * Present an algorithm unfolding model for Pansharpening    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9430890), [*[Arxiv]*](https://arxiv.org/abs/xxxxxxx), [*[Code]*]()
 
-## </u> Conference Papers </u>
+## <u> Conference Papers </u>
 
 1. ***FGF-GAN: A Lightweight Generative Adversarial Network for Pansharpening via Fast Guided Filter.***
 * **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Kai Sun, Lu Huang, Junmin Liu, Chunxia Zhang
@@ -121,7 +121,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 # Professional Services
 
-## </u> PC Member | Reviewer </u>
+## <u> PC Member | Reviewer </u>
 
 ### Conferences 
 
@@ -136,7 +136,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 * Signal Processing
 * IEEE Signal Processing Letters (SPL)
 
-## </u> Membership </u>
+## <u> Membership </u>
 * AI TIME PhD Branch Leader
 
 

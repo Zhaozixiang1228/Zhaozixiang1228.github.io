@@ -90,7 +90,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 * Yicheng Wang, Shuang Xu, Junmin Liu, **Zixiang Zhao**, Chunxia Zhang, Jiangshe Zhang
 * Accepted by **Signal Processing: Image Communication**
 * Present a novel generative adversarial network termed MFIF-GAN to translate multi-focus images into focus maps and to get the all-in-focus images further
-  [*[Paper]*](https://www.sciencedirect.com/science/article/abs/pii/S0923596521001260), [*[Arxiv]*](https://arxiv.org/abs/2009.09718v2), [*[Code]*]()
+[*[Paper]*](https://www.sciencedirect.com/science/article/abs/pii/S0923596521001260), [*[Arxiv]*](https://arxiv.org/abs/2009.09718v2), [*[Code]*]()
 
 1. ***Optimization Algorithm Unfolding Deep Networks of Detail Injection Model for Pansharpening***
 
@@ -130,3 +130,37 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
   [*[Paper]*](https://www.ijcai.org/Proceedings/2020/135), [*[ArXiv]*](https://arxiv.org/abs/2003.09210v1), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-DIDFuse), [*[Accepted list]*](http://static.ijcai.org/2020-accepted_papers.html)
 
 ---
+
+# Professional Services
+
+## `<u>` PC Member | Reviewer `</u>`
+
+### Conferences 
+
+* International Joint Conference on Artificial Intelligence (IJCAI)
+* AAAI Conference on Artificial Intelligence (AAAI)
+
+### Journals 
+
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+* IEEE Transactions on Knowledge and Data Engineering (TKDE)
+* Signal Processing
+* IEEE Signal Processing Letters (SPL)
+
+## `<u>` Membership `</u>`
+* AI TIME PhD Branch Leader
+
+
+---
+
+# Selected Talks
+
+* 2021 IJCAI-SAIA Young Elite Symposium: Deep Image Decomposition for Infrared and Visible Image Fusion [[video (in Chinese)]](http://www.ijcai-saia-yes.org.cn/#/conferee).\
+at: [07/2021] World Artificial Intelligence Conference & Shanghai Jiao Tong University, Shanghai, China
+
+* AI TIME PhD Debate: Opportunities and Challenges in multimodal learning [[video (in Chinese)]](https://www.bilibili.com/video/BV14p4y1s77p).\
+at: [07/2021] AI TIME & AMiner, Beijing, China
+
+* AI TIME PhD Presentation (IJCAI Branch): Deep Image Decomposition for Infrared and Visible Image Fusion [[video (in Chinese)]](https://www.bilibili.com/video/BV15h411h7M6).\
+at: [01/2021] AI TIME & AMiner, Beijing, China

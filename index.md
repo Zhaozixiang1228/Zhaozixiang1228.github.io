@@ -1,4 +1,4 @@
-<img align="right" src="images//me.jpg" height="280px"/>
+<img align="right" src="images//me.jpg" height="300px"/>
 
 My name is **Zixiang Zhao** (赵子祥, pronounced 'Tzu-Hsiang Chao'). I am currently a PhD student in [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang).
 

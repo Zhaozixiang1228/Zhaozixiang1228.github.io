@@ -1,6 +1,6 @@
 <img align="right" src="images//me.jpg" height="300px"/>
 
-My name is **Zixiang Zhao**. I am currently a PhD candidate in [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi&#39;an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang).
+My name is **Zixiang Zhao**. I am currently a PhD candidate in [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang).
 
 I also work closely with [Prof. Chunxia Zhang](https://scholar.google.com/citations?user=b5KG5awAAAAJ&hl=zh-CN), [Assoc. Prof. Junmin Liu](https://scholar.google.com/citations?user=C9lKEu8AAAAJ&hl=zh-CN) and [Doc. Shuang Xu](https://xsxjtu.github.io/).
 

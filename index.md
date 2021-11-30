@@ -8,10 +8,10 @@ My current research interests are in **low-level computer vision** and **model-b
 
 I'm open to any kinds of collaboration. Please feel free to contact me directly through email.
 
-**Email:**
-*zixiangzhao@stu.xjtu.edu.cn*
-*zxzhao.xjtu@hotmail.com*
-*zixiangzhao@foxmail.com*
+**Email:**  
+*zixiangzhao@stu.xjtu.edu.cn*  
+*zxzhao.xjtu@hotmail.com*  
+*zixiangzhao@foxmail.com*  
 
 ---
 
@@ -39,34 +39,30 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 # PUBLICATIONS
 
-## `<u>` Preprint `</u>`
+## <u> Preprint </u>
 
 1. ***Discrete Cosine Transform Network for Guided Depth Map Super-Resolution.***
-
 * **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Chunxia Zhang, Junmin Liu
 * Submitted to **ICCV 2021**
-* Propose an advanced Discrete Cosine Transform Network (DCTNet) for guided depth super-resolution
-  [*[ArXiv]*](https://arxiv.org/abs/2104.06977), [*[Code]*]()
+* Propose an advanced Discrete Cosine Transform Network (DCTNet) for guided depth super-resolution    
+[*[ArXiv]*](https://arxiv.org/abs/2104.06977), [*[Code]*]()
 
 1. ***Domain Adaptive Object Detection via Feature Separation and Alignment.***
-
 * Chengyang Liang\*, **Zixiang Zhao**\*, Junmin Liu, Jiangshe Zhang
 * Submitted to **ICCV 2021** (Co-first Author)
-* Establish a Feature Separation and Alignment Network (FSANet) for domain adaptive object detection
-  [*[ArXiv]*](https://arxiv.org/abs/2012.08689), [*[Code]*]()
+* Establish a Feature Separation and Alignment Network (FSANet) for domain adaptive object detection    
+[*[ArXiv]*](https://arxiv.org/abs/2012.08689), [*[Code]*]()
 
 1. ***When Image Decomposition Meets Deep Learning: A Novel Infrared and Visible Image Fusion Method.***
-
 * **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Kai Sun, Chunxia Zhang, Junmin Liu
 * Submitted to **IEEE Transactions on Neural Networks and Learning Systems**
-* Journal version of IJCAI2020 paper
+* Journal version of IJCAI2020 paper    
   [*[ArXiv]*](https://arxiv.org/abs/2009.01315), [*[Code]*]()
 
 1. ***Deep Convolutional Sparse Coding Networks for Image Fusion.***
-
 * Shuang Xu\*, **Zixiang Zhao**\*, Yicheng Wang, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * Submitted to **Information Fusion** (Co-first Author)
-* Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm
+* Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm    
   [*[Arxiv]*](https://arxiv.org/abs/2005.08448), [*[Code]*]()
 
 ## `<u>` Journal Papers `</u>`

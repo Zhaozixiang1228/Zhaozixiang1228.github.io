@@ -150,9 +150,9 @@ at: [07/2021] AI TIME & AMiner, Beijing, China
 * AI TIME PhD Presentation (IJCAI Branch): Deep Image Decomposition for Infrared and Visible Image Fusion [[video (Chinese)]](https://www.bilibili.com/video/BV15h411h7M6).    
 at: [01/2021] AI TIME & AMiner, Beijing, China
 
-# More about me!
+---
 
-<img align="right" src="images//me.jpg" height="300px"/>
+# More about me!
 
 - a die-hard fan of Kobe Bryant and Los Angeles Lakers
 - have a passion for basketball and participate in CUBA (Chinese University Basketball Association)

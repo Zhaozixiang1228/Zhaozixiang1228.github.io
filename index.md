@@ -65,17 +65,17 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 * Propose an advanced Discrete Cosine Transform Network (DCTNet) for guided depth super-resolution    
 [*[ArXiv]*](https://arxiv.org/abs/2104.06977), [*[Code]*]()
 
-1. ***Deep Gradient Projection Networks for Pan-sharpening.***
-* Shuang Xu, Jiangshe Zhang, **Zixiang Zhao**, Kai Sun, Junmin Liu, Chunxia Zhang
-* Accepted by **CVPR 2021** (Poster)
-* Develop a model-based deep pan-sharpening approach    
-  *[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Xu_Deep_Gradient_Projection_Networks_for_Pan-sharpening_CVPR_2021_paper.html)*, [*[ArXiv]*](https://arxiv.org/abs/2103.04584), [*[Code]*](https://github.com/xsxjtu/GPPNN)
-
 1. ***Efficient and Model-Based Infrared and Visible Image Fusion via Algorithm Unrolling.***
 * **Zixiang Zhao**, Shuang Xu, Jiangshe Zhang, Junmin Liu, Chunxia Zhang, Junmin Liu
 * Accepted by **IEEE Transactions on Circuits and Systems for Video Technology** (IF2019: 4.133)
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9416456), [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-AUIF-Net)
+
+1. ***Deep Gradient Projection Networks for Pan-sharpening.***
+* Shuang Xu, Jiangshe Zhang, **Zixiang Zhao**, Kai Sun, Junmin Liu, Chunxia Zhang
+* Accepted by **CVPR 2021** (Poster)
+* Develop a model-based deep pan-sharpening approach    
+  *[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Xu_Deep_Gradient_Projection_Networks_for_Pan-sharpening_CVPR_2021_paper.html)*, [*[ArXiv]*](https://arxiv.org/abs/2103.04584), [*[Code]*](https://github.com/xsxjtu/GPPNN)
 
 1. ***FGF-GAN: A Lightweight Generative Adversarial Network for Pansharpening via Fast Guided Filter.***
 * **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Kai Sun, Lu Huang, Junmin Liu, Chunxia Zhang

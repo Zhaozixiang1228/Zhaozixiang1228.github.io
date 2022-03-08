@@ -2,6 +2,10 @@
 
 My name is **Zixiang Zhao** (赵子祥, pronounced 'Tzu-Hsiang Chao'). I am currently a PhD student in [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang).
 
+<!--
+I am a Joint Ph.D. student at Visual Computing Group, Harvard University, supervised by Prof. Hanspeter Pfister.
+-->
+
 I also work closely with [Prof. Chunxia Zhang](https://scholar.google.com/citations?user=b5KG5awAAAAJ&hl=zh-CN), [Assoc. Prof. Junmin Liu](https://scholar.google.com/citations?user=C9lKEu8AAAAJ&hl=zh-CN) and [Doc. Shuang Xu](https://xsxjtu.github.io/).
 
 My research lies at **low-level computer vision** and **model-based image processing**, and my current research is **multi-modal image processing**.
@@ -30,6 +34,9 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 # NEWS
 
 - [2022-03-02] One paper on guided depth map super-resolution is accepted by **CVPR 2022**.
+<!--
+- [2022-05-20] I win the Innovative Leading Talents Scholarship of Xi'an Jiaotong University, which will support me as a joint (or visiting) Ph.D. student at Harvard University for a year. See you in Boston!
+-->
 - [2021-04-14] One paper on model-driven image fusion is accepted by **IEEE TCSVT**.
 - [2021-03-07] Two papers on remote sensing image processing are accepted by **ICME 2021** (1 ORAL & 1 POSTER).
 - [2021-03-01] One paper on remote sensing image processing is accepted by **CVPR 2021** (POSTER).

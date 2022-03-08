@@ -1,4 +1,4 @@
-<img align="right" src="images//me.jpg" height="300px"/>
+<img align="right" src="images//photo.jpg" height="300px"/>
 
 My name is **Zixiang Zhao** (赵子祥, pronounced 'Tzu-Hsiang Chao'). I am currently a PhD student in [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang).
 
@@ -149,3 +149,12 @@ at: [07/2021] AI TIME & AMiner, Beijing, China
 
 * AI TIME PhD Presentation (IJCAI Branch): Deep Image Decomposition for Infrared and Visible Image Fusion [[video (Chinese)]](https://www.bilibili.com/video/BV15h411h7M6).    
 at: [01/2021] AI TIME & AMiner, Beijing, China
+
+# More about me!
+
+<img align="right" src="images//me.jpg" height="300px"/>
+
+- a die-hard fan of Kobe Bryant and Los Angeles Lakers
+- have a passion for basketball and participate in CUBA (Chinese University Basketball Association)
+- love swimming, skiing, singing...
+- a little guitar and violin

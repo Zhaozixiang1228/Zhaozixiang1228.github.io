@@ -33,7 +33,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 - [2022-03-02] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (Oral Presentation) </font>**.
 - [2021-04-14] One paper on model-driven image fusion is accepted by **IEEE TCSVT**.
-- [2021-03-07] Two papers on remote sensing image processing are accepted by **ICME 2021** (<font color='red'>1  ORAL </font> & 1 POSTER).
+- [2021-03-07] Two papers on remote sensing image processing are accepted by **ICME 2021** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
 - [2021-03-01] One paper on remote sensing image processing is accepted by **CVPR 2021** (POSTER).
 - [2020-07-31] One paper on Bayesian image fusion is accepted by **Signal Processing**.
 - [2020-04-23] One paper on data-driven image fusion is accepted by **IJCAI 2020**.

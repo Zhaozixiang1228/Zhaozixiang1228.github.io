@@ -2,11 +2,9 @@
 
 My name is **Zixiang Zhao** (赵子祥, pronounced 'Tzu-Hsiang Chao'). I am currently a PhD student in [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang).
 
-<!--
-I am a Joint Ph.D. student at Visual Computing Group, Harvard University, supervised by Prof. Hanspeter Pfister.
--->
+I am a Joint Ph.D. student at [Visual Computing Group](https://vcg.seas.harvard.edu/), [Harvard University](https://www.harvard.edu/), supervised by [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people).
 
-I also work closely with [Prof. Chunxia Zhang](https://scholar.google.com/citations?user=b5KG5awAAAAJ&hl=zh-CN), [Assoc. Prof. Junmin Liu](https://scholar.google.com/citations?user=C9lKEu8AAAAJ&hl=zh-CN) and [Doc. Shuang Xu](https://xsxjtu.github.io/).
+I also work closely with [Prof. Chunxia Zhang](https://scholar.google.com/citations?user=b5KG5awAAAAJ&hl=zh-CN), [Prof. Junmin Liu](https://scholar.google.com/citations?user=C9lKEu8AAAAJ&hl=zh-CN) and [Doc. Shuang Xu](https://shuangxu96.github.io/).
 
 My research lies at **low-level computer vision** and **model-based image processing**, and my current research is **multi-modal image processing**.
 
@@ -44,30 +42,13 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 # PUBLICATIONS
 
-## <u> Preprint </u>
-
-1. ***Domain Adaptive Object Detection via Feature Separation and Alignment.***
-* Chengyang Liang\*, **Zixiang Zhao**\*, Junmin Liu, Jiangshe Zhang
-* Establish a Feature Separation and Alignment Network (FSANet) for domain adaptive object detection    
-[*[ArXiv]*](https://arxiv.org/abs/2012.08689), [*[Code]*]()
-
-1. ***When Image Decomposition Meets Deep Learning: A Novel Infrared and Visible Image Fusion Method.***
-* **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Kai Sun, Chunxia Zhang, Junmin Liu
-* Journal version of IJCAI2020 paper    
-  [*[ArXiv]*](https://arxiv.org/abs/2009.01315), [*[Code]*]()
-
-1. ***Deep Convolutional Sparse Coding Networks for Image Fusion.***
-* Shuang Xu\*, **Zixiang Zhao**\*, Yicheng Wang, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
-* Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm    
-  [*[Arxiv]*](https://arxiv.org/abs/2005.08448), [*[Code]*]()
-
 ## <u> Selected Publications </u>
 
 1. ***Discrete Cosine Transform Network for Guided Depth Map Super-Resolution.***
 * **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Zudi Lin, Hanspeter Pfister
-* Accepted by **CVPR 2022** 
+* Accepted by **CVPR 2022** <font color='red'> **(Oral)** </font>
 * Propose an advanced Discrete Cosine Transform Network (DCTNet) for guided depth super-resolution    
-[*[ArXiv]*](https://arxiv.org/abs/2104.06977), [*[Code]*]()
+  [*[Paper]*](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Discrete_Cosine_Transform_Network_for_Guided_Depth_Map_Super-Resolution_CVPR_2022_paper.html), [*[ArXiv]*](https://arxiv.org/abs/2104.06977), [*[Code]*](https://github.com/Zhaozixiang1228/GDSR-DCTNet)
 
 1. ***Efficient and Model-Based Infrared and Visible Image Fusion via Algorithm Unrolling.***
 * **Zixiang Zhao**, Shuang Xu, Jiangshe Zhang, Junmin Liu, Chunxia Zhang, Junmin Liu
@@ -91,7 +72,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 * Shuang Xu, Jiangshe Zhang, Kai Sun, **Zixiang Zhao**, Lu Huang, Junmin Liu, Chunxia Zhang
 * Accepted by **ICME 2021** (Poster)
 * Propose a side information partially guided convolutional sparse coding (SCSC) model for pansharpening    
-  [*[Paper]*](https://ieeexplore.ieee.org/abstract/document/9428131), [*[ArXiv]*](https://arxiv.org/abs/2103.05946), [*[Code]*](https://github.com/xsxjtu)
+  [*[Paper]*](https://ieeexplore.ieee.org/abstract/document/9428131), [*[ArXiv]*](https://arxiv.org/abs/2103.05946), [*[Code]*](https://github.com/shuangxu96/CSC-MMFN)
 
 1. ***DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion.***
 * **Zixiang Zhao**\*, Shuang Xu\*, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
@@ -116,6 +97,24 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 * Accepted by **IEEE Geoscience and Remote Sensing Letters**
 * Present an algorithm unfolding model for Pansharpening    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9430890), [*[Arxiv]*](https://arxiv.org/abs/xxxxxxx), [*[Code]*]()
+
+## <u> Preprint </u>
+
+1. ***Domain Adaptive Object Detection via Feature Separation and Alignment.***
+* Chengyang Liang\*, **Zixiang Zhao**\*, Junmin Liu, Jiangshe Zhang
+* Establish a Feature Separation and Alignment Network (FSANet) for domain adaptive object detection    
+[*[ArXiv]*](https://arxiv.org/abs/2012.08689), [*[Code]*]()
+
+1. ***When Image Decomposition Meets Deep Learning: A Novel Infrared and Visible Image Fusion Method.***
+* **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Kai Sun, Chunxia Zhang, Junmin Liu
+* Journal version of IJCAI2020 paper    
+  [*[ArXiv]*](https://arxiv.org/abs/2009.01315), [*[Code]*]()
+
+1. ***Deep Convolutional Sparse Coding Networks for Image Fusion.***
+* Shuang Xu\*, **Zixiang Zhao**\*, Yicheng Wang, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
+* Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm    
+  [*[Arxiv]*](https://arxiv.org/abs/2005.08448), [*[Code]*]()
+
 
 ---
 

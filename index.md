@@ -31,7 +31,11 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 # NEWS
 
+<!--
 - [2022-03-02] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (Oral Presentation) </font>**.
+-->
+- [**<font color='red'>HOT</font>**] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (Oral Presentation) </font>**.
+- [2022-06-27] One paper on seismic data processing is accepted by **IEEE TGRS**.
 - [2021-04-14] One paper on model-driven image fusion is accepted by **IEEE TCSVT**.
 - [2021-03-07] Two papers on remote sensing image processing are accepted by **ICME 2021** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
 - [2021-03-01] One paper on remote sensing image processing is accepted by **CVPR 2021** (POSTER).
@@ -55,6 +59,12 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 * Accepted by **IEEE Transactions on Circuits and Systems for Video Technology** (IF2019: 4.133)
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9416456), [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-AUIF-Net)
+
+1. ***Automatic Velocity Picking Using a Multi-Information Fusion Deep Semantic Segmentation Network.***
+* Hongtao Wang, Jiangshe Zhang, **Zixiang Zhao**, Chunxia Zhang, Long li, Zhiyu Yang, Weifeng Geng
+* Accepted by **IEEE Transactions on Geoscience and Remote Sensing** 
+* Propose a multi-information fusion network to estimate stacking velocity from the fusion information of velocity spectra    
+  [*[Paper]*](), [*[Arxiv]*](), [*[Code]*]()
 
 1. ***Deep Gradient Projection Networks for Pan-sharpening.***
 * Shuang Xu, Jiangshe Zhang, **Zixiang Zhao**, Kai Sun, Junmin Liu, Chunxia Zhang

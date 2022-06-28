@@ -4,7 +4,7 @@ My name is **Zixiang Zhao** (赵子祥, pronounced 'Tzu-Hsiang Chao'). I am curr
 
 I work closely with [Prof. Chunxia Zhang](https://scholar.google.com/citations?user=b5KG5awAAAAJ&hl=zh-CN), [Prof. Junmin Liu](https://scholar.google.com/citations?user=C9lKEu8AAAAJ&hl=zh-CN) and [Doc. Shuang Xu](https://shuangxu96.github.io/) in Xi'an Jiaotong University.
 
-I am also a visiting Ph.D. student (remote now) at [Visual Computing Group](https://vcg.seas.harvard.edu/), [Harvard University](https://www.harvard.edu/), supervised by [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people) and work closely with [Doc. Zudi Lin](https://zudi-lin.github.io/).
+I am also a visiting Ph.D. student at [Visual Computing Group](https://vcg.seas.harvard.edu/), [Harvard University](https://www.harvard.edu/), supervised by [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people) and work closely with [Doc. Zudi Lin](https://zudi-lin.github.io/).
 
 My research lies at **low-level computer vision** and **model-based image processing**, and my current research is **multi-modal image processing**.
 

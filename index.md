@@ -47,13 +47,16 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 # PUBLICATIONS
 
 ## <u> Selected Publications </u>
-
-<img align="left" src="images//paper_image//DCTNet.png" height="300px"/>
+<div>
+<img align="left" src="images//paper_image//DCTNet.png" height="150px"/>
+<span>
 1. ***Discrete Cosine Transform Network for Guided Depth Map Super-Resolution.***
 * **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Zudi Lin, Hanspeter Pfister
 * Accepted by **CVPR 2022** **<font color='red'> (Oral Presentation) </font>**
 * Propose an advanced Discrete Cosine Transform Network (DCTNet) for guided depth super-resolution    
   [*[Paper]*](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Discrete_Cosine_Transform_Network_for_Guided_Depth_Map_Super-Resolution_CVPR_2022_paper.html), [*[ArXiv]*](https://arxiv.org/abs/2104.06977), [*[Code]*](https://github.com/Zhaozixiang1228/GDSR-DCTNet)
+</span>
+</div>
 
 1. ***Efficient and Model-Based Infrared and Visible Image Fusion via Algorithm Unrolling.***
 * **Zixiang Zhao**, Shuang Xu, Jiangshe Zhang, Junmin Liu, Chunxia Zhang, Junmin Liu

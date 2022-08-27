@@ -4,7 +4,7 @@ My name is **Zixiang Zhao** (赵子祥, pronounced 'Tzu-Hsiang Chao'). I am curr
 
 I work closely with [Prof. Chunxia Zhang](https://scholar.google.com/citations?user=b5KG5awAAAAJ&hl=zh-CN), [Prof. Junmin Liu](https://scholar.google.com/citations?user=C9lKEu8AAAAJ&hl=zh-CN) and [Doc. Shuang Xu](https://shuangxu96.github.io/) in Xi'an Jiaotong University.
 
-I am also a Joint Ph.D. student at [Visual Computing Group](https://vcg.seas.harvard.edu/), [Harvard University](https://www.harvard.edu/), supervised by [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people) and work closely with [Doc. Zudi Lin](https://zudi-lin.github.io/).
+I am also a visiting Ph.D. student at [Visual Computing Group](https://vcg.seas.harvard.edu/), [Harvard University](https://www.harvard.edu/), supervised by [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people) and work closely with [Doc. Zudi Lin](https://zudi-lin.github.io/).
 
 My research lies at **low-level computer vision** and **model-based image processing**, and my current research is **multi-modal image processing**.
 
@@ -31,7 +31,11 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 # NEWS
 
+<!--
 - [2022-03-02] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (Oral Presentation) </font>**.
+-->
+- [**<font color='red'>HOT</font>**] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (Oral Presentation) </font>**.
+- [2022-06-27] One paper on seismic data processing is accepted by **IEEE TGRS**.
 - [2021-04-14] One paper on model-driven image fusion is accepted by **IEEE TCSVT**.
 - [2021-03-07] Two papers on remote sensing image processing are accepted by **ICME 2021** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
 - [2021-03-01] One paper on remote sensing image processing is accepted by **CVPR 2021** (POSTER).
@@ -56,6 +60,12 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 * Accepted by **IEEE Transactions on Circuits and Systems for Video Technology** (IF2019: 4.133)
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9416456), [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-AUIF-Net)
+
+1. ***Automatic Velocity Picking Using a Multi-Information Fusion Deep Semantic Segmentation Network.***
+* Hongtao Wang, Jiangshe Zhang, **Zixiang Zhao**, Chunxia Zhang, Long li, Zhiyu Yang, Weifeng Geng
+* Accepted by **IEEE Transactions on Geoscience and Remote Sensing** 
+* Propose a multi-information fusion network to estimate stacking velocity from the fusion information of velocity spectra    
+  [*[Paper]*](), [*[Arxiv]*](), [*[Code]*]()
 
 1. ***Deep Gradient Projection Networks for Pan-sharpening.***
 * Shuang Xu, Jiangshe Zhang, **Zixiang Zhao**, Kai Sun, Junmin Liu, Chunxia Zhang

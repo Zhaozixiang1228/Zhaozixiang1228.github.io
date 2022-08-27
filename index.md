@@ -44,6 +44,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 ## <u> Selected Publications </u>
 
+<img align="left" src="images//paper_image//DCTNet.png" height="300px"/>
 1. ***Discrete Cosine Transform Network for Guided Depth Map Super-Resolution.***
 * **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Zudi Lin, Hanspeter Pfister
 * Accepted by **CVPR 2022** **<font color='red'> (Oral Presentation) </font>**

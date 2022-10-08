@@ -2,9 +2,11 @@
 
 My name is **Zixiang Zhao** (赵子祥, pronounced 'Tzu-Hsiang Chao'). I am currently a PhD student in [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang).
 
-I work closely with [Prof. Chunxia Zhang](https://scholar.google.com/citations?user=b5KG5awAAAAJ&hl=zh-CN), [Prof. Junmin Liu](https://scholar.google.com/citations?user=C9lKEu8AAAAJ&hl=zh-CN) and [Doc. Shuang Xu](https://shuangxu96.github.io/) in Xi'an Jiaotong University.
+I am now a visiting Ph.D. student in the great [Computer Vision Lab](https://vision.ee.ethz.ch/), ETH Zürich, Switzerland, supervised by [Prof. Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html) and working closely with [Doc. Yulun Zhang](http://yulunzhang.com/). 
 
-I am also a visiting Ph.D. student at [Visual Computing Group](https://vcg.seas.harvard.edu/), [Harvard University](https://www.harvard.edu/), supervised by [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people) and work closely with [Doc. Zudi Lin](https://zudi-lin.github.io/).
+I have been fortunate enough to work as a Research Assistant at [Visual Computing Group](https://vcg.seas.harvard.edu/), [Harvard University](https://www.harvard.edu/), supervised by [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people) and work closely with [Doc. Zudi Lin](https://zudi-lin.github.io/).
+
+I also work closely with [Prof. Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng) and [Assoc. Prof. Shuang Xu](https://shuangxu96.github.io/) in Xi'an Jiaotong University.
 
 My research lies at **low-level computer vision** and **model-based image processing**, and my current research is **multi-modal image processing**.
 

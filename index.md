@@ -148,7 +148,8 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 * IEEE Signal Processing Letters (SPL)
 
 ## <u> Membership </u>
-* IEEE Student Member
+* IEEE Graduate Student Member
+* VALSE (Vision and Learning SEminar) Student Club Member
 * AI TIME PhD Branch Leader
 
 ---

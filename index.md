@@ -37,7 +37,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 - [2022-03-02] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (Oral Presentation) </font>**.
 -->
 - [**<font color='red'>HOT</font>**] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (Oral Presentation) </font>**.
-- [2022-06-27] One paper on seismic data processing is accepted by **IEEE TGRS**.
+- [2022-06-27] Two papers on seismic data processing are accepted by **IEEE TGRS**.
 - [2021-04-14] One paper on model-driven image fusion is accepted by **IEEE TCSVT**.
 - [2021-03-07] Two papers on remote sensing image processing are accepted by **ICME 2021** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
 - [2021-03-01] One paper on remote sensing image processing is accepted by **CVPR 2021** (POSTER).
@@ -61,6 +61,12 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 * Accepted by **IEEE Transactions on Circuits and Systems for Video Technology** (IF2019: 4.133)
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9416456), [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-AUIF-Net)
+
+1. ***Hybrid Loss Guided Coarse-to-fine Model for Seismic Data Consecutively Missing Trace Reconstruction.***
+* Xiaoli Wei, Chunxia Zhang, Hongtao Wang, **Zixiang Zhao**, Deng Xiong, Shuang Xu, Jiangshe Zhang, Sang-Woon Kim
+* Accepted by **IEEE Transactions on Geoscience and Remote Sensing** 
+* Propose a coarse-to-fine seismic data consecutively missing traces interpolation    
+  [*[Paper]*](), [*[Arxiv]*](), [*[Code]*]()
 
 1. ***Automatic Velocity Picking Using a Multi-Information Fusion Deep Semantic Segmentation Network.***
 * Hongtao Wang, Jiangshe Zhang, **Zixiang Zhao**, Chunxia Zhang, Long li, Zhiyu Yang, Weifeng Geng
@@ -137,6 +143,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 * International Joint Conference on Artificial Intelligence (IJCAI)
 * AAAI Conference on Artificial Intelligence (AAAI)
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 
 ### Journals 
 
@@ -156,13 +163,19 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 # Selected Talks
 
-* 2021 IJCAI-SAIA Young Elite Symposium: Deep Image Decomposition for Infrared and Visible Image Fusion [[video (Chinese)]](http://www.ijcai-saia-yes.org.cn/#/conferee).    
+* VALSE (Vision and Learning SEminar) 2022: Low-level Vision Session Student Spotlight Talk [[Website]](http://valser.org/2022/#/workshopde?id=6).    
+at: [08/2022] Tianjin, China
+
+* AI TIME PhD Presentation (IJCAI Branch): Discrete Cosine Transform Network for Guided Depth Map Super-Resolution. [[video (Chinese)]](https://www.bilibili.com/video/BV1cU4y1i7Nt).    
+at: [08/2022] AI TIME & AMiner, Online
+
+* 2021 IJCAI-SAIA Young Elite Symposium: Deep Image Decomposition for Infrared and Visible Image Fusion [[Website]](http://www.ijcai-saia-yes.org.cn/#/conferee).    
 at: [07/2021] World Artificial Intelligence Conference & Shanghai Jiao Tong University, Shanghai, China
 
-* AI TIME PhD Debate: Opportunities and Challenges in multimodal learning [[video (Chinese)]](https://www.bilibili.com/video/BV14p4y1s77p).    
+* AI TIME PhD Debate: Opportunities and Challenges in multimodal learning [[video (Chinese)]](https://www.bilibili.com/video/BV15h411h7M6).    
 at: [07/2021] AI TIME & AMiner, Beijing, China
 
-* AI TIME PhD Presentation (IJCAI Branch): Deep Image Decomposition for Infrared and Visible Image Fusion [[video (Chinese)]](https://www.bilibili.com/video/BV15h411h7M6).    
+* AI TIME PhD Presentation (IJCAI Branch): Deep Image Decomposition for Infrared and Visible Image Fusion [[video (Chinese)]](https://www.bilibili.com/video/BV14p4y1s77p).    
 at: [01/2021] AI TIME & AMiner, Beijing, China
 
 ---

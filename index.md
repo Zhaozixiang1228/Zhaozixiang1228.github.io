@@ -166,7 +166,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 * VALSE (Vision and Learning SEminar) 2022: Low-level Vision Session Student Spotlight Talk [[Website]](http://valser.org/2022/#/workshopde?id=6).    
 at: [08/2022] Tianjin, China
 
-* AI TIME PhD Presentation (IJCAI Branch): Discrete Cosine Transform Network for Guided Depth Map Super-Resolution. [[video (Chinese)]](https://www.bilibili.com/video/BV1cU4y1i7Nt).    
+* AI TIME PhD Presentation (CVPR 2022): Discrete Cosine Transform Network for Guided Depth Map Super-Resolution. [[video (Chinese)]](https://www.bilibili.com/video/BV1cU4y1i7Nt).    
 at: [08/2022] AI TIME & AMiner, Online
 
 * 2021 IJCAI-SAIA Young Elite Symposium: Deep Image Decomposition for Infrared and Visible Image Fusion [[Website]](http://www.ijcai-saia-yes.org.cn/#/conferee).    
@@ -175,7 +175,7 @@ at: [07/2021] World Artificial Intelligence Conference & Shanghai Jiao Tong Univ
 * AI TIME PhD Debate: Opportunities and Challenges in multimodal learning [[video (Chinese)]](https://www.bilibili.com/video/BV15h411h7M6).    
 at: [07/2021] AI TIME & AMiner, Beijing, China
 
-* AI TIME PhD Presentation (IJCAI Branch): Deep Image Decomposition for Infrared and Visible Image Fusion [[video (Chinese)]](https://www.bilibili.com/video/BV14p4y1s77p).    
+* AI TIME PhD Presentation (IJCAI 2020): Deep Image Decomposition for Infrared and Visible Image Fusion [[video (Chinese)]](https://www.bilibili.com/video/BV14p4y1s77p).    
 at: [01/2021] AI TIME & AMiner, Beijing, China
 
 ---

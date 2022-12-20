@@ -15,7 +15,6 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 **Email:**  
 *zixiangzhao@stu.xjtu.edu.cn*  
 *zxzhao.xjtu@hotmail.com*  
-*zixiangzhao@foxmail.com*  
 
 ---
 

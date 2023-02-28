@@ -144,14 +144,16 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 ### Conferences 
 
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+* IEEE International Conference on Computer Vision (ICCV)
 * International Joint Conference on Artificial Intelligence (IJCAI)
 * AAAI Conference on Artificial Intelligence (AAAI)
-* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 
 ### Journals 
 
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+* IEEE Transactions on Multimedia (TMM)
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * Information Fusion
 * Signal Processing

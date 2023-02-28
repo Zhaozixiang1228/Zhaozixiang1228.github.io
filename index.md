@@ -52,8 +52,8 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 1. ***CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion.***
 * **Zixiang Zhao**, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Shuang Xu, Zudi Lin, Radu Timofte, Luc Van Gool
-* Accepted by **CVPR 2022** **<font color='red'> (Oral Presentation) </font>**
-* Propose a Correlation-Driven feature Decomposition Fusion (CDDFuse) network for end-to-end MM feature decomposition and image fusion    
+* Accepted by **CVPR 2023** 
+* Propose a Correlation-Driven feature Decomposition Fusion (CDDFuse) network for multi-modality image fusion    
   [*[Paper]*](), [*[ArXiv]*](https://arxiv.org/abs/2211.14461), [*[Code]*](https://github.com/Zhaozixiang1228)
 
 1. ***Discrete Cosine Transform Network for Guided Depth Map Super-Resolution.***

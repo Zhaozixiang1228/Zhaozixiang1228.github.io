@@ -32,12 +32,9 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 # NEWS
 
-<!--
-- [2022-03-02] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (Oral Presentation) </font>**.
--->
 - [**<font color='red'>HOT</font>**] One paper on multi-modality image fusion is accepted by **CVPR 2023**.
 - [2022-06-27] Two papers on seismic data processing are accepted by **IEEE TGRS**.
-- [2022-03-02] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (Oral Presentation) </font>**.
+- [2022-03-02] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (ORAL) </font>**.
 - [2021-04-14] One paper on model-driven image fusion is accepted by **IEEE TCSVT**.
 - [2021-03-07] Two papers on remote sensing image processing are accepted by **ICME 2021** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
 - [2021-03-01] One paper on remote sensing image processing is accepted by **CVPR 2021** (POSTER).
@@ -58,7 +55,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 1. ***Discrete Cosine Transform Network for Guided Depth Map Super-Resolution.***
 * **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Zudi Lin, Hanspeter Pfister
-* Accepted by **CVPR 2022** **<font color='red'> (Oral Presentation) </font>**
+* Accepted by **CVPR 2022** **<font color='red'> (ORAL) </font>**
 * Propose an advanced Discrete Cosine Transform Network (DCTNet) for guided depth super-resolution    
   [*[Paper]*](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Discrete_Cosine_Transform_Network_for_Guided_Depth_Map_Super-Resolution_CVPR_2022_paper.html), [*[ArXiv]*](https://arxiv.org/abs/2104.06977), [*[Code]*](https://github.com/Zhaozixiang1228/GDSR-DCTNet)
 
@@ -88,7 +85,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 1. ***FGF-GAN: A Lightweight Generative Adversarial Network for Pansharpening via Fast Guided Filter.***
 * **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Kai Sun, Lu Huang, Junmin Liu, Chunxia Zhang
-* Accepted by **ICME 2021** **<font color='red'> (Oral Presentation) </font>**
+* Accepted by **ICME 2021** **<font color='red'> (ORAL) </font>**
 * Propose a generative adversarial network for pansharpening via the fast guided filter and the spatial attention module    
   [*[Paper]*](https://ieeexplore.ieee.org/abstract/document/9428272), [*[ArXiv]*](https://arxiv.org/abs/2101.00062), [*[Code]*](https://github.com/Zhaozixiang1228/Pansharpening-FGF-GAN)
 

@@ -35,8 +35,9 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 <!--
 - [2022-03-02] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (Oral Presentation) </font>**.
 -->
-- [**<font color='red'>HOT</font>**] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (Oral Presentation) </font>**.
+- [**<font color='red'>HOT</font>**] One paper on multi-modality image fusion is accepted by **CVPR 2023**.
 - [2022-06-27] Two papers on seismic data processing are accepted by **IEEE TGRS**.
+- [2022-03-02] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (Oral Presentation) </font>**.
 - [2021-04-14] One paper on model-driven image fusion is accepted by **IEEE TCSVT**.
 - [2021-03-07] Two papers on remote sensing image processing are accepted by **ICME 2021** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
 - [2021-03-01] One paper on remote sensing image processing is accepted by **CVPR 2021** (POSTER).
@@ -48,6 +49,12 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 # PUBLICATIONS
 
 ## <u> Selected Publications </u>
+
+1. ***CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion.***
+* **Zixiang Zhao**, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Shuang Xu, Zudi Lin, Radu Timofte, Luc Van Gool
+* Accepted by **CVPR 2022** **<font color='red'> (Oral Presentation) </font>**
+* Propose a Correlation-Driven feature Decomposition Fusion (CDDFuse) network for end-to-end MM feature decomposition and image fusion    
+  [*[Paper]*](), [*[ArXiv]*](https://arxiv.org/abs/2211.14461), [*[Code]*](https://github.com/Zhaozixiang1228)
 
 1. ***Discrete Cosine Transform Network for Guided Depth Map Super-Resolution.***
 * **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Zudi Lin, Hanspeter Pfister

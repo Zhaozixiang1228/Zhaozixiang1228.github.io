@@ -33,19 +33,21 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 # NEWS
 
 - [**<font color='red'>HOT</font>**] One paper on multi-modality image fusion is accepted by **CVPR 2023**.
-- [2022-06-27] Two papers on seismic data processing are accepted by **IEEE TGRS**.
-- [2022-03-02] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (ORAL) </font>**.
-- [2021-04-14] One paper on model-driven image fusion is accepted by **IEEE TCSVT**.
-- [2021-03-07] Two papers on remote sensing image processing are accepted by **ICME 2021** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
-- [2021-03-01] One paper on remote sensing image processing is accepted by **CVPR 2021** (POSTER).
-- [2020-07-31] One paper on Bayesian image fusion is accepted by **Signal Processing**.
-- [2020-04-23] One paper on data-driven image fusion is accepted by **IJCAI 2020**.
+- [2022-06] Two papers on seismic data processing are accepted by **IEEE TGRS**.
+- [2022-03] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (ORAL) </font>**.
+- [2021-04] One paper on model-driven image fusion is accepted by **IEEE TCSVT**.
+- [2021-03] Two papers on remote sensing image processing are accepted by **ICME 2021** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
+- [2021-03] One paper on remote sensing image processing is accepted by **CVPR 2021** (POSTER).
+- [2020-07] One paper on Bayesian image fusion is accepted by **Signal Processing**.
+- [2020-04] One paper on data-driven image fusion is accepted by **IJCAI 2020**.
 
 ---
 
 # PUBLICATIONS
 
 ## <u> Selected Publications </u>
+
+You can find the full list on my [**Google Scholar**](https://scholar.google.com/citations?user=tUv_X8cAAAAJ&hl).
 
 1. ***CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion.***
 * **Zixiang Zhao**, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Shuang Xu, Zudi Lin, Radu Timofte, Luc Van Gool
@@ -89,12 +91,6 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 * Propose a generative adversarial network for pansharpening via the fast guided filter and the spatial attention module    
   [*[Paper]*](https://ieeexplore.ieee.org/abstract/document/9428272), [*[ArXiv]*](https://arxiv.org/abs/2101.00062), [*[Code]*](https://github.com/Zhaozixiang1228/Pansharpening-FGF-GAN)
 
-1. ***Deep Convolutional Sparse Coding Network for Pansharpening with Guidance of Side Information.***
-* Shuang Xu, Jiangshe Zhang, Kai Sun, **Zixiang Zhao**, Lu Huang, Junmin Liu, Chunxia Zhang
-* Accepted by **ICME 2021** (Poster)
-* Propose a side information partially guided convolutional sparse coding (SCSC) model for pansharpening    
-  [*[Paper]*](https://ieeexplore.ieee.org/abstract/document/9428131), [*[ArXiv]*](https://arxiv.org/abs/2103.05946), [*[Code]*](https://github.com/shuangxu96/CSC-MMFN)
-
 1. ***DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion.***
 * **Zixiang Zhao**\*, Shuang Xu\*, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * Accepted by **IJCAI 2020** 
@@ -106,18 +102,6 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 * Accepted by **Signal Processing** (IF2019: 4.384)
 * Established a Bayesian fusion model with a hierarchical Bayesian manner and the total-variation penalty, which can be inferred by the EM algorithm    
   [*[Paper]*](https://www.sciencedirect.com/science/article/pii/S0165168420302772), [*[ArXiv]*](https://arxiv.org/abs/2005.05839), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-Bayesian-Fusion)
-
-1. ***MFIF-GAN: A New Generative Adversarial Network for Multi-Focus Image Fusion***
-* Yicheng Wang, Shuang Xu, Junmin Liu, **Zixiang Zhao**, Chunxia Zhang, Jiangshe Zhang
-* Accepted by **Signal Processing: Image Communication**
-* Present a novel generative adversarial network termed MFIF-GAN to translate multi-focus images into focus maps and to get the all-in-focus images further    
-[*[Paper]*](https://www.sciencedirect.com/science/article/abs/pii/S0923596521001260), [*[Arxiv]*](https://arxiv.org/abs/2009.09718v2), [*[Code]*](https://github.com/ycwang-libra/MFIF-GAN)
-
-1. ***Optimization Algorithm Unfolding Deep Networks of Detail Injection Model for Pansharpening***
-* Yunqiao Feng, Junmin Liu, Kun Chen, Bo Wang, **Zixiang Zhao**
-* Accepted by **IEEE Geoscience and Remote Sensing Letters**
-* Present an algorithm unfolding model for Pansharpening    
-  [*[Paper]*](https://ieeexplore.ieee.org/document/9430890), [*[Arxiv]*](https://arxiv.org/abs/xxxxxxx), [*[Code]*]()
 
 ## <u> Preprint </u>
 

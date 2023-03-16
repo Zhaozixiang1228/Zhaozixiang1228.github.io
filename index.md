@@ -45,9 +45,9 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 # PUBLICATIONS
 
-## <u> Selected Publications </u>
-
 You can find the full list on my [**Google Scholar**](https://scholar.google.com/citations?user=tUv_X8cAAAAJ&hl).
+
+## <u> Selected Publications </u>
 
 1. ***CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion.***
 * **Zixiang Zhao**, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Shuang Xu, Zudi Lin, Radu Timofte, Luc Van Gool

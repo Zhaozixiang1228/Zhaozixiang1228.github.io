@@ -135,9 +135,10 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 ### Journals 
 
+* IEEE Transactions on Image Processing (TIP)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 * IEEE Transactions on Multimedia (TMM)
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * Information Fusion
 * Signal Processing

@@ -78,7 +78,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 1. ***Deep Convolutional Sparse Coding Networks for Interpretable Image Fusion.***
 * **Zixiang Zhao**, Jiangshe Zhang, Haowen Bai, Yicheng Wang, Yukun Cui, Lilun Deng, Kai Sun, Chunxia Zhang, Junmin Liu, Shuang Xu
 * Accepted by **CVPR Workshop 2023**
-* Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm        
+* Gave three deep convolutional sparse coding networks for interpretable image fusion via unfolding the iterative shrinkage and thresholding algorithm        
   [*[Paper]*](), [*[ArXiv]*](), [*[Code]*]()
 
 1. ***Efficient and Model-Based Infrared and Visible Image Fusion via Algorithm Unrolling.***
@@ -134,11 +134,6 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Kai Sun, Chunxia Zhang, Junmin Liu
 * Journal version of IJCAI2020 paper    
   [*[ArXiv]*](https://arxiv.org/abs/2009.01315), [*[Code]*]()
-
-1. ***Deep Convolutional Sparse Coding Networks for Image Fusion.***
-* Shuang Xu\*, **Zixiang Zhao**\*, Yicheng Wang, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
-* Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm    
-  [*[Arxiv]*](https://arxiv.org/abs/2005.08448), [*[Code]*]()
 
 ---
 

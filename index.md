@@ -78,7 +78,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 1. ***Deep Convolutional Sparse Coding Networks for Interpretable Image Fusion.***
 * **Zixiang Zhao**, Jiangshe Zhang, Haowen Bai, Yicheng Wang, Yukun Cui, Lilun Deng, Kai Sun, Chunxia Zhang, Junmin Liu, Shuang Xu
 * Accepted by **CVPR Workshop 2023**
-* * Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm        
+* Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm        
   [*[Paper]*](), [*[ArXiv]*](), [*[Code]*]()
 
 1. ***Efficient and Model-Based Infrared and Visible Image Fusion via Algorithm Unrolling.***
@@ -102,7 +102,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 1. ***Deep Gradient Projection Networks for Pan-sharpening.***
 * Shuang Xu, Jiangshe Zhang, **Zixiang Zhao**, Kai Sun, Junmin Liu, Chunxia Zhang
 * Accepted by **CVPR 2021** (Poster)
-* Develop a model-based deep pan-sharpening approach    
+* Develop a model-based deep pan-sharpening approach via Deep Gradient Projection Network     
   *[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Xu_Deep_Gradient_Projection_Networks_for_Pan-sharpening_CVPR_2021_paper.html)*, [*[ArXiv]*](https://arxiv.org/abs/2103.04584), [*[Code]*](https://github.com/xsxjtu/GPPNN)
 
 1. ***FGF-GAN: A Lightweight Generative Adversarial Network for Pansharpening via Fast Guided Filter.***

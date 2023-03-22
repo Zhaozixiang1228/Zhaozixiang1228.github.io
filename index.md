@@ -20,13 +20,16 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 # CURRENT RESEARCH
 
-1. Image Processing (especially in Feature Separation and Information Fusion)
-   - Image Fusion (infrared and visible, remote sensing, multi-focus images)
-   - Multi-modal Image Processing (RGB guided depth super-resolution)
+1. Low-level vision (especially in Feature Separation and Information Fusion)
+   - Image Fusion (e.g., infrared and visible, remote sensing, multi-focus images)
+   - Multi-modal Image Restoration (e.g., RGB guided depth super-resolution, multi-spectral imaging)
    - Image Enhancement
 2. Computer Vision
+   - Generative Models (e.g., generative adversarial network, denoising diffusion model)
    - Domain Adaption
 3. Machine Learning
+   - Self-supervised learning
+   - Clustering
 
 ---
 
@@ -51,11 +54,11 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 1. ***DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion.***
 * **Zixiang Zhao**, Haowen Bai, Yuanzhi Zhu, Jiangshe Zhang, Shuang Xu, Yulun Zhang, Kai Zhang, Deyu Meng, Radu Timofte, Luc Van Gool
 * arXiv: 2303.06840
-* propose a novel fusion algorithm based on the denoising diffusion sampling model     
+* Propose a novel fusion algorithm based on the denoising diffusion sampling model     
   [*[Paper]*](), [*[ArXiv]*](https://arxiv.org/abs/2211.14461), [*[Code]*]()
 
 1. ***Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution.***
-* **Zixiang Zhao**, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Shuang Xu, Zudi Lin, Radu Timofte, Luc Van Gool
+* **Zixiang Zhao**, Jiangshe Zhang, Xiang Gu, Chengli Tan, Shuang Xu, Yulun Zhang, Radu Timofte, Luc Van Gool
 * arXiv: 2303.08942
 * Propose a Spherical Space feature Decomposition network (SSDNet) and spherical contrast refinement for guided depth super-resolution       
   [*[Paper]*](), [*[ArXiv]*](https://arxiv.org/abs/2303.08942), [*[Code]*]()
@@ -77,7 +80,6 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Accepted by **CVPR Workshop 2023**
 * * Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm        
   [*[Paper]*](), [*[ArXiv]*](), [*[Code]*]()
-
 
 1. ***Efficient and Model-Based Infrared and Visible Image Fusion via Algorithm Unrolling.***
 * **Zixiang Zhao**, Shuang Xu, Jiangshe Zhang, Junmin Liu, Chunxia Zhang, Junmin Liu

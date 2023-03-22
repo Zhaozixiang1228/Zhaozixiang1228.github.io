@@ -2,7 +2,7 @@
 
 My name is **Zixiang Zhao** (赵子祥, pronounced 'Tzu-Hsiang Chao'). I am currently a PhD student in [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang).
 
-I am now a visiting Ph.D. student in the great [Computer Vision Lab](https://vision.ee.ethz.ch/), ETH Zürich, Switzerland, supervised by [Prof. Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html) and working closely with [Doc. Yulun Zhang](http://yulunzhang.com/). 
+I am now a visiting Ph.D. student in the great [Computer Vision Lab](https://vision.ee.ethz.ch/), ETH Zürich, Switzerland, supervised by [Prof. Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html) and working closely with [Prof. Radu Timofte](https://www.informatik.uni-wuerzburg.de/computervision/home/), [Doc. Yulun Zhang](http://yulunzhang.com/) and [Doc. Kai Zhang](https://cszn.github.io/). 
 
 I have been fortunate enough to work as a Research Assistant at [Visual Computing Group](https://vcg.seas.harvard.edu/), [Harvard University](https://www.harvard.edu/), supervised by [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people) and work closely with [Doc. Zudi Lin](https://zudi-lin.github.io/).
 
@@ -48,18 +48,36 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 You can find the full list on my [**Google Scholar**](https://scholar.google.com/citations?user=tUv_X8cAAAAJ&hl).
 
 ## <u> Selected Publications </u>
+1. ***DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion.***
+* **Zixiang Zhao**, Haowen Bai, Yuanzhi Zhu, Jiangshe Zhang, Shuang Xu, Yulun Zhang, Kai Zhang, Deyu Meng, Radu Timofte, Luc Van Gool
+* arXiv: 2303.06840
+* propose a novel fusion algorithm based on the denoising diffusion sampling model     
+  [*[Paper]*](), [*[ArXiv]*](https://arxiv.org/abs/2211.14461), [*[Code]*]()
+
+1. ***Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution.***
+* **Zixiang Zhao**, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Shuang Xu, Zudi Lin, Radu Timofte, Luc Van Gool
+* arXiv: 2303.08942
+* Propose a Spherical Space feature Decomposition network (SSDNet) and spherical contrast refinement for guided depth super-resolution       
+  [*[Paper]*](), [*[ArXiv]*](https://arxiv.org/abs/2303.08942), [*[Code]*]()
 
 1. ***CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion.***
 * **Zixiang Zhao**, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Shuang Xu, Zudi Lin, Radu Timofte, Luc Van Gool
 * Accepted by **CVPR 2023** 
 * Propose a Correlation-Driven feature Decomposition Fusion (CDDFuse) network for multi-modality image fusion    
-  [*[Paper]*](), [*[ArXiv]*](https://arxiv.org/abs/2211.14461), [*[Code]*](https://github.com/Zhaozixiang1228)
+  [*[Paper]*](), [*[ArXiv]*](https://arxiv.org/abs/2211.14461), [*[Code]*]()
 
 1. ***Discrete Cosine Transform Network for Guided Depth Map Super-Resolution.***
 * **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Zudi Lin, Hanspeter Pfister
 * Accepted by **CVPR 2022** **<font color='red'> (ORAL) </font>**
 * Propose an advanced Discrete Cosine Transform Network (DCTNet) for guided depth super-resolution    
   [*[Paper]*](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Discrete_Cosine_Transform_Network_for_Guided_Depth_Map_Super-Resolution_CVPR_2022_paper.html), [*[ArXiv]*](https://arxiv.org/abs/2104.06977), [*[Code]*](https://github.com/Zhaozixiang1228/GDSR-DCTNet)
+
+1. ***Deep Convolutional Sparse Coding Networks for Interpretable Image Fusion.***
+* **Zixiang Zhao**, Jiangshe Zhang, Haowen Bai, Yicheng Wang, Yukun Cui, Lilun Deng, Kai Sun, Chunxia Zhang, Junmin Liu, Shuang Xu
+* Accepted by **CVPR Workshop 2023**
+* * Gave three deep convolutional sparse coding networks for three image fusion tasks as well as the solutions based on unfolding the iterative shrinkage and thresholding algorithm        
+  [*[Paper]*](), [*[ArXiv]*](), [*[Code]*]()
+
 
 1. ***Efficient and Model-Based Infrared and Visible Image Fusion via Algorithm Unrolling.***
 * **Zixiang Zhao**, Shuang Xu, Jiangshe Zhang, Junmin Liu, Chunxia Zhang, Junmin Liu

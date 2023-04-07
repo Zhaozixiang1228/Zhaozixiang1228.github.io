@@ -55,7 +55,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * **Zixiang Zhao**, Haowen Bai, Yuanzhi Zhu, Jiangshe Zhang, Shuang Xu, Yulun Zhang, Kai Zhang, Deyu Meng, Radu Timofte, Luc Van Gool
 * arXiv: 2303.06840
 * Propose a novel fusion algorithm based on the denoising diffusion sampling model     
-  [*[Paper]*](), [*[ArXiv]*](https://arxiv.org/abs/2211.14461), [*[Code]*]()
+  [*[Paper]*](), [*[ArXiv]*](https://arxiv.org/abs/2303.06840), [*[Code]*]()
 
 1. ***Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution.***
 * **Zixiang Zhao**, Jiangshe Zhang, Xiang Gu, Chengli Tan, Shuang Xu, Yulun Zhang, Radu Timofte, Luc Van Gool

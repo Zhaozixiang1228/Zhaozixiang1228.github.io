@@ -36,6 +36,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 # NEWS
 
 - [**<font color='red'>HOT</font>**] One paper on multi-modality image fusion is accepted by **CVPR 2023**.
+- [2023-05] Named one of the **CVPR 2023 Outstanding Reviewers**.
 - [2022-06] Two papers on seismic data processing are accepted by **IEEE TGRS**.
 - [2022-03] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (ORAL) </font>**.
 - [2021-04] One paper on model-driven image fusion is accepted by **IEEE TCSVT**.
@@ -67,7 +68,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * **Zixiang Zhao**, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Shuang Xu, Zudi Lin, Radu Timofte, Luc Van Gool
 * Accepted by **CVPR 2023** 
 * Propose a Correlation-Driven feature Decomposition Fusion (CDDFuse) network for multi-modality image fusion    
-  [*[Paper]*](), [*[ArXiv]*](https://arxiv.org/abs/2211.14461), [*[Code]*]()
+  [*[Paper]*](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_CDDFuse_Correlation-Driven_Dual-Branch_Feature_Decomposition_for_Multi-Modality_Image_Fusion_CVPR_2023_paper.html), [*[ArXiv]*](https://arxiv.org/abs/2211.14461), [*[Code]*](https://github.com/Zhaozixiang1228/MMIF-CDDFuse)
 
 1. ***Discrete Cosine Transform Network for Guided Depth Map Super-Resolution.***
 * **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Zudi Lin, Hanspeter Pfister
@@ -91,13 +92,13 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Xiaoli Wei, Chunxia Zhang, Hongtao Wang, **Zixiang Zhao**, Deng Xiong, Shuang Xu, Jiangshe Zhang, Sang-Woon Kim
 * Accepted by **IEEE Transactions on Geoscience and Remote Sensing** 
 * Propose a coarse-to-fine seismic data consecutively missing traces interpolation    
-  [*[Paper]*](), [*[Arxiv]*](), [*[Code]*]()
+  [*[Paper]*](https://ieeexplore.ieee.org/document/9955578), [*[Arxiv]*](), [*[Code]*]()
 
 1. ***Automatic Velocity Picking Using a Multi-Information Fusion Deep Semantic Segmentation Network.***
 * Hongtao Wang, Jiangshe Zhang, **Zixiang Zhao**, Chunxia Zhang, Long li, Zhiyu Yang, Weifeng Geng
 * Accepted by **IEEE Transactions on Geoscience and Remote Sensing** 
 * Propose a multi-information fusion network to estimate stacking velocity from the fusion information of velocity spectra    
-  [*[Paper]*](), [*[Arxiv]*](), [*[Code]*]()
+  [*[Paper]*](https://ieeexplore.ieee.org/document/9815261/), [*[Arxiv]*](https://arxiv.org/abs/2205.03645), [*[Code]*](https://github.com/newbee-ML/MIFN-Velocity-Picking)
 
 1. ***Deep Gradient Projection Networks for Pan-sharpening.***
 * Shuang Xu, Jiangshe Zhang, **Zixiang Zhao**, Kai Sun, Junmin Liu, Chunxia Zhang
@@ -145,11 +146,13 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 * IEEE International Conference on Computer Vision (ICCV)
+* Conference on Neural Information Processing Systems (NeurIPS)
 * International Joint Conference on Artificial Intelligence (IJCAI)
 * AAAI Conference on Artificial Intelligence (AAAI)
 
 ### Journals 
 
+* International Journal of Computer Vision (IJCV)
 * IEEE Transactions on Image Processing (TIP)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IEEE Transactions on Multimedia (TMM)

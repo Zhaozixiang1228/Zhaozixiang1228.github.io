@@ -35,15 +35,15 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 # NEWS
 
-- [**<font color='red'>HOT</font>**] One paper on multi-modality image fusion is accepted by **CVPR 2023**.
+- [**<font color='red'>HOT</font>**] One first-authored paper on multi-modality image fusion is accepted by **CVPR 2023**.
 - [2023-05] Named one of the **CVPR 2023 Outstanding Reviewers**.
 - [2022-06] Two papers on seismic data processing are accepted by **IEEE TGRS**.
-- [2022-03] One paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (ORAL) </font>**.
-- [2021-04] One paper on model-driven image fusion is accepted by **IEEE TCSVT**.
-- [2021-03] Two papers on remote sensing image processing are accepted by **ICME 2021** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
+- [2022-03] One first-authored paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (ORAL) </font>**.
+- [2021-04] One first-authored paper on model-driven image fusion is accepted by **IEEE TCSVT**.
+- [2021-03] Two papers (one first-authored) on remote sensing image processing are accepted by **ICME 2021** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
 - [2021-03] One paper on remote sensing image processing is accepted by **CVPR 2021** (POSTER).
-- [2020-07] One paper on Bayesian image fusion is accepted by **Signal Processing**.
-- [2020-04] One paper on data-driven image fusion is accepted by **IJCAI 2020**.
+- [2020-07] One first-authored paper on Bayesian image fusion is accepted by **Signal Processing**.
+- [2020-04] One first-authored paper on data-driven image fusion is accepted by **IJCAI 2020**.
 
 ---
 

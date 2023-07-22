@@ -192,6 +192,7 @@ at: [01/2021] AI TIME & AMiner, Beijing, China
 # More about me!
 
 - a die-hard fan of Kobe Bryant and Los Angeles Lakers
-- have a passion for basketball and participate in CUBA (Chinese University Basketball Association)
+- have a passionate love for basketball
+<!--- have a passion for basketball and participate in CUBA (Chinese University Basketball Association) -->
 - love swimming, skiing, singing...
 - a little guitar and violin

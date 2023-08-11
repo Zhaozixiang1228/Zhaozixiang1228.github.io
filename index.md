@@ -8,7 +8,7 @@ I have been fortunate enough to work as a Research Assistant at [Visual Computin
 
 I also work closely with [Prof. Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng) and [Assoc. Prof. Shuang Xu](https://shuangxu96.github.io/) in Xi'an Jiaotong University.
 
-My research lies at **low-level computer vision** and **model-based image processing**, and my current research is **multi-modal image processing**.
+My research lies at **low-level computer vision** and **model-based image processing**, and my current research is **multi-modal image fusion and restoration**.
 
 I'm open to any kinds of collaboration. Please feel free to contact me directly through email.
 

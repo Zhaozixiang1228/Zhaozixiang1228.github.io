@@ -35,7 +35,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 # NEWS
 
-- [**<font color='red'>HOT</font>**] Two first-authored papers on multi-modality image fusion and guided depth map super-resolution are accepted by **ICCV 2023**.
+- [**<font color='red'>HOT</font>**] Two first-authored papers on multi-modality image fusion and guided depth map super-resolution are accepted by **ICCV 2023** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
 - [2023-05] Named one of the **CVPR 2023 Outstanding Reviewers**.
 - [2023-03] One first-authored paper on multi-modality image fusion is accepted by **CVPR 2023**.
 - [2022-06] Two papers on seismic data processing are accepted by **IEEE TGRS**.
@@ -55,7 +55,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 ## <u> Selected Publications </u>
 1. ***DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion.***
 * **Zixiang Zhao**, Haowen Bai, Yuanzhi Zhu, Jiangshe Zhang, Shuang Xu, Yulun Zhang, Kai Zhang, Deyu Meng, Radu Timofte, Luc Van Gool
-* Accepted by **ICCV 2023** 
+* Accepted by **ICCV 2023** **<font color='red'> (ORAL) </font>**
 * Propose a novel fusion algorithm based on the denoising diffusion sampling model     
   [*[Paper]*](), [*[ArXiv]*](https://arxiv.org/abs/2303.06840), [*[Code]*]()
 

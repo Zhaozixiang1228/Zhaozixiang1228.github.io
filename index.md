@@ -93,13 +93,13 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 1. ***CACNN: Capsule Attention Convolutional Neural Networks for 3D Object Recognition.***
 * Kai Sun, Jiangshe Zhang, Shuang Xu, **Zixiang Zhao**, Chunxia Zhang, Junmin Liu, Member IEEE, Junying Hu
-* Accepted by **IEEE Transactions on Geoscience and Remote Sensing** 
+* Accepted by **IEEE Transactions on Neural Networks and Learning Systems** 
 * Propose a novel layer called Capsule Attention Layer to fuse the features expressed by capsules    
   [*[Paper]*](), [*[Arxiv]*](), [*[Code]*]()
 
 1. ***Hybrid Loss Guided Coarse-to-fine Model for Seismic Data Consecutively Missing Trace Reconstruction.***
 * Xiaoli Wei, Chunxia Zhang, Hongtao Wang, **Zixiang Zhao**, Deng Xiong, Shuang Xu, Jiangshe Zhang, Sang-Woon Kim
-* Accepted by **IEEE Transactions on Neural Networks and Learning Systems** 
+* Accepted by **IEEE Transactions on Geoscience and Remote Sensing** 
 * Propose a coarse-to-fine seismic data consecutively missing traces interpolation    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9955578), [*[Arxiv]*](), [*[Code]*]()
 

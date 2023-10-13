@@ -36,6 +36,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 # NEWS
 
 - [**<font color='red'>HOT</font>**] Two first-authored papers on multi-modality image fusion and guided depth map super-resolution are accepted by **ICCV 2023** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
+- [2023-10] One paper on 3D Object Recognition is accepted by **IEEE TNNLS**.
 - [2023-09] Gave a presentation @ Cambridge University.
 - [2023-05] Named one of the **CVPR 2023 Outstanding Reviewers**.
 - [2023-03] One first-authored paper on multi-modality image fusion is accepted by **CVPR 2023**.
@@ -90,9 +91,15 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9416456), [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-AUIF-Net)
 
+1. ***CACNN: Capsule Attention Convolutional Neural Networks for 3D Object Recognition.***
+* Kai Sun, Jiangshe Zhang, Shuang Xu, **Zixiang Zhao**, Chunxia Zhang, Junmin Liu, Member IEEE, Junying Hu
+* Accepted by **IEEE Transactions on Geoscience and Remote Sensing** 
+* Propose a novel layer called Capsule Attention Layer to fuse the features expressed by capsules    
+  [*[Paper]*](), [*[Arxiv]*](), [*[Code]*]()
+
 1. ***Hybrid Loss Guided Coarse-to-fine Model for Seismic Data Consecutively Missing Trace Reconstruction.***
 * Xiaoli Wei, Chunxia Zhang, Hongtao Wang, **Zixiang Zhao**, Deng Xiong, Shuang Xu, Jiangshe Zhang, Sang-Woon Kim
-* Accepted by **IEEE Transactions on Geoscience and Remote Sensing** 
+* Accepted by **IEEE Transactions on Neural Networks and Learning Systems** 
 * Propose a coarse-to-fine seismic data consecutively missing traces interpolation    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9955578), [*[Arxiv]*](), [*[Code]*]()
 

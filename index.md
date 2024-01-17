@@ -20,10 +20,10 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 # CURRENT RESEARCH
 
-1. Low-level vision (especially in Feature Separation and Information Fusion)
+1. Low-level Vision (especially in Feature Separation and Information Fusion)
    - Image Fusion (e.g., infrared and visible, remote sensing, multi-focus images)
    - Multi-modal Image Restoration (e.g., RGB guided depth super-resolution, multi-spectral imaging)
-   - Image Enhancement
+   - Natural Image Enhancement & Image Restoration
 2. Computer Vision
    - Generative Models (e.g., generative adversarial network, denoising diffusion model)
    - Domain Adaption
@@ -55,6 +55,13 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 You can find the full list on my [**Google Scholar**](https://scholar.google.com/citations?user=tUv_X8cAAAAJ&hl).
 
 ## <u> Selected Publications </u>
+
+1. ***Equivariant Multi-Modality Image Fusion.***
+* **Zixiang Zhao**, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Kai Zhang, Shuang Xu, Dongdong Chen, Radu Timofte, Luc Van Gool
+* arXiv:2305.11443
+* Propose a novel end-to-end self-supervised fusion algorithm based on the equivariant sensing and imaging prior     
+  [*[ArXiv]*](https://arxiv.org/abs/2305.11443), [*[Code]*]()
+
 1. ***DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion.***
 * **Zixiang Zhao**, Haowen Bai, Yuanzhi Zhu, Jiangshe Zhang, Shuang Xu, Yulun Zhang, Kai Zhang, Deyu Meng, Radu Timofte, Luc Van Gool
 * Accepted by **ICCV 2023** **<font color='red'> (ORAL) </font>**

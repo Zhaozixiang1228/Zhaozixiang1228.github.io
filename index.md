@@ -175,6 +175,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IEEE Transactions on Multimedia (TMM)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+* IEEE Transactions on Computational Imaging (TCI)
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * Information Fusion
 * Signal Processing

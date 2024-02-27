@@ -185,7 +185,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 # Selected Talks
 * Prior Knowledge-Guided Multi-Modal Image Fusion.    
-at: [10/2023] University of Electronic Science and Technology of China (UESTC), Online 
+at: [02/2024] University of Electronic Science and Technology of China (UESTC), Online 
 
 * Conference on Frontiers in Mathematics Doctoral Student: Prior Knowledge-Guided Multi-Modal Image Fusion.    
 at: [10/2023] Peking University, Beijing, China

@@ -34,8 +34,9 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 ---
 
 # NEWS
-
-- [**<font color='red'>HOT</font>**] Two first-authored papers on multi-modality image fusion and guided depth map super-resolution are accepted by **ICCV 2023** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
+- [**<font color='red'>HOT</font>**] One first-authored paper on multi-modality image fusion is accepted by **CVPR 2024**.
+- [2023-09] Gave a presentation @ Cambridge University.
+- [2023-07] Two first-authored papers on multi-modality image fusion and guided depth map super-resolution are accepted by **ICCV 2023** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
 - [2023-09] Gave a presentation @ Cambridge University.
 - [2023-05] Named one of the **CVPR 2023 Outstanding Reviewers**.
 - [2023-03] One first-authored paper on multi-modality image fusion is accepted by **CVPR 2023**.
@@ -54,6 +55,13 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 You can find the full list on my [**Google Scholar**](https://scholar.google.com/citations?user=tUv_X8cAAAAJ&hl).
 
 ## <u> Selected Publications </u>
+
+1. ***Equivariant Multi-Modality Image Fusion.***
+* **Zixiang Zhao**, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Kai Zhang, Shuang Xu, Dongdong Chen, Radu Timofte, Luc Van Gool
+* Accepted by **CVPR 2024** 
+* Propose a novel end-to-end self-supervised fusion algorithm based on the equivariant sensing and imaging prior     
+  [*[Paper]*](), [*[ArXiv]*](https://arxiv.org/abs/2305.11443), [*[Code]*]()
+
 1. ***DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion.***
 * **Zixiang Zhao**, Haowen Bai, Yuanzhi Zhu, Jiangshe Zhang, Shuang Xu, Yulun Zhang, Kai Zhang, Deyu Meng, Radu Timofte, Luc Van Gool
 * Accepted by **ICCV 2023** **<font color='red'> (ORAL) </font>**

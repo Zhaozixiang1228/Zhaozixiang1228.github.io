@@ -90,13 +90,19 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * **Zixiang Zhao**, Jiangshe Zhang, Haowen Bai, Yicheng Wang, Yukun Cui, Lilun Deng, Kai Sun, Chunxia Zhang, Junmin Liu, Shuang Xu
 * Accepted by **CVPR Workshop 2023**
 * Gave three deep convolutional sparse coding networks for interpretable image fusion via unfolding the iterative shrinkage and thresholding algorithm        
-  [*[Paper]*](), [*[ArXiv]*](), [*[Code]*]()
+  [*[Paper]*](https://openaccess.thecvf.com/content/CVPR2023W/AML/html/Zhao_Deep_Convolutional_Sparse_Coding_Networks_for_Interpretable_Image_Fusion_CVPRW_2023_paper.html), [*[ArXiv]*](), [*[Code]*]()
 
 1. ***Efficient and Model-Based Infrared and Visible Image Fusion via Algorithm Unrolling.***
 * **Zixiang Zhao**, Shuang Xu, Jiangshe Zhang, Junmin Liu, Chunxia Zhang, Junmin Liu
-* Accepted by **IEEE Transactions on Circuits and Systems for Video Technology** (IF2019: 4.133)
+* Accepted by **IEEE Transactions on Circuits and Systems for Video Technology** (Top 1% Highly Cited Paper)
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9416456), [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-AUIF-Net)
+
+1. ***CACNN: Capsule Attention Convolutional Neural Networks for 3D Object Recognition.***
+* Kai Sun, Jiangshe Zhang, Shuang Xu, **Zixiang Zhao**, Chunxia Zhang, Junmin Liu, Junying Hu
+* Accepted by **IEEE Transactions on Neural Networks and Learning Systems**
+* Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion    
+  [*[Paper]*](https://ieeexplore.ieee.org/document/10310277), [*[Arxiv]*](), [*[Code]*]()
 
 1. ***Hybrid Loss Guided Coarse-to-fine Model for Seismic Data Consecutively Missing Trace Reconstruction.***
 * Xiaoli Wei, Chunxia Zhang, Hongtao Wang, **Zixiang Zhao**, Deng Xiong, Shuang Xu, Jiangshe Zhang, Sang-Woon Kim
@@ -130,7 +136,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 1. ***Bayesian Fusion for Infrared and Visible Images.***
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
-* Accepted by **Signal Processing** (IF2019: 4.384)
+* Accepted by **Signal Processing**
 * Established a Bayesian fusion model with a hierarchical Bayesian manner and the total-variation penalty, which can be inferred by the EM algorithm    
   [*[Paper]*](https://www.sciencedirect.com/science/article/pii/S0165168420302772), [*[ArXiv]*](https://arxiv.org/abs/2005.05839), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-Bayesian-Fusion)
 

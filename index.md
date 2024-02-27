@@ -156,10 +156,12 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 * IEEE International Conference on Computer Vision (ICCV)
+* European Conference on Computer Vision (ECCV)
 * Conference on Neural Information Processing Systems (NeurIPS)
 * International Conference on Learning Representations (ICLR)
 * International Joint Conference on Artificial Intelligence (IJCAI)
 * AAAI Conference on Artificial Intelligence (AAAI)
+* Asian Conference on Computer Vision (ACCV)
 
 ### Journals 
 
@@ -168,6 +170,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IEEE Transactions on Multimedia (TMM)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+* IEEE Transactions on Computational Imaging (TCI)
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * Information Fusion
 * Signal Processing
@@ -181,6 +184,14 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 ---
 
 # Selected Talks
+* Prior Knowledge-Guided Multi-Modal Image Fusion.    
+at: [10/2023] University of Electronic Science and Technology of China (UESTC), Online 
+
+* Conference on Frontiers in Mathematics Doctoral Student: Prior Knowledge-Guided Multi-Modal Image Fusion.    
+at: [10/2023] Peking University, Beijing, China
+
+* Multi-modal Image Fusion and Image Reconstruction. [[Website]](https://twitter.com/CamImaging/status/1707755502203990431).        
+at: [09/2023] Cambridge University, Online
 
 * VALSE (Vision and Learning SEminar) 2022: Low-level Vision Session Student Spotlight Talk [[Website]](http://valser.org/2022/#/workshopde?id=6).    
 at: [08/2022] Tianjin, China

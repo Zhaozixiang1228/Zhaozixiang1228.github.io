@@ -37,7 +37,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 - [**<font color='red'>HOT</font>**] One first-authored paper on multi-modality image fusion is accepted by **CVPR 2024**.
 - [2023-10] One paper on 3D Object Recognition is accepted by **IEEE TNNLS**
 - [2023-09] Gave a presentation @ Cambridge University.
-- [2023-07] Two first-authored papers on multi-modality image fusion and guided depth map super-resolution are accepted by **ICCV 2023** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
+- [2023-07] Two first-authored papers on image fusion and depth map super-resolution are accepted by **ICCV 2023** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
 - [2023-05] Named one of the **CVPR 2023 Outstanding Reviewers**.
 - [2023-03] One first-authored paper on multi-modality image fusion is accepted by **CVPR 2023**.
 - [2022-06] Two papers on seismic data processing are accepted by **IEEE TGRS**.

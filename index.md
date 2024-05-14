@@ -36,17 +36,18 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 # NEWS
 - [**<font color='red'>HOT</font>**] Two papers are accepted by **ICML 2024** (One first-authored paper on vision-language-based image fusion and the other on residual binarization for image super-resolution).
 - [**<font color='red'>HOT</font>**] One first-authored paper on multi-modality image fusion is accepted by **CVPR 2024**.
+- [2024-05] One paper on seismic data processing is accepted by **IEEE TGRS**.
 - [2024-04] Gave a presentation @ Peking University.
-- [2023-10] One paper on 3D Object Recognition is accepted by **IEEE TNNLS**
+- [2023-10] One paper on 3D Object Recognition is accepted by **IEEE TNNLS**.
 - [2023-09] Gave a presentation @ Cambridge University.
-- [2023-07] Two first-authored papers on image fusion and depth map super-resolution are accepted by **ICCV 2023** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
+- [2023-07] Two first-authored papers on image fusion and depth map super-resolution are accepted by **ICCV 2023** (**<font color='red'>1 Oral </font>** & 1 Poster).
 - [2023-05] Named one of the **CVPR 2023 Outstanding Reviewers**.
 - [2023-03] One first-authored paper on multi-modality image fusion is accepted by **CVPR 2023**.
 - [2022-06] Two papers on seismic data processing are accepted by **IEEE TGRS**.
-- [2022-03] One first-authored paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (ORAL) </font>**.
+- [2022-03] One first-authored paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (Oral) </font>**.
 - [2021-04] One first-authored paper on model-driven image fusion is accepted by **IEEE TCSVT**.
-- [2021-03] Two papers (one first-authored) on remote sensing image processing are accepted by **ICME 2021** (**<font color='red'>1 ORAL </font>** & 1 POSTER).
-- [2021-03] One paper on remote sensing image processing is accepted by **CVPR 2021** (POSTER).
+- [2021-03] Two papers (one first-authored) on remote sensing image processing are accepted by **ICME 2021** (**<font color='red'>1 Oral </font>** & 1 Poster).
+- [2021-03] One paper on remote sensing image processing is accepted by **CVPR 2021**.
 - [2020-07] One first-authored paper on Bayesian image fusion is accepted by **Signal Processing**.
 - [2020-04] One first-authored paper on data-driven image fusion is accepted by **IJCAI 2020**.
 
@@ -104,6 +105,14 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Accepted by **IEEE Transactions on Circuits and Systems for Video Technology** (Top 1% Highly Cited Paper)
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9416456), [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-AUIF-Net)
+
+
+<!-- 1. ***Simultaneous Automatic Picking and Manual Picking Refinement for First-Break.***
+* Haowen Bai, **Zixiang Zhao**, Jiangshe Zhang, Yukun Cui, Chunxia Zhang, Zhenbo Guo, Yongjun Wang
+* Accepted by **IEEE Transactions on Geoscience and Remote Sensing**
+* Introduce an algorithm for Simultaneous Picking and label Refinement in seismic data processing   
+  [*[Paper]*](), [*[Arxiv]*](), [*[Code]*]() -->
+
 
 1. ***CACNN: Capsule Attention Convolutional Neural Networks for 3D Object Recognition.***
 * Kai Sun, Jiangshe Zhang, Shuang Xu, **Zixiang Zhao**, Chunxia Zhang, Junmin Liu, Junying Hu
@@ -177,7 +186,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Asian Conference on Computer Vision (ACCV)
 
 ### Journals 
-
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * International Journal of Computer Vision (IJCV)
 * IEEE Transactions on Image Processing (TIP)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)

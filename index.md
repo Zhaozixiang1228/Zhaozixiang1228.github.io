@@ -106,14 +106,6 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9416456), [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-AUIF-Net)
 
-
-<!-- 1. ***Simultaneous Automatic Picking and Manual Picking Refinement for First-Break.***
-* Haowen Bai, **Zixiang Zhao**, Jiangshe Zhang, Yukun Cui, Chunxia Zhang, Zhenbo Guo, Yongjun Wang
-* Accepted by **IEEE Transactions on Geoscience and Remote Sensing**
-* Introduce an algorithm for Simultaneous Picking and label Refinement in seismic data processing   
-  [*[Paper]*](), [*[Arxiv]*](), [*[Code]*]() -->
-
-
 1. ***CACNN: Capsule Attention Convolutional Neural Networks for 3D Object Recognition.***
 * Kai Sun, Jiangshe Zhang, Shuang Xu, **Zixiang Zhao**, Chunxia Zhang, Junmin Liu, Junying Hu
 * Accepted by **IEEE Transactions on Neural Networks and Learning Systems**

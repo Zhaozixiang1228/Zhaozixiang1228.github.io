@@ -62,13 +62,13 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * **Zixiang Zhao**, Lilun Deng, Haowen Bai, Yukun Cui, Zhipeng Zhang, Yulun Zhang, Haotong Qin, Dongdong Chen, Jiangshe Zhang, Peng Wang, Luc Van Gool
 * Accepted by **ICML 2024** 
 * Introduce a novel fusion paradigm named image Fusion via vIsion-Language Model (FILM), for the first time, utilizing explicit textual information in different source images to guide image fusion     
-  [*[Paper]*](), [*[ArXiv]*](https://arxiv.org/abs/2402.02235), [*[Code]*]()
+  [*[Paper]*](), [*[ArXiv]*](https://arxiv.org/abs/2402.02235), [*[Code]*](https://github.com/Zhaozixiang1228/IF-FILM)
 
 1. ***Equivariant Multi-Modality Image Fusion.***
 * **Zixiang Zhao**, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Kai Zhang, Shuang Xu, Dongdong Chen, Radu Timofte, Luc Van Gool
 * Accepted by **CVPR 2024** 
 * Propose a novel end-to-end self-supervised fusion algorithm based on the equivariant sensing and imaging prior     
-  [*[Paper]*](), [*[ArXiv]*](https://arxiv.org/abs/2305.11443), [*[Code]*](https://github.com/Zhaozixiang1228/MMIF-EMMA)
+  [*[Paper]*](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Equivariant_Multi-Modality_Image_Fusion_CVPR_2024_paper.html), [*[ArXiv]*](https://arxiv.org/abs/2305.11443), [*[Code]*](https://github.com/Zhaozixiang1228/MMIF-EMMA)
 
 1. ***DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion.***
 * **Zixiang Zhao**, Haowen Bai, Yuanzhi Zhu, Jiangshe Zhang, Shuang Xu, Yulun Zhang, Kai Zhang, Deyu Meng, Radu Timofte, Luc Van Gool

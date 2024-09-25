@@ -36,6 +36,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 # NEWS
 - [**<font color='red'>HOT</font>**] Two papers are accepted by **ICML 2024** (One first-authored paper on vision-language-based image fusion and the other on residual binarization for image super-resolution).
 - [**<font color='red'>HOT</font>**] One first-authored paper on multi-modality image fusion is accepted by **CVPR 2024**.
+- [2024-09] One paper on image fusion is accepted by **IJCV**.
 - [2024-05] One paper on seismic data processing is accepted by **IEEE TGRS**.
 - [2024-04] Gave a presentation @ Peking University.
 - [2023-10] One paper on 3D Object Recognition is accepted by **IEEE TNNLS**.

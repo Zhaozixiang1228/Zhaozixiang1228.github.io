@@ -188,6 +188,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * IEEE Transactions on Computational Imaging (TCI)
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * Information Fusion
+* Pattern Recognition
 * Signal Processing
 * IEEE Signal Processing Letters (SPL)
 

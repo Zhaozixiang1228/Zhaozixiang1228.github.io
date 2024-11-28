@@ -36,6 +36,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 # NEWS
 - [**<font color='red'>HOT</font>**] Two papers are accepted by **ICML 2024** (One first-authored paper on vision-language-based image fusion and the other on residual binarization for image super-resolution).
 - [**<font color='red'>HOT</font>**] One first-authored paper on multi-modality image fusion is accepted by **CVPR 2024**.
+- [2024-10] One paper on multi-modality image fusion is accepted by **IEEE TCSVT**.
 - [2024-09] One paper on image fusion is accepted by **IJCV**; One paper on continual learning is accepted by **NeurIPS 2024**; One paper on hyper-spectral image denoising is accepted by **IEEE TGRS**.
 - [2024-05] One paper on seismic data processing is accepted by **IEEE TGRS**.
 - [2024-04] Gave a presentation @ Peking University.
@@ -176,6 +177,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * International Conference on Learning Representations (ICLR)
 * International Joint Conference on Artificial Intelligence (IJCAI)
 * AAAI Conference on Artificial Intelligence (AAAI)
+* IEEE International Conference on Robotics and Automation (ICRA)
 * Asian Conference on Computer Vision (ACCV)
 
 ### Journals 

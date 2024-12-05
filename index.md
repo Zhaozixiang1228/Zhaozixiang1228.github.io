@@ -1,20 +1,19 @@
 <img align="right" src="images//photo.jpg" height="300px"/>
 
-My name is **Zixiang Zhao** (赵子祥, pronounced 'Tzu-Hsiang Chao'). I am currently a PhD student in [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang).
+My name is **Zixiang Zhao** (赵子祥, pronounced 'Tzu-Hsiang Chao'). I am currently a postdoctoral researcher at [Photogrammetry and Remote Sensing Group] (https://prs.igp.ethz.ch/), [ETH Zürich] (https://ethz.ch/en.html), Switzerland, supervised by [Prof. Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986). 
 
-I am now a visiting Ph.D. student in the great [Computer Vision Lab](https://vision.ee.ethz.ch/), ETH Zürich, Switzerland, supervised by [Prof. Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html) and working closely with [Prof. Radu Timofte](https://www.informatik.uni-wuerzburg.de/computervision/home/), [Dr. Yulun Zhang](http://yulunzhang.com/) and [Dr. Kai Zhang](https://cszn.github.io/). 
+I received my Ph.D. degree in Statistics from [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang) and worked closely with [Prof. Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng) and [Prof. Shuang Xu](https://shuangxu96.github.io/).
 
-I have been fortunate enough to work as a Research Assistant at [Visual Computing Group](https://vcg.seas.harvard.edu/), [Harvard University](https://www.harvard.edu/), supervised by [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people) and work closely with [Dr. Zudi Lin](https://zudi-lin.github.io/).
-
-I also work closely with [Prof. Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng) and [Assoc. Prof. Shuang Xu](https://shuangxu96.github.io/) in Xi'an Jiaotong University.
+Previously, I was a visiting Ph.D. student at [Computer Vision Lab](https://vision.ee.ethz.ch/), [ETH Zürich] (https://ethz.ch/en.html), Switzerland, supervised by [Prof. Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html) and worked closely with [Prof. Radu Timofte](https://www.informatik.uni-wuerzburg.de/computervision/home/), [Dr. Yulun Zhang](http://yulunzhang.com/) and [Dr. Kai Zhang](https://cszn.github.io/),. Additionally, I worked as a research assistant at [Visual Computing Group](https://vcg.seas.harvard.edu/), [Harvard University](https://www.harvard.edu/), USA, supervised by [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people) and collaborated closely with [Dr. Zudi Lin](https://zudi-lin.github.io/). I also contributed to [Multimedia Analytics Laboratory] (https://kedema.org/Members.html), [City University of Hong Kong] (https://www.cityu.edu.hk/), Hong Kong, supervised by [Prof. Kede Ma](https://kedema.org/).
 
 My research lies at **low-level computer vision** and **model-based image processing**, and my current research is **multi-modal image fusion and restoration**.
 
 I'm open to any kinds of collaboration. Please feel free to contact me directly through email.
 
 **Email:**  
-*zixiangzhao@stu.xjtu.edu.cn*  
 *zixiang.zhao@hotmail.com*  
+*zixiang.zhao@ethz.ch*
+*zixiangzhao@stu.xjtu.edu.cn (Soon to be deprecated)*  
 
 ---
 
@@ -23,7 +22,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 1. Low-level vision (especially in Feature Separation and Information Fusion)
    - Image Fusion (e.g., infrared and visible, remote sensing, multi-focus images)
    - Multi-modal Image Restoration (e.g., RGB guided depth super-resolution, multi-spectral imaging)
-   - Image Enhancement
+   - Image \& Video Enhancement
 2. Computer Vision
    - Generative Models (e.g., generative adversarial network, denoising diffusion model)
    - Domain Adaption
@@ -36,7 +35,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 # NEWS
 - [**<font color='red'>HOT</font>**] Two papers are accepted by **ICML 2024** (One first-authored paper on vision-language-based image fusion and the other on residual binarization for image super-resolution).
 - [**<font color='red'>HOT</font>**] One first-authored paper on multi-modality image fusion is accepted by **CVPR 2024**.
-- [2024-10] One paper on multi-modality image fusion is accepted by **IEEE TCSVT**.
+- [2024-11] One paper on multi-modality image fusion is accepted by **IEEE TCSVT**.
 - [2024-09] One paper on image fusion is accepted by **IJCV**; One paper on continual learning is accepted by **NeurIPS 2024**; One paper on hyper-spectral image denoising is accepted by **IEEE TGRS**.
 - [2024-05] One paper on seismic data processing is accepted by **IEEE TGRS**.
 - [2024-04] Gave a presentation @ Peking University.

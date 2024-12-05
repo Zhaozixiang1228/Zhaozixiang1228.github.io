@@ -12,8 +12,8 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 **Email:**  
 *zixiang.zhao@hotmail.com*  
-*zixiang.zhao@ethz.ch*
-*zixiangzhao@stu.xjtu.edu.cn (Soon to be deprecated)*  
+*zixiang.zhao@ethz.ch*  
+*zixiangzhao@stu.xjtu.edu.cn (Soon to be deprecated)*
 
 ---
 

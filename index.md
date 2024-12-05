@@ -1,6 +1,6 @@
 <img align="right" src="images//photo.jpg" height="300px"/>
 
-My name is **Zixiang Zhao** (赵子祥, pronounced 'Tzu-Hsiang Chao'). I am currently a postdoctoral researcher at [Photogrammetry and Remote Sensing Group](https://prs.igp.ethz.ch/), [ETH Zürich](https://ethz.ch/en.html), Switzerland, supervised by [Prof. Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986). 
+My name is **Zixiang Zhao** (赵子祥, pronounced 'Tzu-Hsiang Chao'). I am currently a Postdoctoral Researcher at [Photogrammetry and Remote Sensing Group](https://prs.igp.ethz.ch/), [ETH Zürich](https://ethz.ch/en.html), Switzerland, supervised by [Prof. Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986). 
 
 I received my Ph.D. degree in Statistics from [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang) and worked closely with [Prof. Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng) and [Prof. Shuang Xu](https://shuangxu96.github.io/).
 

@@ -11,9 +11,9 @@ My research lies at **low-level computer vision** and **model-based image proces
 I'm open to any kinds of collaboration. Please feel free to contact me directly through email.
 
 **Email:**  
-*zixiang.zhao@hotmail.com*  
-*zixiang.zhao@ethz.ch*  
-*zixiangzhao@stu.xjtu.edu.cn (Soon to be deprecated)*
+*zixiang.zhao[AT]hotmail[DOT]com*  
+*zixiang.zhao[AT]ethz[DOT]ch*  
+*<del>zixiangzhao[AT]stu[DOT]xjtu[DOT]edu[DOT]cn</del> (Soon to be deprecated)*
 
 ---
 
@@ -103,31 +103,67 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 1. ***Efficient and Model-Based Infrared and Visible Image Fusion via Algorithm Unrolling.***
 * **Zixiang Zhao**, Shuang Xu, Jiangshe Zhang, Junmin Liu, Chunxia Zhang, Junmin Liu
-* Accepted by **IEEE Transactions on Circuits and Systems for Video Technology** (Top 1% Highly Cited Paper)
+* Accepted by **IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT) 2021** (Top 1% Highly Cited Paper)
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9416456), [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-AUIF-Net)
 
+1. ***Make Continual Learning Stronger via C-Flat.***
+* Ang Bian, Wei Li, Hangjie Yuan, Yu Chengrong, Mang Wang, **Zixiang Zhao**, Aojun Lu, Pengliang Ji, Tao Feng
+* Accepted by **Neural Information Processing Systems (NeurIPS) 2024**
+* Propose a Continual Flatness method featuring a flatter loss landscape tailored for continual learning.    
+  [*[Paper]*](https://neurips.cc/virtual/2024/poster/96074), [*[Arxiv]*](https://arxiv.org/abs/2404.00986), [*[Code]*](https://github.com/WanNaa/C-Flat)
+
+1. ***Flexible Residual Binarization for Image Super-Resolution.***
+* Yulun Zhang, Haotong Qin, Zixiang Zhao, Xianglong Liu, Martin Danelljan, Fisher Yu
+* Accepted by **International Conference on Machine Learning (ICML) 2024**
+* Proposed a flexible residual binarization image super-resolution method with second-order residual binarization and distillation-guided training.    
+  [*[Paper]*](https://proceedings.mlr.press/v235/zhang24bb.html), [*[Arxiv]*](https://openreview.net/pdf?id=zji9DLksTz), [*[Code]*]()
+
+1. ***ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning.***
+* Haowen Bai, **Zixiang Zhao<sup>✉</sup>**, Jiangshe Zhang<sup>✉</sup>, Yichen Wu, Lilun Deng, Yukun Cui, Shuang Xu, Baisong Jiang
+* Accepted by **International Journal of Computer Vision (IJCV) 2024**
+* Propose a unified meta-learning based image fusion framework that dynamically optimizes the fusion loss through source image reconstruction    
+  [*[Paper]*](https://link.springer.com/article/10.1007/s11263-024-02256-8), [*[Arxiv]*](https://arxiv.org/abs/2312.07943), [*[Code]*](https://github.com/HaowenBai/ReFusion)
+
+1. ***Deep Unfolding Multi-modal Image Fusion Network via Attribution Analysis.***
+* Haowen Bai, **Zixiang Zhao**, Jiangshe Zhang, Baisong Jiang, Lilun Deng, Yukun Cui, Shuang Xu, Chunxia Zhang
+* Accepted by **IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT) 2024**
+* Employed attribution analysis to tailor fused images more effectively for semantic segmentation and enhance the fusion-segmentation interaction    
+  [*[Paper]*](https://ieeexplore.ieee.org/abstract/document/10769519), [*[Arxiv]*](https://ieeexplore.ieee.org/abstract/document/10769519), [*[Code]*](https://github.com/HaowenBai/UAAFusion)
+
+1. ***Pan-Denoising: Guided Hyperspectral Image Denoising via Weighted Represent Coefficient Total Variation.***
+* Shuang Xu, Qiao Ke, Jiangjun Peng, Xiangyong Cao, **Zixiang Zhao**
+* Accepted by **IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS) 2024**
+* hyperspectral image denoising using panchromatic image guidance    
+  [*[Paper]*](https://ieeexplore.ieee.org/document/10663706), [*[Arxiv]*](https://arxiv.org/abs/2407.06064), [*[Code]*](https://github.com/shuangxu96/PWRCTV)
+
+1. ***Simultaneous Automatic Picking and Manual Picking Refinement for First-Break.***
+* Haowen Bai, **Zixiang Zhao**, Jiangshe Zhang, Yukun Cui, Chunxia Zhang, Zhenbo Guo, Yongjun Wang
+* Accepted by **IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS) 2024**
+* Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion    
+  [*[Paper]*](https://ieeexplore.ieee.org/document/10310277), [*[Arxiv]*](), [*[Code]*]()
+
 1. ***CACNN: Capsule Attention Convolutional Neural Networks for 3D Object Recognition.***
 * Kai Sun, Jiangshe Zhang, Shuang Xu, **Zixiang Zhao**, Chunxia Zhang, Junmin Liu, Junying Hu
-* Accepted by **IEEE Transactions on Neural Networks and Learning Systems**
+* Accepted by **IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS) 2023**
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion    
   [*[Paper]*](https://ieeexplore.ieee.org/document/10310277), [*[Arxiv]*](), [*[Code]*]()
 
 1. ***Hybrid Loss Guided Coarse-to-fine Model for Seismic Data Consecutively Missing Trace Reconstruction.***
 * Xiaoli Wei, Chunxia Zhang, Hongtao Wang, **Zixiang Zhao**, Deng Xiong, Shuang Xu, Jiangshe Zhang, Sang-Woon Kim
-* Accepted by **IEEE Transactions on Geoscience and Remote Sensing** 
+* Accepted by **IEEE Transactions on Geoscience and Remote Sensing  (IEEE TGRS) 2022** 
 * Propose a coarse-to-fine seismic data consecutively missing traces interpolation    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9955578), [*[Arxiv]*](), [*[Code]*]()
 
 1. ***Automatic Velocity Picking Using a Multi-Information Fusion Deep Semantic Segmentation Network.***
 * Hongtao Wang, Jiangshe Zhang, **Zixiang Zhao**, Chunxia Zhang, Long li, Zhiyu Yang, Weifeng Geng
-* Accepted by **IEEE Transactions on Geoscience and Remote Sensing** 
+* Accepted by **IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS) 2022** 
 * Propose a multi-information fusion network to estimate stacking velocity from the fusion information of velocity spectra    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9815261/), [*[Arxiv]*](https://arxiv.org/abs/2205.03645), [*[Code]*](https://github.com/newbee-ML/MIFN-Velocity-Picking)
 
 1. ***Deep Gradient Projection Networks for Pan-sharpening.***
 * Shuang Xu, Jiangshe Zhang, **Zixiang Zhao**, Kai Sun, Junmin Liu, Chunxia Zhang
-* Accepted by **CVPR 2021** (Poster)
+* Accepted by **CVPR 2021**
 * Develop a model-based deep pan-sharpening approach via Deep Gradient Projection Network     
   *[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Xu_Deep_Gradient_Projection_Networks_for_Pan-sharpening_CVPR_2021_paper.html)*, [*[ArXiv]*](https://arxiv.org/abs/2103.04584), [*[Code]*](https://github.com/xsxjtu/GPPNN)
 
@@ -138,18 +174,18 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
   [*[Paper]*](https://ieeexplore.ieee.org/abstract/document/9428272), [*[ArXiv]*](https://arxiv.org/abs/2101.00062), [*[Code]*](https://github.com/Zhaozixiang1228/Pansharpening-FGF-GAN)
 
 1. ***DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion.***
-* **Zixiang Zhao**\*, Shuang Xu\*, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
+* **Zixiang Zhao**<sup>\*</sup>, Shuang Xu<sup>\*</sup>, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
 * Accepted by **IJCAI 2020** 
 * Proposed a data-driven auto-encoder based network to accomplish the two-scale decomposition for image fusion    
   [*[Paper]*](https://www.ijcai.org/Proceedings/2020/135), [*[ArXiv]*](https://arxiv.org/abs/2003.09210v1), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-DIDFuse), [*[Accepted list]*](http://static.ijcai.org/2020-accepted_papers.html)
 
 1. ***Bayesian Fusion for Infrared and Visible Images.***
 * **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
-* Accepted by **Signal Processing**
+* Accepted by **Signal Processing 2020**
 * Established a Bayesian fusion model with a hierarchical Bayesian manner and the total-variation penalty, which can be inferred by the EM algorithm    
   [*[Paper]*](https://www.sciencedirect.com/science/article/pii/S0165168420302772), [*[ArXiv]*](https://arxiv.org/abs/2005.05839), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-Bayesian-Fusion)
 
-## <u> Preprint </u>
+<!-- ## <u> Preprint </u>
 
 1. ***Domain Adaptive Object Detection via Feature Separation and Alignment.***
 * Chengyang Liang\*, **Zixiang Zhao**\*, Junmin Liu, Jiangshe Zhang
@@ -159,7 +195,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 1. ***When Image Decomposition Meets Deep Learning: A Novel Infrared and Visible Image Fusion Method.***
 * **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Kai Sun, Chunxia Zhang, Junmin Liu
 * Journal version of IJCAI2020 paper    
-  [*[ArXiv]*](https://arxiv.org/abs/2009.01315), [*[Code]*]()
+  [*[ArXiv]*](https://arxiv.org/abs/2009.01315), [*[Code]*]() -->
 
 ---
 

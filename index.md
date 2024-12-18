@@ -24,7 +24,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 1. Low-level vision (especially in Feature Separation and Information Fusion)
    - Image Fusion (e.g., infrared and visible, remote sensing, multi-focus images)
    - Multi-modal Image Restoration (e.g., RGB guided depth super-resolution, multi-spectral imaging)
-   - Image \& Video Enhancement
+   - Image & Video Enhancement
 2. Computer Vision
    - Generative Models (e.g., generative adversarial network, denoising diffusion model)
    - Domain Adaption

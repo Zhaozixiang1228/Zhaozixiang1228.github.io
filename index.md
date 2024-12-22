@@ -21,7 +21,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 # CURRENT RESEARCH
 
-1. Low-level vision
+1. Low-Level Vision
    - Image & Video Restoration and Enhancement
    - Image Fusion (infrared-visible, remote sensing, multi-focus, multi-exposure images)
    - Multi-modal Image Restoration

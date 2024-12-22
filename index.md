@@ -22,11 +22,11 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 # CURRENT RESEARCH
 
 1. Low-level vision (especially in Feature Separation and Information Fusion)
-   - Image Fusion (e.g., infrared and visible, remote sensing, multi-focus images)
-   - Multi-modal Image Restoration (e.g., RGB guided depth super-resolution, multi-spectral imaging)
-   - Image & Video Enhancement
+   - Image & Video Restoration and Enhancement
+   - Image Fusion (infrared-visible, remote sensing, multi-focus, multi-exposure images)
+   - Multi-modal Image Restoration
 2. Computer Vision
-   - Generative Models (e.g., generative adversarial network, denoising diffusion model)
+   - Generative Models (e.g., denoising diffusion models, generative adversarial networks)
    - Domain Adaption
 3. Machine Learning
    - Self-supervised learning

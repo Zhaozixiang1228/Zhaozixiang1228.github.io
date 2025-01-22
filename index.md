@@ -35,12 +35,13 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 ---
 
 # NEWS
-- [**<font color='red'>HOT</font>**] Two papers are accepted by **ICML 2024** (One first-authored paper on vision-language-based image fusion and the other on residual binarization for image super-resolution).
-- [**<font color='red'>HOT</font>**] One first-authored paper on multi-modality image fusion is accepted by **CVPR 2024**.
+- [2025-01] One paper on weight binarization for diffusion model is accepted by **ICLR 2025**.
 - [2024-11] One paper on multi-modality image fusion is accepted by **IEEE TCSVT**.
 - [2024-09] One paper on image fusion is accepted by **IJCV**; One paper on continual learning is accepted by **NeurIPS 2024**; One paper on hyper-spectral image denoising is accepted by **IEEE TGRS**.
-- [2024-05] One paper on seismic data processing is accepted by **IEEE TGRS**.
+- [2024-06] One paper on seismic data processing is accepted by **IEEE TGRS**.
+- [2024-05] Two papers are accepted by **ICML 2024** (One first-authored paper on vision-language-based image fusion and the other on residual binarization for image super-resolution).
 - [2024-04] Gave a presentation @ Peking University.
+- [2024-02] One first-authored paper on multi-modality image fusion is accepted by **CVPR 2024**.
 - [2023-10] One paper on 3D Object Recognition is accepted by **IEEE TNNLS**.
 - [2023-09] Gave a presentation @ Cambridge University.
 - [2023-07] Two first-authored papers on image fusion and depth map super-resolution are accepted by **ICCV 2023** (**<font color='red'>1 Oral </font>** & 1 Poster).
@@ -109,7 +110,13 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9416456), [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-AUIF-Net)
 
-1. ***Make Continual Learning Stronger via C-Flat.***
+1. ***BinaryDM: Accurate Weight Binarization for Efficient Diffusion Models.***
+* Xingyu Zheng, Xianglong Liu, Haotong Qin, Xudong Ma, Mingyuan Zhang, Haojie Hao, Jiakai Wang, **Zixiang Zhao**, Jinyang Guo, Michele Magno
+* Accepted by **International Conference on Learning Representations (ICLR) 2025**
+* Propose a weight binarization approach for diffusion models.    
+  [*[Paper]*](https://openreview.net/forum?id=YaeZwhXJ4k&nesting=2&sort=date-desc), [*[Arxiv]*](https://arxiv.org/abs/2404.05662), [*[Code]*](https://github.com/Xingyu-Zheng/BinaryDM)
+
+2. ***Make Continual Learning Stronger via C-Flat.***
 * Ang Bian, Wei Li, Hangjie Yuan, Yu Chengrong, Mang Wang, **Zixiang Zhao**, Aojun Lu, Pengliang Ji, Tao Feng
 * Accepted by **Neural Information Processing Systems (NeurIPS) 2024**
 * Propose a Continual Flatness method featuring a flatter loss landscape tailored for continual learning.    

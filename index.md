@@ -219,6 +219,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * European Conference on Computer Vision (ECCV)
 * Conference on Neural Information Processing Systems (NeurIPS)
 * International Conference on Learning Representations (ICLR)
+* ACM SIGGRAPH
 * International Joint Conference on Artificial Intelligence (IJCAI)
 * AAAI Conference on Artificial Intelligence (AAAI)
 * IEEE International Conference on Robotics and Automation (ICRA)

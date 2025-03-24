@@ -35,6 +35,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 ---
 
 # NEWS
+- [2025-03] One paper on Unpaired Point Cloud Completion is accepted by **IEEE TMM**.
 - [2025-02] One paper on multi-modality image fusion is accepted by **CVPR 2025**.
 - [2025-01] One paper on weight binarization for diffusion model is accepted by **ICLR 2025**.
 - [2024-11] One paper on multi-modality image fusion is accepted by **IEEE TCSVT**.
@@ -123,7 +124,13 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Propose a weight binarization approach for diffusion models.    
   [*[Paper]*](https://openreview.net/forum?id=YaeZwhXJ4k&nesting=2&sort=date-desc), [*[Arxiv]*](https://arxiv.org/abs/2404.05662), [*[Code]*](https://github.com/Xingyu-Zheng/BinaryDM)
 
-2. ***Make Continual Learning Stronger via C-Flat.***
+1. ***RefComp: A Reference-guided Unified Framework for Unpaired Point Cloud Completion.***
+* Yixuan Yang, Jinyu Yang, **Zixiang Zhao**, Victor Sanchez, Feng Zheng
+* Accepted by **IEEE Transactions on Multimedia (IEEE TMM) 2025**
+* Propose a unified framework for unpaired point cloud completion    
+  [*[Paper]*](), [*[Arxiv]*](), [*[Code]*]()
+
+1. ***Make Continual Learning Stronger via C-Flat.***
 * Ang Bian, Wei Li, Hangjie Yuan, Yu Chengrong, Mang Wang, **Zixiang Zhao**, Aojun Lu, Pengliang Ji, Tao Feng
 * Accepted by **Neural Information Processing Systems (NeurIPS) 2024**
 * Propose a Continual Flatness method featuring a flatter loss landscape tailored for continual learning.    

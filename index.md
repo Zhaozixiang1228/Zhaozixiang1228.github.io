@@ -36,7 +36,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 
 # NEWS
 - [2025-03] One paper on Unpaired Point Cloud Completion is accepted by **IEEE TMM**.
-- [2025-02] One paper on multi-modality image fusion is accepted by **CVPR 2025**.
+- [2025-02] One paper on multi-modality image fusion is accepted by **CVPR 2025 <font color='red'> (Highlight) </font>**.
 - [2025-01] One paper on weight binarization for diffusion model is accepted by **ICLR 2025**.
 - [2024-11] One paper on multi-modality image fusion is accepted by **IEEE TCSVT**.
 - [2024-09] One paper on image fusion is accepted by **IJCV**; One paper on continual learning is accepted by **NeurIPS 2024**; One paper on hyper-spectral image denoising is accepted by **IEEE TGRS**.
@@ -114,7 +114,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 1. ***Task-driven Image Fusion with Learnable Fusion Loss.***
 * Haowen Bai, Jiangshe Zhang<sup>✉</sup>, **Zixiang Zhao<sup>✉</sup>**, Yichen Wu, Lilun Deng, Yukun Cui, Shuang Xu
-* Accepted by **CVPR 2025**
+* Accepted by **CVPR 2025** **<font color='red'> (Highlight) </font>**
 * Propose a fusion framework incorporating a learnable fusion loss guided by downstream task loss    
   [*[Paper]*](), [*[Arxiv]*](https://arxiv.org/abs/2412.03240), [*[Code]*](https://github.com/HaowenBai/TDFusion)
 

@@ -258,6 +258,11 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * VALSE (Vision and Learning SEminar) Student Club Member
 * AI TIME PhD Branch Leader
 
+## <u> Teaching </u>
+* Teaching assistant, Image Processing, ETH Zurich, 2025 Spring.
+* Teaching assistant, Probability Theory and Mathematical Statistics, Xi'an Jiaotong University, 2019 & 2020 Spring.
+* Teaching assistant, Advanced Mathematics, Xi'an Jiaotong University, 2018 & 2019 Fall.
+
 ---
 
 # Selected Talks

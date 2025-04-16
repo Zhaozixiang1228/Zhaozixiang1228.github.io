@@ -236,6 +236,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * ACM SIGGRAPH
 * International Joint Conference on Artificial Intelligence (IJCAI)
 * AAAI Conference on Artificial Intelligence (AAAI)
+* ACM Multimedia (ACMMM)
 * IEEE International Conference on Robotics and Automation (ICRA)
 * Asian Conference on Computer Vision (ACCV)
 

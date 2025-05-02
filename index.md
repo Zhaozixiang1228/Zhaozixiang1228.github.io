@@ -35,7 +35,8 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 ---
 
 # NEWS
-- [2025-03] One paper on Unpaired Point Cloud Completion is accepted by **IEEE TMM**.
+- [2025-05] One paper on quantization of video generation model is accepted by **ICML 2025**.
+- [2025-03] One paper on unpaired point cloud completion is accepted by **IEEE TMM**.
 - [2025-02] One paper on multi-modality image fusion is accepted by **CVPR 2025 <font color='red'> (Highlight) </font>**.
 - [2025-01] One paper on weight binarization for diffusion model is accepted by **ICLR 2025**.
 - [2024-11] One paper on multi-modality image fusion is accepted by **IEEE TCSVT**.

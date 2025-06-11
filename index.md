@@ -68,7 +68,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 1. ***A Unified Solution to Video Fusion: From Multi-Frame Learning to Benchmarking.***
 * **Zixiang Zhao**, Haowen Bai, Bingxin Ke, Yukun Cui, Lilun Deng, Yulun Zhang, Kai Zhang, Konrad Schindler
 * Pioneering the first unified framework, benchmark, loss and evaluation protocol for video fusion across four key tasks    
-  [*[Project Page]*🔥](https://vfbench.github.io/), [*[ArXiv]*](https://arxiv.org/abs/2505.19858), [*[Code]*](https://github.com/Zhaozixiang1228/VF-Bench)
+  [*[Project Page🔥]*](https://vfbench.github.io/), [*[ArXiv]*](https://arxiv.org/abs/2505.19858), [*[Code]*](https://github.com/Zhaozixiang1228/VF-Bench)
 
 1. ***Image Fusion via Vision-Language Model.***
 * **Zixiang Zhao**, Lilun Deng, Haowen Bai, Yukun Cui, Zhipeng Zhang, Yulun Zhang, Haotong Qin, Dongdong Chen, Jiangshe Zhang, Peng Wang, Luc Van Gool

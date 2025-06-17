@@ -35,6 +35,7 @@ I'm open to any kinds of collaboration. Please feel free to contact me directly 
 ---
 
 # NEWS
+- [2025-06] One paper on 3D indoor scene layout generation is accepted by **IROS 2025**.
 - [2025-05] One paper on quantization of video generation model is accepted by **ICML 2025**.
 - [2025-03] One paper on unpaired point cloud completion is accepted by **IEEE TMM**.
 - [2025-02] One paper on multi-modality image fusion is accepted by **CVPR 2025 <font color='red'> (Highlight) </font>**.
@@ -118,11 +119,23 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9416456), [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-AUIF-Net)
 
+1. ***LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model.***
+* Yixuan Yang, Junru Lu, **Zixiang Zhao**, Zhen Luo, James J.Q. Yu, Victor Sanchez, Feng Zheng
+* Accepted by **Intelligent Robots and Systems (IROS) 2025**
+* Presented a novel 3D indoor scene layout designer based on lightweight fine-tuned open-source LLM     
+  [*[Paper]*](), [*[Arxiv]*](https://arxiv.org/abs/2406.03866), [*[Code]*]()
+
+1. ***Q-VDiT: Towards Accurate Quantization and Distillation of Video-Generation Diffusion Transformers.***
+* Weilun Feng, Chuanguang Yang, Haotong Qin, Xiangqi Li, Yu Wang, Zhulin An, Libo Huang, Boyu Diao, **Zixiang Zhao**, Yongjun Xu, Michele Magno 
+* Accepted by **International Conference on Machine Learning (ICML) 2025**
+* Presented Q-VDiT, a quantization framework specifically designed for video DiT models     
+  [*[Paper]*](), [*[Arxiv]*](https://arxiv.org/abs/2505.22167), [*[Code]*](https://github.com/cantbebetter2/Q-VDiT)
+
 1. ***Task-driven Image Fusion with Learnable Fusion Loss.***
 * Haowen Bai, Jiangshe Zhang<sup>✉</sup>, **Zixiang Zhao<sup>✉</sup>**, Yichen Wu, Lilun Deng, Yukun Cui, Shuang Xu
 * Accepted by **CVPR 2025** **<font color='red'> (Highlight) </font>**
 * Propose a fusion framework incorporating a learnable fusion loss guided by downstream task loss    
-  [*[Paper]*](), [*[Arxiv]*](https://arxiv.org/abs/2412.03240), [*[Code]*](https://github.com/HaowenBai/TDFusion)
+  [*[Paper]*](https://openaccess.thecvf.com/content/CVPR2025/html/Bai_Task-driven_Image_Fusion_with_Learnable_Fusion_Loss_CVPR_2025_paper.html), [*[Arxiv]*](https://arxiv.org/abs/2412.03240), [*[Code]*](https://github.com/HaowenBai/TDFusion)
 
 1. ***BinaryDM: Accurate Weight Binarization for Efficient Diffusion Models.***
 * Xingyu Zheng, Xianglong Liu, Haotong Qin, Xudong Ma, Mingyuan Zhang, Haojie Hao, Jiakai Wang, **Zixiang Zhao**, Jinyang Guo, Michele Magno

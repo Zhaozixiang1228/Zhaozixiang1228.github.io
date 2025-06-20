@@ -65,7 +65,7 @@ For ETH students, welcome to check our group’s [Projects Page](https://prs.igp
 
 You can find the full list on my [**Google Scholar**](https://scholar.google.com/citations?user=tUv_X8cAAAAJ&hl).
 
-## <u> First-author / Project Leader </u>
+## <u> First-Author / Project Leader </u>
 1. ***A Unified Solution to Video Fusion: From Multi-Frame Learning to Benchmarking.***
 * **Zixiang Zhao**, Haowen Bai, Bingxin Ke, Yukun Cui, Lilun Deng, Yulun Zhang, Kai Zhang, Konrad Schindler
 * Pioneering the first unified framework, benchmark, loss and evaluation protocol for video fusion across four key tasks    

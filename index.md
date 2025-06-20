@@ -23,8 +23,8 @@ For ETH students, welcome to check our group’s [Projects Page](https://prs.igp
 
 1. Low-Level Vision
    - Image & Video Restoration and Enhancement
-   - Image Fusion (infrared-visible, remote sensing, multi-focus, multi-exposure images)
-   - Multi-modal Image Restoration
+   - Image & Video Fusion (infrared-visible, remote sensing, multi-focus, multi-exposure images)
+   - Multi-modal Learning
 2. Computer Vision
    - Generative Models (e.g., denoising diffusion models, generative adversarial networks)
    - Domain Adaption
@@ -61,15 +61,21 @@ For ETH students, welcome to check our group’s [Projects Page](https://prs.igp
 
 ---
 
-# PUBLICATIONS
+# SELECTED PUBLICATIONS
 
 You can find the full list on my [**Google Scholar**](https://scholar.google.com/citations?user=tUv_X8cAAAAJ&hl).
 
-## <u> Selected Publications </u>
+## <u> First-author / Project Leader </u>
 1. ***A Unified Solution to Video Fusion: From Multi-Frame Learning to Benchmarking.***
 * **Zixiang Zhao**, Haowen Bai, Bingxin Ke, Yukun Cui, Lilun Deng, Yulun Zhang, Kai Zhang, Konrad Schindler
 * Pioneering the first unified framework, benchmark, loss and evaluation protocol for video fusion across four key tasks    
   [*[Project Page🔥]*](https://vfbench.github.io/), [*[ArXiv]*](https://arxiv.org/abs/2505.19858), [*[Code]*](https://github.com/Zhaozixiang1228/VF-Bench)
+
+1. ***Task-driven Image Fusion with Learnable Fusion Loss.***
+* Haowen Bai, Jiangshe Zhang<sup>✉</sup>, **Zixiang Zhao<sup>✉</sup>**, Yichen Wu, Lilun Deng, Yukun Cui, Shuang Xu
+* Accepted by **CVPR 2025** **<font color='red'> (Highlight) </font>**
+* Propose a fusion framework incorporating a learnable fusion loss guided by downstream task loss    
+  [*[Paper]*](https://openaccess.thecvf.com/content/CVPR2025/html/Bai_Task-driven_Image_Fusion_with_Learnable_Fusion_Loss_CVPR_2025_paper.html), [*[Arxiv]*](https://arxiv.org/abs/2412.03240), [*[Code]*](https://github.com/HaowenBai/TDFusion)
 
 1. ***Image Fusion via Vision-Language Model.***
 * **Zixiang Zhao**, Lilun Deng, Haowen Bai, Yukun Cui, Zhipeng Zhang, Yulun Zhang, Haotong Qin, Dongdong Chen, Jiangshe Zhang, Peng Wang, Luc Van Gool
@@ -82,6 +88,12 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Accepted by **CVPR 2024** 
 * Propose a novel end-to-end self-supervised fusion algorithm based on the equivariant sensing and imaging prior     
   [*[Paper]*](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Equivariant_Multi-Modality_Image_Fusion_CVPR_2024_paper.html), [*[ArXiv]*](https://arxiv.org/abs/2305.11443), [*[Code]*](https://github.com/Zhaozixiang1228/MMIF-EMMA)
+
+1. ***ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning.***
+* Haowen Bai, **Zixiang Zhao<sup>✉</sup>**, Jiangshe Zhang<sup>✉</sup>, Yichen Wu, Lilun Deng, Yukun Cui, Shuang Xu, Baisong Jiang
+* Accepted by **International Journal of Computer Vision (IJCV) 2024**
+* Propose a unified meta-learning based image fusion framework that dynamically optimizes the fusion loss through source image reconstruction    
+  [*[Paper]*](https://link.springer.com/article/10.1007/s11263-024-02256-8), [*[Arxiv]*](https://arxiv.org/abs/2312.07943), [*[Code]*](https://github.com/HaowenBai/ReFusion)
 
 1. ***DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion.***
 * **Zixiang Zhao**, Haowen Bai, Yuanzhi Zhu, Jiangshe Zhang, Shuang Xu, Yulun Zhang, Kai Zhang, Deyu Meng, Radu Timofte, Luc Van Gool
@@ -119,6 +131,26 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Presented an algorithm unrolling based interpretable deep image decomposition network for infrared and visible image fusion    
   [*[Paper]*](https://ieeexplore.ieee.org/document/9416456), [*[Arxiv]*](https://arxiv.org/abs/2005.05896), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-AUIF-Net)
 
+1. ***FGF-GAN: A Lightweight Generative Adversarial Network for Pansharpening via Fast Guided Filter.***
+* **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Kai Sun, Lu Huang, Junmin Liu, Chunxia Zhang
+* Accepted by **ICME 2021** **<font color='red'> (ORAL) </font>**
+* Propose a generative adversarial network for pansharpening via the fast guided filter and the spatial attention module    
+  [*[Paper]*](https://ieeexplore.ieee.org/abstract/document/9428272), [*[ArXiv]*](https://arxiv.org/abs/2101.00062), [*[Code]*](https://github.com/Zhaozixiang1228/Pansharpening-FGF-GAN)
+
+1. ***DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion.***
+* **Zixiang Zhao**<sup>\*</sup>, Shuang Xu<sup>\*</sup>, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
+* Accepted by **IJCAI 2020** 
+* Proposed a data-driven auto-encoder based network to accomplish the two-scale decomposition for image fusion    
+  [*[Paper]*](https://www.ijcai.org/Proceedings/2020/135), [*[ArXiv]*](https://arxiv.org/abs/2003.09210v1), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-DIDFuse), [*[Accepted list]*](http://static.ijcai.org/2020-accepted_papers.html)
+
+1. ***Bayesian Fusion for Infrared and Visible Images.***
+* **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
+* Accepted by **Signal Processing 2020**
+* Established a Bayesian fusion model with a hierarchical Bayesian manner and the total-variation penalty, which can be inferred by the EM algorithm    
+  [*[Paper]*](https://www.sciencedirect.com/science/article/pii/S0165168420302772), [*[ArXiv]*](https://arxiv.org/abs/2005.05839), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-Bayesian-Fusion)
+
+## <u> Collaborative Works </u>
+
 1. ***LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model.***
 * Yixuan Yang, Junru Lu, **Zixiang Zhao**, Zhen Luo, James J.Q. Yu, Victor Sanchez, Feng Zheng
 * Accepted by **Intelligent Robots and Systems (IROS) 2025**
@@ -131,11 +163,6 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Presented Q-VDiT, a quantization framework specifically designed for video DiT models     
   [*[Paper]*](), [*[Arxiv]*](https://arxiv.org/abs/2505.22167), [*[Code]*](https://github.com/cantbebetter2/Q-VDiT)
 
-1. ***Task-driven Image Fusion with Learnable Fusion Loss.***
-* Haowen Bai, Jiangshe Zhang<sup>✉</sup>, **Zixiang Zhao<sup>✉</sup>**, Yichen Wu, Lilun Deng, Yukun Cui, Shuang Xu
-* Accepted by **CVPR 2025** **<font color='red'> (Highlight) </font>**
-* Propose a fusion framework incorporating a learnable fusion loss guided by downstream task loss    
-  [*[Paper]*](https://openaccess.thecvf.com/content/CVPR2025/html/Bai_Task-driven_Image_Fusion_with_Learnable_Fusion_Loss_CVPR_2025_paper.html), [*[Arxiv]*](https://arxiv.org/abs/2412.03240), [*[Code]*](https://github.com/HaowenBai/TDFusion)
 
 1. ***BinaryDM: Accurate Weight Binarization for Efficient Diffusion Models.***
 * Xingyu Zheng, Xianglong Liu, Haotong Qin, Xudong Ma, Mingyuan Zhang, Haojie Hao, Jiakai Wang, **Zixiang Zhao**, Jinyang Guo, Michele Magno
@@ -161,11 +188,6 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Proposed a flexible residual binarization image super-resolution method with second-order residual binarization and distillation-guided training.    
   [*[Paper]*](https://proceedings.mlr.press/v235/zhang24bb.html), [*[Arxiv]*](https://openreview.net/pdf?id=zji9DLksTz), [*[Code]*]()
 
-1. ***ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning.***
-* Haowen Bai, **Zixiang Zhao<sup>✉</sup>**, Jiangshe Zhang<sup>✉</sup>, Yichen Wu, Lilun Deng, Yukun Cui, Shuang Xu, Baisong Jiang
-* Accepted by **International Journal of Computer Vision (IJCV) 2024**
-* Propose a unified meta-learning based image fusion framework that dynamically optimizes the fusion loss through source image reconstruction    
-  [*[Paper]*](https://link.springer.com/article/10.1007/s11263-024-02256-8), [*[Arxiv]*](https://arxiv.org/abs/2312.07943), [*[Code]*](https://github.com/HaowenBai/ReFusion)
 
 1. ***Deep Unfolding Multi-modal Image Fusion Network via Attribution Analysis.***
 * Haowen Bai, **Zixiang Zhao**, Jiangshe Zhang, Baisong Jiang, Lilun Deng, Yukun Cui, Shuang Xu, Chunxia Zhang
@@ -208,24 +230,6 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Accepted by **CVPR 2021**
 * Develop a model-based deep pan-sharpening approach via Deep Gradient Projection Network     
   *[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Xu_Deep_Gradient_Projection_Networks_for_Pan-sharpening_CVPR_2021_paper.html)*, [*[ArXiv]*](https://arxiv.org/abs/2103.04584), [*[Code]*](https://github.com/xsxjtu/GPPNN)
-
-1. ***FGF-GAN: A Lightweight Generative Adversarial Network for Pansharpening via Fast Guided Filter.***
-* **Zixiang Zhao**, Jiangshe Zhang, Shuang Xu, Kai Sun, Lu Huang, Junmin Liu, Chunxia Zhang
-* Accepted by **ICME 2021** **<font color='red'> (ORAL) </font>**
-* Propose a generative adversarial network for pansharpening via the fast guided filter and the spatial attention module    
-  [*[Paper]*](https://ieeexplore.ieee.org/abstract/document/9428272), [*[ArXiv]*](https://arxiv.org/abs/2101.00062), [*[Code]*](https://github.com/Zhaozixiang1228/Pansharpening-FGF-GAN)
-
-1. ***DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion.***
-* **Zixiang Zhao**<sup>\*</sup>, Shuang Xu<sup>\*</sup>, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
-* Accepted by **IJCAI 2020** 
-* Proposed a data-driven auto-encoder based network to accomplish the two-scale decomposition for image fusion    
-  [*[Paper]*](https://www.ijcai.org/Proceedings/2020/135), [*[ArXiv]*](https://arxiv.org/abs/2003.09210v1), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-DIDFuse), [*[Accepted list]*](http://static.ijcai.org/2020-accepted_papers.html)
-
-1. ***Bayesian Fusion for Infrared and Visible Images.***
-* **Zixiang Zhao**, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang
-* Accepted by **Signal Processing 2020**
-* Established a Bayesian fusion model with a hierarchical Bayesian manner and the total-variation penalty, which can be inferred by the EM algorithm    
-  [*[Paper]*](https://www.sciencedirect.com/science/article/pii/S0165168420302772), [*[ArXiv]*](https://arxiv.org/abs/2005.05839), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-Bayesian-Fusion)
 
 <!-- ## <u> Preprint </u>
 

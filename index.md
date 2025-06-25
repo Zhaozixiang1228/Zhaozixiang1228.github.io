@@ -15,7 +15,7 @@ For ETH students, welcome to check our group’s [Projects Page](https://prs.igp
 **Email:**  
 *zixiang.zhao[AT]hotmail[DOT]com*  
 *zixiang.zhao[AT]ethz[DOT]ch*  
-*<del>zixiangzhao[AT]stu[DOT]xjtu[DOT]edu[DOT]cn</del> (Soon to be deprecated)*
+*<del>zixiangzhao[AT]stu[DOT]xjtu[DOT]edu[DOT]cn</del>*
 
 ---
 

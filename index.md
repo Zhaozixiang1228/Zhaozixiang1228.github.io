@@ -35,7 +35,7 @@ For ETH students, welcome to check our group’s [Projects Page](https://prs.igp
 ---
 
 # NEWS
-- [2025-06] One paper on 3D indoor scene layout generation is accepted by **IROS 2025**.
+- [2025-06] Two papers are accepted by **ICCV 2025** (One on retinex-based image fusion and and the other on hyper-spectral image restoration); One paper on 3D indoor scene layout generation is accepted by **IROS 2025**.
 - [2025-05] One paper on quantization of video generation model is accepted by **ICML 2025**.
 - [2025-03] One paper on unpaired point cloud completion is accepted by **IEEE TMM**.
 - [2025-02] One paper on multi-modality image fusion is accepted by **CVPR 2025 <font color='red'> (Highlight) </font>**.

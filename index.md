@@ -10,7 +10,8 @@ Additionally, I worked as a research assistant at [Visual Computing Group](https
 
 My research lies at **low-level computer vision** and **model-based image processing**, and my current research is **multi-modal image fusion and restoration**.
 
-For ETH students, welcome to check our group’s [Projects Page](https://prs.igp.ethz.ch/education/open-topics-for-students.html) or [SiROP](https://sirop.org/) postings, or contact me directly via email with your topic of interest. For collaborations beyond ETH domain, I’m open to all kinds of collaboration — please feel free to reach out via email.
+For ETH students, welcome to check our group’s [Projects Page](https://prs.igp.ethz.ch/education/open-topics-for-students.html) or [SiROP](https://sirop.org/) postings, or contact me directly via email with your topic of interest.    
+For collaborations beyond ETH domain, I’m open to all kinds of collaboration — please feel free to reach out via email.
 
 **Email:**  
 *zixiang.zhao[AT]hotmail[DOT]com*  

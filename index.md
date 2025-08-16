@@ -36,6 +36,7 @@ For collaborations beyond ETH domain, Iâ€™m open to all kinds of collaboration â
 ---
 
 # NEWS
+- [2025-08] I am serving as an Area Chair for CVPR 2026; One paper on parameterized low-rank regularizer is accepted by **IJCV**.
 - [2025-06] Two papers are accepted by **ICCV 2025** (One on retinex-based image fusion and and the other on hyper-spectral image restoration); One paper on 3D indoor scene layout generation is accepted by **IROS 2025**.
 - [2025-05] One paper on quantization of video generation model is accepted by **ICML 2025**.
 - [2025-03] One paper on unpaired point cloud completion is accepted by **IEEE TMM**.

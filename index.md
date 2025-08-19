@@ -155,19 +155,19 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 1. ***Parameterized Low-Rank Regularizer for High-dimensional Visual Data***
 * Shuang Xu, **Zixiang Zhao**, Xiangyong Cao, Jiangjun Peng, Xi-Le Zhao, Deyu Meng, Yulun Zhang, Radu Timofte, Luc Van Gool
 * Accepted by **IJCV 2025** 
-* Propose a parameterized low-rank regularizer, modeling low-rank visual data through neural networks parameterized matrix factorization
+* Propose a parameterized low-rank regularizer, modeling low-rank visual data through neural networks parameterized matrix factorization  
   [*[Paper]*](), [*[Arxiv]*](), [*[Code]*]()
 
 1. ***Hipandas: Hyperspectral Image Joint Denoising and Super-Resolution by Image Fusion with the Panchromatic Image***
 * Shuang Xu, **Zixiang Zhao**, Haowen Bai, Chang Yu, Jiangjun Peng, Xiangyong Cao, Deyu Meng
 * Accepted by **ICCV 2025** 
-* Propose a novel learning paradigm that reconstructs HRHS images from noisy low-resolution HSIs (LRHS) and high-resolution PAN images
+* Propose a novel learning paradigm that reconstructs HRHS images from noisy low-resolution HSIs (LRHS) and high-resolution PAN images  
   [*[Paper]*](), [*[Arxiv]*](https://arxiv.org/abs/2412.04201), [*[Code]*]()
 
 1. ***Retinex-MEF: Retinex-based Glare Effects Aware Unsupervised Multi-Exposure Image Fusion***
 * Haowen Bai, Jiangshe Zhang, **Zixiang Zhao**, Lilun Deng, Yukun Cui, Shuang Xu
 * Accepted by **ICCV 2025** 
-* Introduce an unsupervised and controllable method termed Retinex-MEF
+* Introduce an unsupervised and controllable method termed Retinex-MEF  
   [*[Paper]*](), [*[Arxiv]*](https://arxiv.org/abs/2503.07235), [*[Code]*](https://github.com/HaowenBai/Retinex-MEF)
 
 1. ***LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model.***

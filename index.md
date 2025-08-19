@@ -152,6 +152,23 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
   [*[Paper]*](https://www.sciencedirect.com/science/article/pii/S0165168420302772), [*[ArXiv]*](https://arxiv.org/abs/2005.05839), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-Bayesian-Fusion)
 
 ## <u> Collaborative Works </u>
+1. ***Parameterized Low-Rank Regularizer for High-dimensional Visual Data***
+* Shuang Xu, **Zixiang Zhao**, Xiangyong Cao, Jiangjun Peng, Xi-Le Zhao, Deyu Meng, Yulun Zhang, Radu Timofte, Luc Van Gool
+* Accepted by **IJCV 2025** 
+* Propose a parameterized low-rank regularizer, modeling low-rank visual data through neural networks parameterized matrix factorization
+  [*[Paper]*](), [*[Arxiv]*](), [*[Code]*]()
+
+1. ***Hipandas: Hyperspectral Image Joint Denoising and Super-Resolution by Image Fusion with the Panchromatic Image***
+* Shuang Xu, **Zixiang Zhao**, Haowen Bai, Chang Yu, Jiangjun Peng, Xiangyong Cao, Deyu Meng
+* Accepted by **ICCV 2025** 
+* Propose a novel learning paradigm that reconstructs HRHS images from noisy low-resolution HSIs (LRHS) and high-resolution PAN images
+  [*[Paper]*](), [*[Arxiv]*](https://arxiv.org/abs/2412.04201), [*[Code]*]()
+
+1. ***Retinex-MEF: Retinex-based Glare Effects Aware Unsupervised Multi-Exposure Image Fusion***
+* Haowen Bai, Jiangshe Zhang, **Zixiang Zhao**, Lilun Deng, Yukun Cui, Shuang Xu
+* Accepted by **ICCV 2025** 
+* Introduce an unsupervised and controllable method termed Retinex-MEF
+  [*[Paper]*](), [*[Arxiv]*](https://arxiv.org/abs/2503.07235), [*[Code]*](https://github.com/HaowenBai/Retinex-MEF)
 
 1. ***LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model.***
 * Yixuan Yang, Junru Lu, **Zixiang Zhao**, Zhen Luo, James J.Q. Yu, Victor Sanchez, Feng Zheng
@@ -161,7 +178,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 1. ***Q-VDiT: Towards Accurate Quantization and Distillation of Video-Generation Diffusion Transformers.***
 * Weilun Feng, Chuanguang Yang, Haotong Qin, Xiangqi Li, Yu Wang, Zhulin An, Libo Huang, Boyu Diao, **Zixiang Zhao**, Yongjun Xu, Michele Magno 
-* Accepted by **International Conference on Machine Learning (ICML) 2025**
+* Accepted by **ICML 2025**
 * Presented Q-VDiT, a quantization framework specifically designed for video DiT models     
   [*[Paper]*](), [*[Arxiv]*](https://arxiv.org/abs/2505.22167), [*[Code]*](https://github.com/cantbebetter2/Q-VDiT)
 
@@ -249,6 +266,9 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 # Professional Services
 
+## <u> Area Chair </u>
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
+
 ## <u> PC Member | Reviewer </u>
 
 ### Conferences 
@@ -278,6 +298,10 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Pattern Recognition
 * Signal Processing
 * IEEE Signal Processing Letters (SPL)
+
+## <u> Guest Editor </u>
+* Remote Sensing
+* Journal of Imaging
 
 ## <u> Membership </u>
 * IEEE Graduate Student Member

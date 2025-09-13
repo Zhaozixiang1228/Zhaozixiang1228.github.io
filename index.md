@@ -73,8 +73,20 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Pioneering the first unified framework, benchmark, loss and evaluation protocol for video fusion across four key tasks    
   [*[Project Page🔥]*](https://vfbench.github.io/), [*[ArXiv]*](https://arxiv.org/abs/2505.19858), [*[Code]*](https://github.com/Zhaozixiang1228/VF-Bench)
 
+1. ***Hipandas: Hyperspectral Image Joint Denoising and Super-Resolution by Image Fusion with the Panchromatic Image***
+* Shuang Xu, **Zixiang Zhao<sup>✉</sup>**, Haowen Bai, Chang Yu, Jiangjun Peng, Xiangyong Cao<sup>✉</sup>, Deyu Meng
+* Accepted by **ICCV 2025** 
+* Propose a novel learning paradigm that reconstructs HRHS images from noisy low-resolution HSIs (LRHS) and high-resolution PAN images  
+  [*[Paper]*](), [*[Arxiv]*](https://arxiv.org/abs/2412.04201), [*[Code]*]()
+
+1. ***Retinex-MEF: Retinex-based Glare Effects Aware Unsupervised Multi-Exposure Image Fusion***
+* Haowen Bai, Jiangshe Zhang<sup>✉</sup>, **Zixiang Zhao<sup>✉</sup>**, Lilun Deng, Yukun Cui, Shuang Xu
+* Accepted by **ICCV 2025** 
+* Introduce an unsupervised and controllable method termed Retinex-MEF  
+  [*[Paper]*](), [*[Arxiv]*](https://arxiv.org/abs/2503.07235), [*[Code]*](https://github.com/HaowenBai/Retinex-MEF)
+  
 1. ***Task-driven Image Fusion with Learnable Fusion Loss.***
-* Haowen Bai, Jiangshe Zhang<sup>✉</sup>, **Zixiang Zhao<sup>✉</sup>**, Yichen Wu, Lilun Deng, Yukun Cui, Shuang Xu
+* Haowen Bai, Jiangshe Zhang<sup>✉</sup>, **Zixiang Zhao<sup>✉</sup>**, Yichen Wu, Lilun Deng, Yukun Cui, Tao Feng, Shuang Xu
 * Accepted by **CVPR 2025** **<font color='red'> (Highlight) </font>**
 * Propose a fusion framework incorporating a learnable fusion loss guided by downstream task loss    
   [*[Paper]*](https://openaccess.thecvf.com/content/CVPR2025/html/Bai_Task-driven_Image_Fusion_with_Learnable_Fusion_Loss_CVPR_2025_paper.html), [*[Arxiv]*](https://arxiv.org/abs/2412.03240), [*[Code]*](https://github.com/HaowenBai/TDFusion)
@@ -157,18 +169,6 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * Accepted by **IJCV 2025** 
 * Propose a parameterized low-rank regularizer, modeling low-rank visual data through neural networks parameterized matrix factorization  
   [*[Paper]*](), [*[Arxiv]*](), [*[Code]*]()
-
-1. ***Hipandas: Hyperspectral Image Joint Denoising and Super-Resolution by Image Fusion with the Panchromatic Image***
-* Shuang Xu, **Zixiang Zhao**, Haowen Bai, Chang Yu, Jiangjun Peng, Xiangyong Cao, Deyu Meng
-* Accepted by **ICCV 2025** 
-* Propose a novel learning paradigm that reconstructs HRHS images from noisy low-resolution HSIs (LRHS) and high-resolution PAN images  
-  [*[Paper]*](), [*[Arxiv]*](https://arxiv.org/abs/2412.04201), [*[Code]*]()
-
-1. ***Retinex-MEF: Retinex-based Glare Effects Aware Unsupervised Multi-Exposure Image Fusion***
-* Haowen Bai, Jiangshe Zhang, **Zixiang Zhao**, Lilun Deng, Yukun Cui, Shuang Xu
-* Accepted by **ICCV 2025** 
-* Introduce an unsupervised and controllable method termed Retinex-MEF  
-  [*[Paper]*](), [*[Arxiv]*](https://arxiv.org/abs/2503.07235), [*[Code]*](https://github.com/HaowenBai/Retinex-MEF)
 
 1. ***LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model.***
 * Yixuan Yang, Junru Lu, **Zixiang Zhao**, Zhen Luo, James J.Q. Yu, Victor Sanchez, Feng Zheng

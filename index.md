@@ -36,7 +36,8 @@ For collaborations beyond ETH domain, I’m open to all kinds of collaboration �
 ---
 
 # NEWS
-- [2025-08] I am serving as an Area Chair for CVPR 2026; One paper on parameterized low-rank regularizer is accepted by **IJCV**.
+- [2025-09] One first-authored paper on video fusion is accepted by **NeurIPS 2025 <font color='red'> (Spotlight) </font>**.
+- [2025-08] I am serving as an **Area Chair** for CVPR 2026; One paper on parameterized low-rank regularizer is accepted by **IJCV**.
 - [2025-06] Two papers are accepted by **ICCV 2025** (One on retinex-based image fusion and and the other on hyper-spectral image restoration); One paper on 3D indoor scene layout generation is accepted by **IROS 2025**.
 - [2025-05] One paper on quantization of video generation model is accepted by **ICML 2025**.
 - [2025-03] One paper on unpaired point cloud completion is accepted by **IEEE TMM**.
@@ -70,6 +71,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 ## <u> First-Author / Project Leader </u>
 1. ***A Unified Solution to Video Fusion: From Multi-Frame Learning to Benchmarking.***
 * **Zixiang Zhao**, Haowen Bai, Bingxin Ke, Yukun Cui, Lilun Deng, Yulun Zhang, Kai Zhang, Konrad Schindler
+* Accepted by **NeurIPS 2025** **<font color='red'> (Spotlight) </font>**
 * Pioneering the first unified framework, benchmark, loss and evaluation protocol for video fusion across four key tasks    
   [*[Project Page🔥]*](https://vfbench.github.io/), [*[ArXiv]*](https://arxiv.org/abs/2505.19858), [*[Code]*](https://github.com/Zhaozixiang1228/VF-Bench)
 

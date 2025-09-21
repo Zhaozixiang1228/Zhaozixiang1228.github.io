@@ -36,9 +36,9 @@ For collaborations beyond ETH domain, Iâ€™m open to all kinds of collaboration â
 ---
 
 # NEWS
-- [2025-09] One first-authored paper on video fusion is accepted by **NeurIPS 2025 <font color='red'> (Spotlight)</font>**; Selected into [Stanford University's list of the World's Top 2% Scientists 2025](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8).
-- [2025-08] I am serving as an **Area Chair** for CVPR 2026; One paper on parameterized low-rank regularizer is accepted by **IJCV**.
-- [2025-06] Two papers are accepted by **ICCV 2025** (One on retinex-based image fusion and and the other on hyper-spectral image restoration); One paper on 3D indoor scene layout generation is accepted by **IROS 2025**.
+- [2025-09] One first-authored paper on video fusion is accepted by **NeurIPS 2025 <font color='red'> (Spotlight)</font>**; Named to  [Stanford University's list of the World's Top 2% Scientists (2025)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8).
+- [2025-08] Serving as an **Area Chair** for CVPR 2026; One paper on parameterized low-rank regularizer is accepted by **IJCV**.
+- [2025-06] Two papers are accepted by **ICCV 2025** (Retinex-based image fusion & Hyper-spectral image restoration); One paper on 3D indoor scene layout generation is accepted by **IROS 2025**.
 - [2025-05] One paper on quantization of video generation model is accepted by **ICML 2025**.
 - [2025-03] One paper on unpaired point cloud completion is accepted by **IEEE TMM**.
 - [2025-02] One paper on multi-modality image fusion is accepted by **CVPR 2025 <font color='red'> (Highlight) </font>**.
@@ -46,7 +46,7 @@ For collaborations beyond ETH domain, Iâ€™m open to all kinds of collaboration â
 - [2024-11] One paper on multi-modality image fusion is accepted by **IEEE TCSVT**.
 - [2024-09] One paper on image fusion is accepted by **IJCV**; One paper on continual learning is accepted by **NeurIPS 2024**; One paper on hyper-spectral image denoising is accepted by **IEEE TGRS**.
 - [2024-06] One paper on seismic data processing is accepted by **IEEE TGRS**.
-- [2024-05] Two papers are accepted by **ICML 2024** (One first-authored paper on vision-language-based image fusion and the other on residual binarization for image super-resolution).
+- [2024-05] Two papers are accepted by **ICML 2024** (First-authored: Vision-language image fusion & Residual binarization for image super-resolution).
 - [2024-04] Gave a presentation @ Peking University.
 - [2024-02] One first-authored paper on multi-modality image fusion is accepted by **CVPR 2024**.
 - [2023-10] One paper on 3D Object Recognition is accepted by **IEEE TNNLS**.

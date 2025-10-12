@@ -36,7 +36,9 @@ For collaborations beyond ETH domain, Iâ€™m open to all kinds of collaboration â
 ---
 
 # NEWS
-- [2025-09] One first-authored paper on video fusion is accepted by **NeurIPS 2025 <font color='red'> (Spotlight)</font>**; Named to  [Stanford University's list of the World's Top 2% Scientists (2025)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8).
+- [**<font color='red'>HOT</font>**] One first-authored paper on video fusion is accepted by **NeurIPS 2025 <font color='red'> (Spotlight)</font>**.
+- [2025-09] Named one of the **ICCV 2025 Outstanding Reviewers**.
+- [2025-09] Named to [Stanford University's list of the World's Top 2% Scientists (2025)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8).
 - [2025-08] Serving as an **Area Chair** for CVPR 2026; One paper on parameterized low-rank regularizer is accepted by **IJCV**.
 - [2025-06] Two papers are accepted by **ICCV 2025** (Retinex-based image fusion & Hyper-spectral image restoration); One paper on 3D indoor scene layout generation is accepted by **IROS 2025**.
 - [2025-05] One paper on quantization of video generation model is accepted by **ICML 2025**.

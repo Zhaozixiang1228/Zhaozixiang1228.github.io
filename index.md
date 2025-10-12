@@ -43,7 +43,7 @@ For collaborations beyond ETH domain, Iâ€™m open to all kinds of collaboration â
 - [2025-06] Two papers are accepted by **ICCV 2025** (Retinex-based image fusion & Hyper-spectral image restoration); One paper on 3D indoor scene layout generation is accepted by **IROS 2025**.
 - [2025-05] One paper on quantization of video generation model is accepted by **ICML 2025**.
 - [2025-03] One paper on unpaired point cloud completion is accepted by **IEEE TMM**.
-- [2025-02] One paper on multi-modality image fusion is accepted by **CVPR 2025 <font color='red'> (Highlight) </font>**.
+- [2025-02] One paper on multi-modality image fusion is accepted by **CVPR 2025 <font color='red'> (Highlight)</font>**.
 - [2025-01] One paper on weight binarization for diffusion model is accepted by **ICLR 2025**.
 - [2024-11] One paper on multi-modality image fusion is accepted by **IEEE TCSVT**.
 - [2024-09] One paper on image fusion is accepted by **IJCV**; One paper on continual learning is accepted by **NeurIPS 2024**; One paper on hyper-spectral image denoising is accepted by **IEEE TGRS**.
@@ -57,7 +57,7 @@ For collaborations beyond ETH domain, Iâ€™m open to all kinds of collaboration â
 - [2023-05] Named one of the **CVPR 2023 Outstanding Reviewers**.
 - [2023-03] One first-authored paper on multi-modality image fusion is accepted by **CVPR 2023**.
 - [2022-06] Two papers on seismic data processing are accepted by **IEEE TGRS**.
-- [2022-03] One first-authored paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (Oral) </font>**.
+- [2022-03] One first-authored paper on guided depth map super-resolution is accepted by **CVPR 2022 <font color='red'> (Oral)</font>**.
 - [2021-04] One first-authored paper on model-driven image fusion is accepted by **IEEE TCSVT**.
 - [2021-03] Two papers (one first-authored) on remote sensing image processing are accepted by **ICME 2021** (**<font color='red'>1 Oral </font>** & 1 Poster).
 - [2021-03] One paper on remote sensing image processing is accepted by **CVPR 2021**.

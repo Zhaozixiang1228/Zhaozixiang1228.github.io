@@ -40,7 +40,7 @@ For collaborations beyond ETH domain, Iâ€™m open to all kinds of collaboration â
 - [2025-09] Named one of the **ICCV 2025 Outstanding Reviewers**.
 - [2025-09] Named to [Stanford University's list of the World's Top 2% Scientists (2025)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8).
 - [2025-08] Serving as an **Area Chair** for CVPR 2026; One paper on parameterized low-rank regularizer is accepted by **IJCV**.
-- [2025-06] Two papers are accepted by **ICCV 2025** (Retinex-based image fusion & Hyper-spectral image restoration); One paper on 3D indoor scene layout generation is accepted by **IROS 2025**.
+- [2025-06] Two papers are accepted by **ICCV 2025** (Retinex-based image fusion & Hyper-spectral image restoration); One paper on 3D indoor scene layout generation is accepted by **IROS 2025 <font color='red'>(Oral)</font>**.
 - [2025-05] One paper on quantization of video generation model is accepted by **ICML 2025**.
 - [2025-03] One paper on unpaired point cloud completion is accepted by **IEEE TMM**.
 - [2025-02] One paper on multi-modality image fusion is accepted by **CVPR 2025 <font color='red'> (Highlight)</font>**.

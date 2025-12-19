@@ -37,6 +37,7 @@ For collaborations beyond ETH domain, I’m open to all kinds of collaboration �
 
 # NEWS
 - [**<font color='red'>HOT</font>**] One first-authored paper on video fusion is accepted by **NeurIPS 2025 <font color='red'> (Spotlight)</font>**.
+- [2025-12] Serving as an **Area Chair** for ECCV 2026。
 - [2025-09] Named one of the **ICCV 2025 Outstanding Reviewers**.
 - [2025-09] Named to [Stanford University's list of the World's Top 2% Scientists (2025)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8).
 - [2025-08] Serving as an **Area Chair** for CVPR 2026; One paper on parameterized low-rank regularizer is accepted by **IJCV**.
@@ -272,6 +273,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 ## <u> Area Chair </u>
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
+* European Conference on Computer Vision (ECCV) 2026
 
 ## <u> PC Member | Reviewer </u>
 
@@ -281,6 +283,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * IEEE International Conference on Computer Vision (ICCV)
 * European Conference on Computer Vision (ECCV)
 * Conference on Neural Information Processing Systems (NeurIPS)
+* International Conference on Machine Learning (ICML)
 * International Conference on Learning Representations (ICLR)
 * ACM SIGGRAPH
 * International Joint Conference on Artificial Intelligence (IJCAI)

@@ -291,6 +291,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * ACM Multimedia (ACMMM)
 * IEEE International Conference on Robotics and Automation (ICRA)
 * Asian Conference on Computer Vision (ACCV)
+* ACM International Conference on Multimedia Retrieval (ICMR)
 
 ### Journals 
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
@@ -307,8 +308,9 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * IEEE Signal Processing Letters (SPL)
 
 ## <u> Guest Editor </u>
-* Remote Sensing
-* Journal of Imaging
+* Remote Sensing, Special Issue, "Visual Fusion, Understanding, and Generation in Remote Sensing"
+* Journal of Imaging, Special Issue, "Towards Deeper Understanding of Image and Video Processing and Analysis"
+* AIMS Mathematics, Special Issue, "Deep Learning, Remote Sensing Image Processing: Methods and Applications"
 
 ## <u> Membership </u>
 * IEEE Graduate Student Member

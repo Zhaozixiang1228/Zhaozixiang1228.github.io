@@ -37,6 +37,7 @@ For collaborations beyond ETH domain, I’m open to all kinds of collaboration �
 
 # NEWS
 - [**<font color='red'>HOT</font>**] One first-authored paper on video fusion is accepted by **NeurIPS 2025 <font color='red'> (Spotlight)</font>**.
+- [2026-01] Two papers are accepted by **ICLR 2026** (Video motion transfer & Sharpness-aware minimization).
 - [2025-12] Serving as an **Area Chair** for ECCV 2026。
 - [2025-09] Named one of the **ICCV 2025 Outstanding Reviewers**.
 - [2025-09] Named to [Stanford University's list of the World's Top 2% Scientists (2025)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8).

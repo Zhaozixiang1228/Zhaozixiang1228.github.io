@@ -22,16 +22,17 @@ For collaborations beyond ETH domain, Iâ€™m open to all kinds of collaboration â
 
 # CURRENT RESEARCH
 
-1. Low-Level Vision
-   - Image & Video Restoration and Enhancement
-   - Image & Video Fusion (infrared-visible, remote sensing, multi-focus, multi-exposure images)
-   - Multi-modal Learning
-2. Computer Vision
-   - Generative Models (e.g., denoising diffusion models, generative adversarial networks)
-   - Domain Adaption
-3. Machine Learning
-   - Self-supervised learning
-   - Clustering
+1. Visual Perception and Reconstruction
+   - Multi-modal & Multi-sensor Fusion (IR-Visible, Multi-exposure, Multi-focus, Remote Sensing)
+   - Image & Video Restoration (Super-resolution, Denoising, Enhancement)
+   - Image & Video Perception and Semantic Understanding
+2. Generative AI and World Modeling
+   - Generative Models for Image & Video Synthesis
+   - Dynamic Scene Representation and Neural Rendering
+   - World Models with Physical Interaction and Reasoning
+3. Applied AI and Intelligent Systems
+   - Autonomous Agents and Robotics
+   - AI for Science: Remote Sensing and Geophysics
 
 ---
 

@@ -275,8 +275,9 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 # Professional Services
 
 ## <u> Area Chair </u>
-* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
-* European Conference on Computer Vision (ECCV) 2026
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+* European Conference on Computer Vision (ECCV)
+* Conference on Neural Information Processing Systems (NeurIPS)
 
 ## <u> PC Member | Reviewer </u>
 

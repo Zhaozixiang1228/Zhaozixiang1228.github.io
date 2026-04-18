@@ -172,6 +172,24 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
   [*[Paper]*](https://www.sciencedirect.com/science/article/pii/S0165168420302772), [*[ArXiv]*](https://arxiv.org/abs/2005.05839), [*[Code]*](https://github.com/Zhaozixiang1228/IVIF-Bayesian-Fusion)
 
 ## <u> Collaborative Works </u>
+1. ***A Faster Path to Continual Learning***
+* Wei Li, Hangjie Yuan, **Zixiang Zhao**, Borui Kang, Ziwei Liu, Tao Feng
+* Accepted by **CVPR 2026**
+* Propose C-Flat Turbo, a faster yet stronger optimizer that significantly reduces the training cost   
+  [*[Paper]*](), [*[Arxiv]*](https://arxiv.org/abs/2604.11064), [*[Code]*]()
+  
+1. ***FastVMT: Eliminating Redundancy in Video Motion Transfer***
+* Yue Ma, Zhikai Wang, Tianhao Ren, Mingzhe Zheng, Hongyu Liu, Jiayi Guo, Kunyu Feng, Yuxuan Xue, **Zixiang Zhao**, Konrad Schindler, Qifeng Chen, Linfeng Zhang
+* Accepted by **ICLR 2026**
+* Propose FastVMT, an efficient framework using DiT-based video generative model to transfer motion efficiently  
+  [*[Paper]*](https://openreview.net/forum?id=ILdBjlgibb), [*[Arxiv]*](https://arxiv.org/abs/2602.05551), [*[Code]*](https://github.com/mayuelala/FastVMT)
+
+1. ***Towards Understanding The Calibration Benefits of Sharpness-Aware Minimization***
+* Chengli Tan, Yubo Zhou, Haishan Ye, Guang Dai, Junmin Liu, Zengjie Song, Jiangshe Zhang, **Zixiang Zhao**, Yunda Hao, Yong Xu
+* Accepted by **ICLR 2026**
+* Beyond the well-known benefits on improving generalization, SAM is also found to be surprisingly effective in model calibration  
+  [*[Paper]*](https://openreview.net/forum?id=c0ERcCz6lD), [*[Arxiv]*](), [*[Code]*]()
+
 1. ***Parameterized Low-Rank Regularizer for High-dimensional Visual Data***
 * Shuang Xu, **Zixiang Zhao**, Xiangyong Cao, Jiangjun Peng, Xi-Le Zhao, Deyu Meng, Yulun Zhang, Radu Timofte, Luc Van Gool
 * Accepted by **IJCV 2025** 

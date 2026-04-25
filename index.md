@@ -8,7 +8,7 @@ Previously, I was a visiting Ph.D. student at [Computer Vision Lab](https://visi
 
 Additionally, I worked as a research assistant at [Visual Computing Group](https://vcg.seas.harvard.edu/), [Harvard University](https://www.harvard.edu/), USA, supervised by [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people) and collaborated closely with [Dr. Zudi Lin](https://zudi-lin.github.io/). I also contributed to [Multimedia Analytics Laboratory](https://kedema.org/Members.html), [City University of Hong Kong](https://www.cityu.edu.hk/), Hong Kong, supervised by [Prof. Kede Ma](https://kedema.org/).
 
-My research lies at **low-level computer vision** and **model-based image processing**, and my current research is **multi-modal image fusion and restoration**.
+I have broad research interests in Computer Vision, Generative AI, Multi-Modal Learning, and Robotics.
 
 For ETH students, welcome to check our group’s [Projects Page](https://prs.igp.ethz.ch/education/open-topics-for-students.html) or [SiROP](https://sirop.org/) postings, or contact me directly via email with your topic of interest.    
 For collaborations beyond ETH domain, I’m open to all kinds of collaboration — please feel free to reach out via email.
@@ -23,7 +23,7 @@ For collaborations beyond ETH domain, I’m open to all kinds of collaboration �
 # CURRENT RESEARCH
 
 1. Visual Perception and Reconstruction
-   - Multi-modal & Multi-sensor Fusion (IR-Visible, Multi-exposure, Multi-focus, Remote Sensing)
+   - Multi-modal & Multi-sensor Fusion (IR-Visible, Multi-exposure, Multi-focus, Medical, Remote Sensing)
    - Image & Video Restoration (Super-resolution, Denoising, Enhancement)
    - Image & Video Perception and Semantic Understanding
 2. Generative AI and World Modeling

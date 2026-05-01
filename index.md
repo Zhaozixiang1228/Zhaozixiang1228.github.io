@@ -38,6 +38,7 @@ For collaborations beyond ETH domain, I’m open to all kinds of collaboration �
 
 # NEWS
 - [**<font color='red'>HOT</font>**] One first-authored paper on video fusion is accepted by **NeurIPS 2025 <font color='red'> (Spotlight)</font>**.
+- [2026-04] One paper on GUI Agent is accepted by **ICML 2026**.
 - [2026-02] One paper on continual learning is accepted by **CVPR 2026**.
 - [2026-01] Two papers are accepted by **ICLR 2026** (Video motion transfer & Sharpness-aware minimization).
 - [2025-12] Serving as an **Area Chair** for ECCV 2026。

@@ -1,12 +1,12 @@
 <img align="right" src="images//photo.jpg" height="300px"/>
 
-My name is **Zixiang Zhao** (赵子祥, pronounced 'Tzu-Hsiang Chao'). I am currently a Postdoctoral Researcher at [Photogrammetry and Remote Sensing Group](https://prs.igp.ethz.ch/), [ETH Zürich](https://ethz.ch/en.html), Switzerland, supervised by [Prof. Konrad Schindler](https://scholar.google.com/citations?user=FZuNgqIAAAAJ&hl=en). 
+My name is **Zixiang Zhao** (赵子祥, pronounced 'Tzu-Hsiang Chao'). I am currently a Postdoctoral Researcher at [Photogrammetry and Remote Sensing Group](https://prs.igp.ethz.ch/), [ETH Zürich](https://ethz.ch/en.html), Switzerland, supervised by [Prof. Konrad Schindler](https://scholar.google.com/citations?user=FZuNgqIAAAAJ&hl=en) (IEEE Fellow). 
 
 I received my Ph.D. degree in Statistics from [School of Mathematics and Statistics](http://math.xjtu.edu.cn/), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), supervised by [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang) and worked closely with [Prof. Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng) and [Prof. Shuang Xu](https://shuangxu96.github.io/).
 
 Previously, I was a visiting Ph.D. student at [Computer Vision Lab](https://vision.ee.ethz.ch/), [ETH Zürich](https://ethz.ch/en.html), Switzerland, supervised by [Prof. Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html) and worked closely with [Prof. Radu Timofte](https://www.informatik.uni-wuerzburg.de/computervision/home/), [Dr. Yulun Zhang](http://yulunzhang.com/) and [Dr. Kai Zhang](https://cszn.github.io/). 
 
-Additionally, I worked as a research assistant at [Visual Computing Group](https://vcg.seas.harvard.edu/), [Harvard University](https://www.harvard.edu/), USA, supervised by [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people) and collaborated closely with [Dr. Zudi Lin](https://zudi-lin.github.io/). I also contributed to [Multimedia Analytics Laboratory](https://kedema.org/Members.html), [City University of Hong Kong](https://www.cityu.edu.hk/), Hong Kong, supervised by [Prof. Kede Ma](https://kedema.org/).
+Additionally, I worked as a research assistant at [Visual Computing Group](https://vcg.seas.harvard.edu/), [Harvard University](https://www.harvard.edu/), USA, supervised by [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people) (IEEE & ACM Fellow) and collaborated closely with [Dr. Zudi Lin](https://zudi-lin.github.io/). I also contributed to [Multimedia Analytics Laboratory](https://kedema.org/Members.html), [City University of Hong Kong](https://www.cityu.edu.hk/), Hong Kong, supervised by [Prof. Kede Ma](https://kedema.org/).
 
 I have broad research interests in Computer Vision, Generative AI, Multi-Modal Learning, and Robotics.
 
@@ -38,10 +38,10 @@ For collaborations beyond ETH domain, I’m open to all kinds of collaboration �
 
 # NEWS
 - [**<font color='red'>HOT</font>**] One first-authored paper on video fusion is accepted by **NeurIPS 2025 <font color='red'> (Spotlight)</font>**.
-- [2026-04] One paper on GUI Agent is accepted by **ICML 2026**. Serving as an **Area Chair** for BMVC 2026。
+- [2026-04] One paper on GUI Agent is accepted by **ICML 2026**. Serving as an **Area Chair** for BMVC 2026.
 - [2026-02] One paper on continual learning is accepted by **CVPR 2026**.
 - [2026-01] Two papers are accepted by **ICLR 2026** (Video motion transfer & Sharpness-aware minimization).
-- [2025-12] Serving as an **Area Chair** for ECCV 2026。
+- [2025-12] Serving as an **Area Chair** for ECCV 2026.
 - [2025-09] Named one of the **ICCV 2025 Outstanding Reviewers**.
 - [2025-09] Named to [Stanford University's list of the World's Top 2% Scientists (2025)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8).
 - [2025-08] Serving as an **Area Chair** for CVPR 2026; One paper on parameterized low-rank regularizer is accepted by **IJCV**.

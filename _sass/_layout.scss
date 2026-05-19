@@ -1,0 +1,18 @@
+//
+// LAYOUT
+//
+
+.container {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 0 1.25rem;
+  width: 100%;
+}
+
+#main {
+  padding-bottom: 3rem;
+}
+
+@include mobile {
+  .container { padding: 0 1rem; }
+}

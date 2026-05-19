@@ -1,27 +1,80 @@
-
 //
 // VARIABLES
 //
-
-// Colors
-$blue: #4183C4;
-
-// Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
+// Compile-time SCSS variables are used only for things that can't be
+// runtime-switched (breakpoints, font stacks, spacing). All theme tokens
+// live as CSS custom properties on :root so dark mode can override them.
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+            Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+$font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+
+// Legacy aliases (kept so old partials don't break)
+$helvetica: $font-sans;
+$helveticaNeue: $font-sans;
 $georgia: Georgia, serif;
 
-// Mobile breakpoints
+// Breakpoints
+$bp-mobile: 640px;
+$bp-tablet: 900px;
+
 @mixin mobile {
-  @media screen and (max-width: 640px) {
-    @content;
+  @media screen and (max-width: $bp-mobile) { @content; }
+}
+@mixin tablet {
+  @media screen and (max-width: $bp-tablet) { @content; }
+}
+
+// Radius scale
+$radius-sm: 6px;
+$radius-md: 10px;
+$radius-lg: 14px;
+
+// Legacy SCSS color aliases (referenced by _highlights.scss / _reset.scss)
+$blue: #2563eb;
+$black: #000;
+$darkerGray: #111827;
+$darkGray: #1f2937;
+$gray: #6b7280;
+$lightGray: #e5e7eb;
+$white: #ffffff;
+
+// ---- Runtime tokens ----
+:root {
+  --color-bg: #ffffff;
+  --color-surface: #fafafa;
+  --color-surface-hover: #f4f4f5;
+  --color-border: #e5e7eb;
+  --color-border-strong: #d1d5db;
+  --color-text: #1f2937;
+  --color-text-muted: #6b7280;
+  --color-heading: #111827;
+  --color-accent: #2563eb;
+  --color-accent-hover: #1d4ed8;
+  --color-accent-soft: rgba(37, 99, 235, .08);
+  --color-hot: #dc2626;
+  --shadow-sm: 0 1px 2px rgba(0,0,0,.04);
+  --shadow-md: 0 1px 3px rgba(0,0,0,.08), 0 4px 12px rgba(0,0,0,.04);
+  --shadow-lg: 0 4px 6px rgba(0,0,0,.05), 0 10px 20px rgba(0,0,0,.06);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #0f1115;
+    --color-surface: #161a21;
+    --color-surface-hover: #1d222b;
+    --color-border: #2a313c;
+    --color-border-strong: #3b4350;
+    --color-text: #d4d7dc;
+    --color-text-muted: #8a93a0;
+    --color-heading: #f3f4f6;
+    --color-accent: #60a5fa;
+    --color-accent-hover: #93c5fd;
+    --color-accent-soft: rgba(96, 165, 250, .14);
+    --color-hot: #f87171;
+    --shadow-sm: 0 1px 2px rgba(0,0,0,.35);
+    --shadow-md: 0 1px 3px rgba(0,0,0,.45), 0 4px 12px rgba(0,0,0,.30);
+    --shadow-lg: 0 6px 24px rgba(0,0,0,.55);
   }
 }

@@ -1,0 +1,33 @@
+<script>
+// One-click copy for the email block. The HTML never contains the full
+// "user@domain" string — each .email span stores REVERSED user/domain in
+// data-u / data-d. We reverse them at click time, join with '@', and copy.
+(function () {
+  function reveal(span) {
+    var u = (span.dataset.u || '').split('').reverse().join('');
+    var d = (span.dataset.d || '').split('').reverse().join('');
+    return u + '@' + d;
+  }
+  document.querySelectorAll('.email').forEach(function (span) {
+    var btn = span.querySelector('.email-copy');
+    if (!btn) return;
+    btn.addEventListener('click', async function () {
+      var email = reveal(span);
+      try {
+        await navigator.clipboard.writeText(email);
+      } catch (e) {
+        var ta = document.createElement('textarea');
+        ta.value = email; document.body.appendChild(ta);
+        ta.select(); document.execCommand('copy'); document.body.removeChild(ta);
+      }
+      var orig = btn.textContent;
+      btn.textContent = '✓';
+      btn.classList.add('copied');
+      setTimeout(function () {
+        btn.textContent = orig;
+        btn.classList.remove('copied');
+      }, 1500);
+    });
+  });
+})();
+</script>

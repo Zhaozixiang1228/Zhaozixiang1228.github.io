@@ -1,0 +1,60 @@
+//
+// NEWS
+//
+// Targets the <ul> that follows the `# NEWS` heading.
+
+#news + ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 1rem 0 1.5rem;
+  // Scrollable window showing ~10 items; the rest scrolls with the wheel.
+  max-height: 26rem;
+  overflow-y: auto;
+  padding-right: 0.6rem;
+  border: 1px solid var(--color-border);
+  border-radius: $radius-md;
+  background: var(--color-surface);
+  padding-left: 0.9rem;
+
+  // Smooth, minimal scrollbar (WebKit + Firefox)
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-border-strong) transparent;
+  &::-webkit-scrollbar { width: 8px; }
+  &::-webkit-scrollbar-track { background: transparent; }
+  &::-webkit-scrollbar-thumb {
+    background: var(--color-border-strong);
+    border-radius: 4px;
+  }
+  &::-webkit-scrollbar-thumb:hover { background: var(--color-accent); }
+
+  // Top/bottom fade hint that more content exists
+  mask-image: linear-gradient(to bottom,
+    transparent 0,
+    #000 12px,
+    #000 calc(100% - 12px),
+    transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom,
+    transparent 0,
+    #000 12px,
+    #000 calc(100% - 12px),
+    transparent 100%);
+
+  > li {
+    position: relative;
+    padding: 0.7rem 0 0.7rem 0;
+    border-bottom: 1px solid var(--color-border);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--color-text);
+    transition: background-color .15s ease;
+
+    &:last-child { border-bottom: none; }
+
+    &:hover {
+      background: var(--color-accent-soft);
+    }
+
+    // Make leading [YYYY-MM] date stand out
+    strong { color: var(--color-heading); }
+  }
+}

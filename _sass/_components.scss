@@ -1,0 +1,154 @@
+//
+// COMPONENTS
+//
+
+// ----- Badges (news highlights) -----
+.badge {
+  display: inline-block;
+  padding: 1px 8px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  border-radius: 999px;
+  text-transform: uppercase;
+  vertical-align: middle;
+  line-height: 1.65;
+  white-space: nowrap;
+}
+
+// Pale red HOT badge — visible but soft against muted news lines.
+.badge-hot {
+  background: #fee2e2;
+  color: #dc2626;
+}
+@media (prefers-color-scheme: dark) {
+  .badge-hot {
+    background: rgba(220, 38, 38, .18);
+    color: #fca5a5;
+  }
+}
+
+// ----- Inline emphasis (used for Oral / Highlight / Spotlight tags) -----
+// Dark academic red — same shade journal covers tend to use. !important is
+// needed because higher-specificity selectors (e.g. `#news + ul > li strong`,
+// `> ul > li:nth-child(2) strong`) would otherwise repaint the text.
+.emph {
+  color: #dc2626 !important;
+  font-weight: 700;
+}
+@media (prefers-color-scheme: dark) {
+  .emph { color: #f87171 !important; }
+}
+
+// ----- Footer -----
+.wrapper-footer {
+  margin-top: 3rem;
+  border-top: 1px solid var(--color-border);
+  background: var(--color-surface);
+}
+
+footer {
+  padding: 1.4rem 0;
+  text-align: center;
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+}
+
+// ----- Back-to-top floating button -----
+#back-to-top {
+  position: fixed;
+  right: 1.4rem;
+  bottom: 1.4rem;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 1px solid var(--color-border);
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-size: 1.15rem;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: var(--shadow-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: $font-sans;
+  transition: transform .15s ease, background .15s ease, color .15s ease, border-color .15s ease, opacity .2s ease;
+  z-index: 100;
+  opacity: 0;
+  pointer-events: none;
+
+  &.visible {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  &:hover {
+    transform: translateY(-2px);
+    background: var(--color-surface-hover);
+    color: var(--color-accent);
+    border-color: var(--color-accent);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+  }
+
+  @include mobile {
+    right: 1rem;
+    bottom: 1rem;
+    width: 38px;
+    height: 38px;
+  }
+}
+
+// ----- Inline <del> for retired emails -----
+del {
+  color: var(--color-text-muted);
+  text-decoration-thickness: 1px;
+}
+
+// ----- One-click email copy button -----
+.emails .email {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.email-copy {
+  background: transparent;
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  padding: 1px 6px;
+  cursor: pointer;
+  font-size: 0.85em;
+  line-height: 1;
+  color: var(--color-text-muted);
+  font-family: inherit;
+  transition: background .15s, border-color .15s, color .15s, transform .1s;
+
+  &:hover {
+    background: var(--color-surface-hover);
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+  }
+  &:active { transform: scale(0.92); }
+  &:focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 1px;
+  }
+
+  &.copied {
+    background: rgba(34, 197, 94, .15);
+    color: #166534;
+    border-color: #166534;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .email-copy.copied {
+    background: rgba(34, 197, 94, .25);
+    color: #86efac;
+    border-color: #86efac;
+  }
+}

@@ -1,0 +1,47 @@
+//
+// HERO / BIO
+//
+// The photo is floated right so that paragraphs wrap to the left while the
+// photo occupies the top-right corner, and any paragraphs longer than the
+// photo's height naturally flow full-width below it.
+
+.hero {
+  margin: 1.5rem 0 2.5rem;
+  overflow: auto; // contain the float for self-clearing
+
+  p:first-child { margin-top: 0; }
+
+  // Kramdown wraps the hero-photo <img> in its own <p>; make that wrapper
+  // transparent to layout so the float bubbles up and subsequent <p>s wrap
+  // around the image.
+  p:has(> img.hero-photo:only-child) { display: contents; }
+}
+
+.hero-photo {
+  float: right;
+  width: 240px;
+  height: auto;            // natural aspect ratio — no top-crop on hair
+  margin: 0.25rem 0 1rem 1.8rem;
+  border-radius: $radius-lg;
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--color-border);
+
+  @media (prefers-color-scheme: dark) {
+    filter: brightness(.93) contrast(1.02);
+  }
+
+  @include tablet {
+    float: none;
+    display: block;
+    width: 200px;
+    height: auto;
+    margin: 0 auto 1.2rem;
+  }
+}
+
+// .hero-text is no longer a flex child — keep it as a plain block; this rule
+// is kept only so the wrapper is a no-op if present.
+.hero-text {
+  display: block;
+  min-width: 0;
+}

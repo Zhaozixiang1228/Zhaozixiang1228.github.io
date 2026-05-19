@@ -1,0 +1,85 @@
+//
+// PROFESSIONAL SERVICES
+//
+// Turns the long flat lists (Area Chair, PC Member conferences/journals,
+// Guest Editor, Membership, Teaching) into responsive chip grids.
+
+[id="-area-chair-"] + ul,
+#conferences + ul,
+#journals + ul,
+[id="-guest-editor-"] + ul,
+[id="-membership-"] + ul,
+[id="-teaching-"] + ul {
+  list-style: none;
+  padding-left: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 0.5rem 0.8rem;
+  margin: 0.7rem 0 1.2rem;
+
+  > li {
+    padding: 0.45rem 0.7rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: $radius-sm;
+    font-size: 0.88rem;
+    line-height: 1.4;
+    color: var(--color-text);
+    transition: border-color .15s, background .15s, transform .15s;
+
+    &:hover {
+      border-color: var(--color-accent);
+      background: var(--color-accent-soft);
+      transform: translateY(-1px);
+    }
+  }
+}
+
+// Teaching items have descriptions — let them span wider
+[id="-teaching-"] + ul {
+  grid-template-columns: 1fr;
+  > li:hover { transform: none; }
+}
+
+// Selected Talks — give them a card look too
+#selected-talks + ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 1rem 0 1.5rem;
+
+  > li {
+    padding: 0.7rem 0.9rem;
+    margin: 0.5rem 0;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-left: 3px solid var(--color-accent);
+    border-radius: $radius-sm;
+    font-size: 0.92rem;
+    line-height: 1.55;
+    color: var(--color-text);
+  }
+}
+
+// "More about me" — playful styling
+#more-about-me + ul {
+  list-style: none;
+  padding-left: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.5rem 0.8rem;
+  margin: 0.7rem 0 1.5rem;
+
+  > li {
+    padding: 0.55rem 0.8rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: $radius-sm;
+    font-size: 0.92rem;
+
+    &::before {
+      content: "★ ";
+      color: var(--color-accent);
+      font-weight: 700;
+    }
+  }
+}

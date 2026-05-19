@@ -1,0 +1,159 @@
+//
+// TYPOGRAPHY
+//
+
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: $font-sans;
+  font-size: 16px;
+  line-height: 1.65;
+  font-feature-settings: "kern", "liga", "calt";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color .2s ease, color .2s ease;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-sans;
+  color: var(--color-heading);
+  font-weight: 700;
+  line-height: 1.3;
+  margin: 1.8em 0 .7em;
+  letter-spacing: -0.01em;
+}
+
+h1 {
+  position: relative;
+  font-size: 1.7rem;
+  padding-left: 14px;
+  margin-top: 2.2rem;
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: .25em;
+    bottom: .25em;
+    width: 4px;
+    border-radius: 2px;
+    background: var(--color-accent);
+  }
+
+  a { color: inherit; }
+}
+
+h2 {
+  font-size: 1.25rem;
+  margin-top: 1.6rem;
+
+  u {
+    text-decoration: none;
+    border-bottom: 2px solid var(--color-accent);
+    padding-bottom: 2px;
+  }
+}
+
+h3 {
+  font-size: 1.05rem;
+  color: var(--color-text);
+}
+
+h4 { font-size: 1rem; color: var(--color-text-muted); }
+
+p {
+  margin: 0.8em 0;
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+  cursor: pointer;
+  transition: color .15s ease;
+
+  &:hover,
+  &:active {
+    color: var(--color-accent-hover);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  // Inline emphasis nested inside a link should inherit the link colour,
+  // not get repainted black by the global `strong` / `em` rules.
+  strong, b, em, i { color: inherit; }
+}
+
+ul, ol {
+  margin: 0.8em 0;
+  padding-left: 1.6em;
+}
+
+ul { list-style-type: disc; }
+ol { list-style-type: decimal; }
+ul ul, ol ul { list-style-type: circle; }
+ol ul, ul ol, ul ul, ol ol { margin: 0; }
+
+em, i { font-style: italic; }
+strong, b { font-weight: 600; color: var(--color-heading); }
+
+// Superscript / subscript — keep the corresponding-author dagger at full text
+// size, just raised. Browser defaults shrink to ~0.83em which reads as too
+// small for a thin glyph like †.
+sup, sub {
+  font-size: 1em;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+sup { top: -0.25em; }
+sub { bottom: -0.15em; }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+.gmnoprint img { max-width: none; }
+
+hr {
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: 2.5rem 0;
+}
+
+code {
+  font-family: $font-mono;
+  font-size: .9em;
+  background: var(--color-surface);
+  padding: .1em .35em;
+  border-radius: 4px;
+  border: 1px solid var(--color-border);
+}
+
+pre code {
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+.date {
+  font-style: italic;
+  color: var(--color-text-muted);
+}
+
+::-moz-selection { color: var(--color-heading); background: var(--color-accent-soft); }
+::selection      { color: var(--color-heading); background: var(--color-accent-soft); }
+
+// Fallback for any missed inline <font color='red'> tags
+font[color="red"] {
+  color: var(--color-hot);
+  font-weight: 600;
+}
+
+// Clearfix
+.clearfix:before, .clearfix:after { content: " "; display: table; }
+.clearfix:after { clear: both; }

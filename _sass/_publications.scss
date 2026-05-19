@@ -1,0 +1,231 @@
+//
+// PUBLICATIONS
+//
+// We rely purely on the Kramdown-generated structure:
+//   <h2 id="first-author--project-leader">...</h2>
+//   <ol>
+//     <li>
+//       <em><strong>Title.</strong></em>
+//       <ul>
+//         <li>Authors</li>
+//         <li>Accepted by <strong>Venue</strong> ...</li>
+//         <li>Description</li>
+//       </ul>
+//       [Paper](...), [ArXiv](...), [Code](...)
+//     </li>
+//     ...
+//   </ol>
+//
+// No markdown rewrite needed — we target the headings' IDs.
+
+// Note explaining the dagger superscript on author lists
+.cors-note {
+  font-size: 0.88rem;
+  color: var(--color-text-muted);
+  margin: 0.4rem 0 1rem;
+
+  strong {
+    color: #dc2626;
+    font-weight: 700;
+  }
+  @media (prefers-color-scheme: dark) {
+    strong { color: #f87171; }
+  }
+}
+
+[id="-first-author--project-leader-"] + ol,
+[id="-collaborative-works-"] + ol {
+  list-style: none;
+  padding-left: 0;
+  counter-reset: pub;
+  margin: 1rem 0 2rem;
+
+  > li {
+    counter-increment: pub;
+    position: relative;
+    // Strict two-column layout: image always on the left, text column always
+    // starts at the same left edge regardless of image height.
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    column-gap: 1.1rem;
+    row-gap: 0;                // critical: avoid cumulative gap when spanning
+    align-items: start;
+    padding: 0.75rem 1rem;
+    margin: 0.7rem 0;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: $radius-md;
+    box-shadow: var(--shadow-sm);
+    transition: box-shadow .2s ease, transform .2s ease, border-color .2s ease;
+
+    &:hover {
+      box-shadow: var(--shadow-md);
+      border-color: var(--color-accent);
+      transform: translateY(-1px);
+    }
+
+    // Gradient venue placeholder ("#1", "#2", ...). Spans all rows in column 1
+    // so the text column on the right is always its own vertical band.
+    &::before {
+      content: "#" counter(pub);
+      grid-column: 1;
+      grid-row: 1 / 100;
+      align-self: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 200px;
+      height: 110px;
+      border-radius: $radius-sm;
+      background: linear-gradient(135deg, var(--color-accent) 0%, #7c3aed 100%);
+      color: #ffffff;
+      font-weight: 700;
+      font-size: 1.5rem;
+      letter-spacing: 0.04em;
+      box-shadow: var(--shadow-sm);
+    }
+
+    // Real thumbnail (when present): fixed width, auto height — no cropping.
+    > img.pub-thumb {
+      grid-column: 1;
+      grid-row: 1 / 100;
+      align-self: center;
+      width: 200px;
+      height: auto;
+      max-height: 200px;
+      object-fit: contain;
+      border-radius: $radius-sm;
+      background: var(--color-bg);
+      border: 1px solid var(--color-border);
+    }
+    &:has(> img.pub-thumb)::before { display: none; }
+
+    // Persistent "#N" badge in the top-right corner so every card carries its
+    // chronological number, even when a real thumbnail hides the gradient.
+    &::after {
+      content: "#" counter(pub);
+      position: absolute;
+      top: 0.55rem;
+      right: 0.75rem;
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      color: var(--color-text-muted);
+      background: var(--color-bg);
+      padding: 1px 8px;
+      border: 1px solid var(--color-border);
+      border-radius: 999px;
+      pointer-events: none;
+    }
+
+    // Title (Markdown's ***...*** -> <em><strong>...</strong></em>)
+    > em,
+    > strong {
+      grid-column: 2;
+      font-size: 1.02rem;
+      line-height: 1.4;
+      color: var(--color-heading);
+      font-style: normal;
+      font-weight: 600;
+      display: block;
+      margin: 0 0 0.15rem;
+    }
+    > em > strong,
+    > strong > em {
+      color: var(--color-heading);
+      font-weight: 600;
+      font-style: normal;
+    }
+
+    // Nested ul: authors / venue / description
+    > ul {
+      grid-column: 2;
+      list-style: none;
+      padding-left: 0;
+      margin: 0.1rem 0 0.3rem;
+
+      > li {
+        font-size: 0.9rem;
+        line-height: 1.55;
+        color: var(--color-text-muted);
+        margin: 0.1rem 0;
+        padding: 0;
+      }
+
+      // Authors row: keep readable color
+      > li:first-child {
+        color: var(--color-text);
+
+        // Owner's name is already bolded in markdown
+        strong { color: var(--color-heading); }
+
+        sup { color: var(--color-accent); font-weight: 600; }
+      }
+
+      // Venue row: accent color on the bold venue name
+      > li:nth-child(2) strong { color: var(--color-accent); }
+    }
+
+    // Link pills — the trailing "[Paper](...), [ArXiv](...), ..." line renders
+    // either as a trailing paragraph or inside the last <li>.
+    > p {
+      grid-column: 2;
+      font-size: 0.85rem;
+    }
+    > ul > li:last-child {
+      font-size: 0.85rem;
+    }
+
+    a {
+      display: inline-block;
+      margin: 0.15rem 0.25rem 0.15rem 0;
+      padding: 2px 9px;
+      font-size: 0.8rem;
+      font-weight: 500;
+      border: 1px solid var(--color-border);
+      border-radius: $radius-sm;
+      color: var(--color-accent);
+      background: var(--color-bg);
+      transition: background .15s, border-color .15s, color .15s, transform .15s;
+      text-decoration: none;
+
+      &:hover {
+        background: var(--color-accent-soft);
+        border-color: var(--color-accent);
+        color: var(--color-accent-hover);
+        text-decoration: none;
+        transform: translateY(-1px);
+      }
+    }
+  }
+
+  @include mobile {
+    > li {
+      grid-template-columns: 1fr;
+
+      &::before {
+        grid-column: 1;
+        grid-row: auto;
+        width: 100%;
+        height: 70px;
+        font-size: 1.2rem;
+        margin: 0 0 0.6rem;
+      }
+
+      > img.pub-thumb {
+        grid-column: 1;
+        grid-row: auto;
+        width: 100%;
+        max-height: 220px;
+        margin: 0 0 0.6rem;
+      }
+
+      > em,
+      > strong,
+      > ul,
+      > p {
+        grid-column: 1;
+      }
+    }
+  }
+}

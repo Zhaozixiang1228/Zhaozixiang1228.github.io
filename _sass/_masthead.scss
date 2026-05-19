@@ -1,0 +1,121 @@
+//
+// MASTHEAD
+//
+
+.wrapper-masthead {
+  margin-bottom: 1.5rem;
+  background: var(--color-bg);
+  border-bottom: 1px solid var(--color-border);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  backdrop-filter: saturate(180%) blur(8px);
+  -webkit-backdrop-filter: saturate(180%) blur(8px);
+}
+
+.masthead {
+  padding: .9rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+
+  @include mobile {
+    flex-direction: column;
+    text-align: center;
+    gap: 0.5rem;
+  }
+}
+
+.site-avatar {
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  float: none;
+  margin: 0;
+
+  img {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid var(--color-border);
+    display: block;
+  }
+
+  @include mobile {
+    width: 56px;
+    height: 56px;
+    img { width: 56px; height: 56px; }
+  }
+}
+
+.site-info {
+  float: none;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.2;
+}
+
+.site-name {
+  margin: 0;
+  font-family: $font-sans;
+  font-weight: 600;
+  font-size: 1.15rem;
+  letter-spacing: 0;
+  color: var(--color-heading);
+
+  a { color: inherit; }
+}
+
+.site-description {
+  margin: 2px 0 0 0;
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+}
+
+nav {
+  float: none;
+  margin-top: 0;
+  margin-left: auto;
+  font-family: $font-sans;
+  font-size: 0.93rem;
+  display: flex;
+  align-items: center;
+  gap: 1.3rem;
+
+  a {
+    position: relative;
+    margin-left: 0;
+    color: var(--color-text);
+    font-weight: 500;
+    letter-spacing: 0;
+    padding: 4px 0;
+
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0; right: 0;
+      bottom: 0;
+      height: 2px;
+      background: var(--color-accent);
+      transform: scaleX(0);
+      transform-origin: left;
+      transition: transform .2s ease;
+    }
+
+    &:hover {
+      color: var(--color-accent);
+      text-decoration: none;
+      &::after { transform: scaleX(1); }
+    }
+  }
+
+  @include mobile {
+    margin-left: 0;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.7rem 1rem;
+    font-size: 0.88rem;
+    a { color: var(--color-accent); }
+  }
+}

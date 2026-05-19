@@ -15,29 +15,9 @@ avatar: /images/me.jpg
 # Flags below are optional
 #
 
-# Includes an icon in the footer for each username you enter
+# Footer social icons — leave a value blank to hide the icon.
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
   github: Zhaozixiang1228/
-  instagram:
-  linkedin:
-  pinterest:
-  rss: 
-  twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed

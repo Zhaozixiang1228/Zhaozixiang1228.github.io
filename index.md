@@ -366,7 +366,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 # Selected Talks
 
-* EurIPS 2025 Oral Talk: A Unified Solution to Video Fusion
+* EurIPS 2025 Oral Talk: A Unified Solution to Video Fusion    
 at: [12/2025] Copenhagen, Denmark
 
 * CVPR Shenzhen Pre-Conference Meeting.    
@@ -378,7 +378,7 @@ at: [02/2024] University of Electronic Science and Technology of China (UESTC), 
 * Conference on Frontiers in Mathematics Doctoral Student: Prior Knowledge-Guided Multi-Modal Image Fusion.    
 at: [10/2023] Peking University, Beijing, China
 
-* ICCV 2023 Oral Talk: DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion
+* ICCV 2023 Oral Talk: DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion    
 at: [12/2025] Paris, France
 
 * Multi-modal Image Fusion and Image Reconstruction [[Website]](https://twitter.com/CamImaging/status/1707755502203990431).        
@@ -390,7 +390,7 @@ at: [08/2022] Tianjin, China
 * AI TIME PhD Presentation (CVPR 2022): Discrete Cosine Transform Network for Guided Depth Map Super-Resolution [[video (Chinese)]](https://www.bilibili.com/video/BV1cU4y1i7Nt).    
 at: [08/2022] AI TIME & AMiner, Online
 
-* CVPR 2022 Oral Talk: Discrete Cosine Transform Network for Guided Depth Map Super-Resolution
+* CVPR 2022 Oral Talk: Discrete Cosine Transform Network for Guided Depth Map Super-Resolution    
 at: [06/2022] New Orleans, USA
 
 * 2021 IJCAI-SAIA Young Elite Symposium: Deep Image Decomposition for Infrared and Visible Image Fusion [[Website]](http://www.ijcai-saia-yes.org.cn/#/conferee).    

@@ -326,6 +326,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * International Conference on Machine Learning (ICML)
 * International Conference on Learning Representations (ICLR)
 * ACM SIGGRAPH
+* ACM SIGGRAPH Asia
 * International Joint Conference on Artificial Intelligence (IJCAI)
 * AAAI Conference on Artificial Intelligence (AAAI)
 * ACM Multimedia (ACMMM)

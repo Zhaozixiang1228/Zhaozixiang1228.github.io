@@ -190,6 +190,12 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
   [Paper](https://www.sciencedirect.com/science/article/pii/S0165168420302772), [arXiv](https://arxiv.org/abs/2005.05839), [Code](https://github.com/Zhaozixiang1228/IVIF-Bayesian-Fusion)
 
 ## <u> Collaborative Works </u>
+1. <img class="pub-thumb" src="images/paper_image/034_Continual-GUI.png" alt="Continual-GUI" loading="lazy" onerror="this.remove()"/> ***Continual GUI Agents***
+* Ziwei Liu, Borui Kang, Hangjie Yuan, **Zixiang Zhao**, Wei Li, Yifan Zhu, Tao Feng
+* **International Conference on Machine Learning (ICML) 2026**
+* Propose Continual GUI Agents, a new task that requires GUI agents to perform continual learning under shifted domains and resolutions   
+  [Paper](), [arXiv](https://arxiv.org/abs/2601.20732), [Code](https://github.com/xavierliu34/GUI-AiF)
+
 1. <img class="pub-thumb" src="images/paper_image/033_C-FlatTurbo.png" alt="C-FlatTurbo" loading="lazy" onerror="this.remove()"/> ***A Faster Path to Continual Learning***
 * Wei Li, Hangjie Yuan, **Zixiang Zhao**, Borui Kang, Ziwei Liu, Tao Feng
 * **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026**

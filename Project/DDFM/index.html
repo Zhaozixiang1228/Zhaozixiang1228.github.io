@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="description"
+    content="DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion." />
+  <meta name="keywords"
+    content="DDFM, denoising diffusion model, multi-modality image fusion, infrared-visible image fusion, medical image fusion, ICCV 2023" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta property="og:title" content="DDFM | ICCV 2023 Oral" />
+  <meta property="og:description"
+    content="Denoising diffusion model for multi-modality image fusion with likelihood rectification." />
+  <meta property="og:url" content="https://zhaozixiang1228.github.io/Project/DDFM/" />
+  <meta property="og:image" content="https://zhaozixiang1228.github.io/Project/DDFM/static/images/Workflow1.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="DDFM | ICCV 2023 Oral" />
+  <meta name="twitter:description"
+    content="Denoising diffusion model for multi-modality image fusion with likelihood rectification." />
+  <meta name="twitter:image" content="https://zhaozixiang1228.github.io/Project/DDFM/static/images/Workflow1.png" />
+
+  <title>DDFM | ICCV 2023 Oral</title>
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2286%22>D</text></svg>" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans" rel="stylesheet" />
+
+  <link rel="stylesheet" href="static/css/bulma.min.css" />
+  <link rel="stylesheet" href="static/css/index.css" />
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script defer src="static/js/index.js"></script>
+</head>
+
+<body>
+  <nav class="topbar" aria-label="Project navigation">
+    <a class="topbar-brand" href="#top" aria-label="DDFM home">DDFM</a>
+    <div class="topbar-links">
+      <a href="#abstract">Abstract</a>
+      <a href="#method">Method</a>
+      <a href="#results">Results</a>
+      <a href="#citation">Citation</a>
+    </div>
+  </nav>
+
+  <main id="top">
+    <section class="hero-section" aria-labelledby="hero-title">
+      <div class="hero-backdrop" aria-hidden="true"></div>
+      <div class="hero-grid">
+        <div class="hero-copy">
+          <p class="venue-label">
+            <span class="venue-main">ICCV 2023</span>
+            <span class="venue-oral">Oral</span>
+          </p>
+          <h1 id="hero-title">DDFM</h1>
+          <p class="hero-subtitle">
+            Denoising Diffusion Model for Multi-Modality Image Fusion
+          </p>
+
+          <div class="author-list">
+            <a href="https://zhaozixiang1228.github.io/" target="_blank" rel="noopener noreferrer">Zixiang Zhao</a><sup>1,2</sup>,
+            <a href="https://haowenbai.github.io/" target="_blank" rel="noopener noreferrer">Haowen Bai</a><sup>1</sup>,
+            <a href="https://yuanzhi-zhu.github.io/about/" target="_blank" rel="noopener noreferrer">Yuanzhi Zhu</a><sup>2</sup>,
+            <a href="http://gr.xjtu.edu.cn/web/jszhang" target="_blank" rel="noopener noreferrer">Jiangshe Zhang</a><sup>1</sup>,
+            <a href="https://shuangxu96.github.io/" target="_blank" rel="noopener noreferrer">Shuang Xu</a><sup>3</sup>,
+            <a href="https://yulunzhang.com/" target="_blank" rel="noopener noreferrer">Yulun Zhang</a><sup>2</sup>,
+            <a href="https://cszn.github.io/" target="_blank" rel="noopener noreferrer">Kai Zhang</a><sup>2</sup>,
+            <a href="https://gr.xjtu.edu.cn/en/web/dymeng" target="_blank" rel="noopener noreferrer">Deyu Meng</a><sup>1</sup>,
+            <a href="https://www.informatik.uni-wuerzburg.de/computervision/home/" target="_blank"
+              rel="noopener noreferrer">Radu Timofte</a><sup>2,4</sup>,
+            <a href="https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjQ4LC0xOTcxNDY1MTc4.html"
+              target="_blank" rel="noopener noreferrer">Luc Van Gool</a><sup>2</sup>
+          </div>
+
+          <div class="affiliation-grid" aria-label="Affiliations">
+            <span><sup>1</sup>Xi'an Jiaotong University</span>
+            <span><sup>2</sup>Computer Vision Lab, ETH Zürich</span>
+            <span><sup>3</sup>Northwestern Polytechnical University</span>
+            <span><sup>4</sup>University of Würzburg</span>
+          </div>
+
+          <div class="button-row" aria-label="Project links">
+            <a class="project-button"
+              href="https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_DDFM_Denoising_Diffusion_Model_for_Multi-Modality_Image_Fusion_ICCV_2023_paper.html"
+              target="_blank" rel="noopener noreferrer">
+              <span class="icon"><i class="fas fa-file-pdf"></i></span>
+              <span>Paper</span>
+            </a>
+            <a class="project-button" href="https://arxiv.org/abs/2303.06840" target="_blank"
+              rel="noopener noreferrer">
+              <span class="icon"><i class="fas fa-scroll"></i></span>
+              <span>arXiv</span>
+            </a>
+            <a class="project-button" href="https://github.com/Zhaozixiang1228/MMIF-DDFM" target="_blank"
+              rel="noopener noreferrer">
+              <span class="icon"><i class="fab fa-github"></i></span>
+              <span>Code</span>
+            </a>
+            <a class="project-button"
+              href="https://openaccess.thecvf.com/content/ICCV2023/supplemental/Zhao_DDFM_Denoising_Diffusion_ICCV_2023_supplemental.pdf"
+              target="_blank" rel="noopener noreferrer">
+              <span class="icon"><i class="fas fa-file-archive"></i></span>
+              <span>Supp.</span>
+            </a>
+          </div>
+        </div>
+
+        <aside class="hero-panel" aria-label="DDFM workflow preview">
+          <img src="static/images/overview.png" width="2784" height="942"
+            alt="DDFM overview with diffusion prior and likelihood rectification for image fusion" />
+          <div class="metric-strip" aria-label="Highlights">
+            <div>
+              <strong>DDPM</strong>
+              <span>Unconditional diffusion prior</span>
+            </div>
+            <div>
+              <strong>EM</strong>
+              <span>Likelihood rectification</span>
+            </div>
+            <div>
+              <strong>Zero-Shot</strong>
+              <span>Pretrained DDPM without tuning</span>
+            </div>
+            <div>
+              <strong>Unified</strong>
+              <span class="metric-two-line">
+                <span>Infrared-visible fusion</span>
+                <span>&amp; medical fusion</span>
+              </span>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section id="abstract" class="section-band abstract-band">
+      <div class="container is-max-desktop">
+        <div class="section-heading">
+          <p class="eyebrow">Core Idea</p>
+          <h2>Generative priors, rectified by source images.</h2>
+        </div>
+        <p class="section-lede">
+          DDFM treats multi-modality image fusion as conditional generation. A pretrained unconditional DDPM provides
+          natural image priors, while likelihood rectification injects infrared-visible or medical source information
+          into each sampling step.
+        </p>
+        <div class="abstract-grid">
+          <div class="core-column">
+            <div class="core-column-label">Motivation</div>
+            <div class="background-grid">
+              <article class="background-card">
+                <span class="card-kicker">GAN Fusion</span>
+                <h3>Adversarial training is fragile</h3>
+                <p>GAN-based fusion can suffer from unstable optimization, opaque behavior, and mode collapse.</p>
+              </article>
+              <article class="background-card">
+                <span class="card-kicker">No Target</span>
+                <h3>Fusion lacks ground truth</h3>
+                <p>IVF and MIF must preserve complementary cues without a single supervised fused image target.</p>
+              </article>
+              <article class="background-card">
+                <span class="card-kicker">Prior</span>
+                <h3>Diffusion models know images</h3>
+                <p>Pretrained DDPMs provide a powerful natural image manifold for stable generation.</p>
+              </article>
+              <article class="background-card">
+                <span class="card-kicker">Condition</span>
+                <h3>Source fidelity still matters</h3>
+                <p>The generative prior must be steered toward thermal targets, textures, and medical structures.</p>
+              </article>
+            </div>
+          </div>
+          <div class="core-column">
+            <div class="core-column-label">DDFM Contributions</div>
+            <div class="insight-grid">
+              <article class="insight-card">
+                <span class="insight-icon"><i class="fas fa-wave-square"></i></span>
+                <h3>Posterior Sampling</h3>
+                <p>Fusion is formulated as conditional DDPM posterior sampling over the fused image.</p>
+              </article>
+              <article class="insight-card">
+                <span class="insight-icon"><i class="fas fa-project-diagram"></i></span>
+                <h3>Likelihood Rectification</h3>
+                <p>Source-image constraints refine each denoised estimate inside the sampling loop.</p>
+              </article>
+              <article class="insight-card">
+                <span class="insight-icon"><i class="fas fa-cogs"></i></span>
+                <h3>EM Inference</h3>
+                <p>A hierarchical Bayesian model turns fusion losses into tractable latent-variable inference.</p>
+              </article>
+              <article class="insight-card">
+                <span class="insight-icon"><i class="fas fa-bolt"></i></span>
+                <h3>No Fine-Tuning</h3>
+                <p>DDFM directly uses an unconditional pretrained diffusion model for IVF and MIF.</p>
+              </article>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-band overview-band">
+      <div class="container is-max-widescreen">
+        <div class="section-heading centered">
+          <p class="eyebrow">Overview</p>
+          <h2>Diffusion prior for better cross-modality fusion</h2>
+        </div>
+        <div class="overview-pair overview-single">
+          <figure class="overview-card">
+            <h3>Fusion from GAN to Diffusion</h3>
+            <img src="static/images/Workflow1.png" width="2185" height="1587"
+              alt="DDFM overview comparing GAN fusion, likelihood rectification, and the DDFM workflow"
+              loading="lazy" />
+            <figcaption>
+              DDFM replaces adversarial generation with diffusion sampling and rectifies the generated image with
+              source-image likelihood constraints.
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section id="method" class="section-band method-band">
+      <div class="container is-max-widescreen">
+        <div class="section-heading">
+          <p class="eyebrow">Architecture</p>
+          <h2>Unconditional DDPM with one-step EM rectification</h2>
+        </div>
+        <div class="method-figure-grid">
+          <figure class="image-shell ddfm-workflow">
+            <img src="static/images/Workflow2.png" width="2364" height="996"
+              alt="DDFM computational graph for one diffusion sampling iteration" loading="lazy" />
+            <figcaption>One diffusion iteration with DDPM denoising, E-step, M-step, and likelihood rectification.</figcaption>
+          </figure>
+          <figure class="image-shell ddfm-algorithm">
+            <img src="static/images/Algorithm1.png" width="1375" height="1603"
+              alt="DDFM algorithm with DDPM denoising and EM likelihood rectification" loading="lazy" />
+            <figcaption>Sampling procedure that rectifies the DDPM estimate using source-image likelihood constraints.</figcaption>
+          </figure>
+        </div>
+        <div class="method-undergrid">
+          <p>
+            DDFM decomposes conditional fusion into unconditional diffusion generation and likelihood rectification.
+            The EM update steers the denoised estimate toward source-image information before the next sampling step.
+          </p>
+          <div class="method-steps">
+            <article>
+              <strong>DDPM estimate</strong>
+              <span>Predict the denoised fused image from the current noisy state.</span>
+            </article>
+            <article>
+              <strong>EM rectification</strong>
+              <span>Infer latent variables and update the estimate with source-image likelihood.</span>
+            </article>
+            <article>
+              <strong>Diffusion update</strong>
+              <span>Sample the next state and repeat until the final fused image is generated.</span>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="results" class="section-band results-band">
+      <div class="container is-max-widescreen">
+        <div class="section-heading centered">
+          <p class="eyebrow">Qualitative Results</p>
+          <h2>Infrared-visible and medical fusion examples</h2>
+        </div>
+
+        <div class="gallery" data-gallery="fusion">
+          <div class="gallery-stage">
+            <button class="gallery-arrow previous" type="button" data-gallery-prev aria-label="Previous result">
+              <i class="fas fa-chevron-left"></i>
+            </button>
+            <img data-gallery-image src="static/images/IVF1.png" width="2475" height="850"
+              alt="DDFM infrared-visible fusion comparison on M3FD" loading="lazy" />
+            <button class="gallery-arrow next" type="button" data-gallery-next aria-label="Next result">
+              <i class="fas fa-chevron-right"></i>
+            </button>
+          </div>
+          <div class="gallery-caption">
+            <h3 data-gallery-title>M<sup>3</sup>FD: Infrared-Visible Fusion</h3>
+            <p data-gallery-text>
+              DDFM preserves thermal targets while keeping visible-scene texture and natural image appearance.
+            </p>
+          </div>
+          <div class="gallery-tabs" role="tablist" aria-label="Result gallery">
+            <button class="gallery-tab is-active" type="button" data-gallery-tab="0">M<sup>3</sup>FD IVF</button>
+            <button class="gallery-tab" type="button" data-gallery-tab="1">RoadScene IVF</button>
+            <button class="gallery-tab" type="button" data-gallery-tab="2">MRI-CT MIF</button>
+          </div>
+        </div>
+
+        <div class="quant-grid">
+          <figure class="image-shell">
+            <img src="static/images/Quantitative_IVF.png" width="2452" height="1168"
+              alt="DDFM quantitative comparison for infrared-visible image fusion" loading="lazy" />
+            <figcaption>Infrared-visible image fusion: MSRS, M<sup>3</sup>FD, RoadScene, and TNO metrics.</figcaption>
+          </figure>
+          <figure class="image-shell mif-quant">
+            <img src="static/images/Quantitative_MIF.png" width="1170" height="571"
+              alt="DDFM quantitative comparison for medical image fusion" loading="lazy" />
+            <figcaption>Medical image fusion: Harvard MRI-CT quantitative comparison.</figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-band resource-band">
+      <div class="container is-max-desktop">
+        <div class="section-heading centered">
+          <p class="eyebrow">Release</p>
+          <h2>Code, configs, and sampling scripts</h2>
+        </div>
+        <div class="release-panel">
+          <div class="release-grid">
+            <article>
+              <strong>Pretrained Prior</strong>
+              <span>Uses the public 256x256 unconditional guided-diffusion checkpoint.</span>
+            </article>
+            <article>
+              <strong>Sampling Code</strong>
+              <span>Inference is provided through sample.py and YAML configs.</span>
+            </article>
+            <article>
+              <strong>IVF + MIF</strong>
+              <span>The same sampling framework supports infrared-visible and medical fusion.</span>
+            </article>
+          </div>
+          <a class="release-button" href="https://github.com/Zhaozixiang1228/MMIF-DDFM" target="_blank"
+            rel="noopener noreferrer">
+            <span class="icon"><i class="fab fa-github"></i></span>
+            <span>Open GitHub Repository</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section id="citation" class="section-band citation-band">
+      <div class="container is-max-desktop">
+        <div class="section-heading">
+          <p class="eyebrow">Citation</p>
+          <h2>BibTeX</h2>
+        </div>
+        <div class="citation-box">
+          <button class="copy-button" type="button" data-copy-citation>
+            <span class="icon"><i class="fas fa-copy"></i></span>
+            <span>Copy BibTeX</span>
+          </button>
+          <pre><code id="bibtex">@InProceedings{Zhao_2023_ICCV,
+  author    = {Zhao, Zixiang and Bai, Haowen and Zhu, Yuanzhi and Zhang, Jiangshe and Xu, Shuang and Zhang, Yulun and Zhang, Kai and Meng, Deyu and Timofte, Radu and Van Gool, Luc},
+  title     = {DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  month     = {October},
+  year      = {2023},
+  pages     = {8082-8093}
+}</code></pre>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer-section">
+    <div class="container is-max-desktop">
+      <p>
+        Website template inspired by the CDDFuse, IF-FILM, Nerfies, and VF-Bench project pages. Content and figures are
+        from DDFM.
+      </p>
+    </div>
+  </footer>
+</body>
+
+</html>

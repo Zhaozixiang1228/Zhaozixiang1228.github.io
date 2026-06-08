@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="description"
+    content="CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion." />
+  <meta name="keywords"
+    content="CDDFuse, multi-modality image fusion, infrared-visible image fusion, medical image fusion, CVPR 2023" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta property="og:title" content="CDDFuse | CVPR 2023" />
+  <meta property="og:description"
+    content="Correlation-driven dual-branch feature decomposition for multi-modality image fusion." />
+  <meta property="og:url" content="https://zhaozixiang1228.github.io/Project/CDDFuse/" />
+  <meta property="og:image" content="https://zhaozixiang1228.github.io/Project/CDDFuse/static/images/introduction_3.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="CDDFuse | CVPR 2023" />
+  <meta name="twitter:description"
+    content="Correlation-driven dual-branch feature decomposition for multi-modality image fusion." />
+  <meta name="twitter:image" content="https://zhaozixiang1228.github.io/Project/CDDFuse/static/images/introduction_3.png" />
+
+  <title>CDDFuse | CVPR 2023</title>
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2286%22>C</text></svg>" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet" />
+
+  <link rel="stylesheet" href="static/css/bulma.min.css" />
+  <link rel="stylesheet" href="static/css/index.css" />
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script defer src="static/js/index.js"></script>
+</head>
+
+<body>
+  <nav class="topbar" aria-label="Project navigation">
+    <a class="topbar-brand" href="#top" aria-label="CDDFuse home">CDDFuse</a>
+    <div class="topbar-links">
+      <a href="#abstract">Abstract</a>
+      <a href="#method">Method</a>
+      <a href="#results">Results</a>
+      <a href="#citation">Citation</a>
+    </div>
+  </nav>
+
+  <main id="top">
+    <section class="hero-section" aria-labelledby="hero-title">
+      <div class="hero-backdrop" aria-hidden="true"></div>
+      <div class="hero-grid">
+        <div class="hero-copy">
+          <p class="venue-label"><span>CVPR</span> 2023</p>
+          <h1 id="hero-title">CDDFuse</h1>
+          <p class="hero-subtitle">
+            Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion
+          </p>
+
+          <div class="author-list">
+            <a href="https://zhaozixiang1228.github.io/" target="_blank" rel="noopener noreferrer">Zixiang Zhao</a><sup>1,2</sup>,
+            <a href="https://haowenbai.github.io/" target="_blank" rel="noopener noreferrer">Haowen Bai</a><sup>1</sup>,
+            <a href="http://gr.xjtu.edu.cn/web/jszhang" target="_blank" rel="noopener noreferrer">Jiangshe Zhang</a><sup>1</sup>,
+            <a href="https://yulunzhang.com/" target="_blank" rel="noopener noreferrer">Yulun Zhang</a><sup>2</sup>,
+            <a href="https://shuangxu96.github.io/" target="_blank" rel="noopener noreferrer">Shuang Xu</a><sup>3</sup>,
+            <a href="https://zudi-lin.github.io/" target="_blank" rel="noopener noreferrer">Zudi Lin</a><sup>4</sup>,
+            <a href="https://www.informatik.uni-wuerzburg.de/computervision/home/" target="_blank"
+              rel="noopener noreferrer">Radu Timofte</a><sup>2,5</sup>,
+            <a href="https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjQ4LC0xOTcxNDY1MTc4.html"
+              target="_blank" rel="noopener noreferrer">Luc Van Gool</a><sup>2</sup>
+          </div>
+
+          <div class="affiliation-grid" aria-label="Affiliations">
+            <span><sup>1</sup>Xi'an Jiaotong University</span>
+            <span><sup>2</sup>Computer Vision Lab, ETH Zürich</span>
+            <span><sup>3</sup>Northwestern Polytechnical University</span>
+            <span><sup>4</sup>Harvard University</span>
+            <span><sup>5</sup>University of Würzburg</span>
+          </div>
+
+          <div class="button-row" aria-label="Project links">
+            <a class="project-button" href="https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_CDDFuse_Correlation-Driven_Dual-Branch_Feature_Decomposition_for_Multi-Modality_Image_Fusion_CVPR_2023_paper.html"
+              target="_blank" rel="noopener noreferrer">
+              <span class="icon"><i class="fas fa-file-pdf"></i></span>
+              <span>Paper</span>
+            </a>
+            <a class="project-button" href="https://arxiv.org/abs/2211.14461" target="_blank"
+              rel="noopener noreferrer">
+              <span class="icon"><i class="fas fa-scroll"></i></span>
+              <span>arXiv</span>
+            </a>
+            <a class="project-button" href="https://github.com/Zhaozixiang1228/MMIF-CDDFuse" target="_blank"
+              rel="noopener noreferrer">
+              <span class="icon"><i class="fab fa-github"></i></span>
+              <span>Code</span>
+            </a>
+            <a class="project-button" href="https://openaccess.thecvf.com/content/CVPR2023/supplemental/Zhao_CDDFuse_Correlation-Driven_Dual-Branch_CVPR_2023_supplemental.pdf"
+              target="_blank" rel="noopener noreferrer">
+              <span class="icon"><i class="fas fa-file-archive"></i></span>
+              <span>Supp.</span>
+            </a>
+          </div>
+        </div>
+
+        <aside class="hero-panel" aria-label="CDDFuse qualitative preview">
+          <img src="static/images/introduction_3.png" width="2938" height="1002"
+            alt="CDDFuse dual-branch base and detail feature decomposition preview" />
+          <div class="metric-strip" aria-label="Highlights">
+            <div>
+              <strong>Dual</strong>
+              <span>Transformer-CNN branches</span>
+            </div>
+            <div>
+              <strong>Correlation</strong>
+              <span>Correlation-driven feature decomposition</span>
+            </div>
+            <div>
+              <strong>SOTA</strong>
+              <span>State-of-the-art performance on 8 fusion metrics</span>
+            </div>
+            <div>
+              <strong>Unified</strong>
+              <span>Infrared-visible fusion and medical fusion</span>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section id="abstract" class="section-band abstract-band">
+      <div class="container is-max-desktop">
+        <div class="section-heading">
+          <p class="eyebrow">Core Idea</p>
+          <h2>Fuse what is shared. Preserve what is specific.</h2>
+        </div>
+        <p class="section-lede">
+          Image fusion combines complementary sensor evidence into one informative representation: infrared highlights
+          salient targets under poor illumination, visible images preserve texture and scene context, and medical
+          modalities reveal different anatomical or functional cues.
+        </p>
+        <div class="abstract-grid">
+          <div class="core-column">
+            <div class="core-column-label">Background</div>
+            <div class="background-grid">
+              <article class="background-card">
+                <span class="card-kicker">Infrared</span>
+                <h3>Low-light target saliency</h3>
+                <p>Thermal cues expose people, vehicles, and objects when visible images are degraded.</p>
+              </article>
+              <article class="background-card">
+                <span class="card-kicker">Visible</span>
+                <h3>Texture and scene context</h3>
+                <p>Visible images preserve edges, colors, local textures, and readable spatial structure.</p>
+              </article>
+              <article class="background-card">
+                <span class="card-kicker">Medical</span>
+                <h3>Complementary anatomy</h3>
+                <p>Different medical modalities reveal structural and functional cues in the same scene.</p>
+              </article>
+              <article class="background-card">
+                <span class="card-kicker">Challenge</span>
+                <h3>No ground-truth fusion target</h3>
+                <p>Shared layout and modality-specific details are entangled and need explicit constraints.</p>
+              </article>
+            </div>
+          </div>
+          <div class="core-column">
+            <div class="core-column-label">CDDFuse Contributions</div>
+            <div class="insight-grid">
+              <article class="insight-card">
+                <span class="insight-icon"><i class="fas fa-code-branch"></i></span>
+                <h3>Dual Branches</h3>
+                <p>Separate base and detail paths model shared global structure and modality-specific local evidence.</p>
+              </article>
+              <article class="insight-card">
+                <span class="insight-icon"><i class="fas fa-project-diagram"></i></span>
+                <h3>Interpretable Loss</h3>
+                <p>Correlation constraints narrow the decomposition space instead of relying on a black-box fusion rule.</p>
+              </article>
+              <article class="insight-card">
+                <span class="insight-icon"><i class="fas fa-layer-group"></i></span>
+                <h3>Lossless Details</h3>
+                <p>INN blocks preserve high-frequency textures and thermal targets through invertible transformations.</p>
+              </article>
+              <article class="insight-card">
+                <span class="insight-icon"><i class="fas fa-bullseye"></i></span>
+                <h3>Recognition Friendly</h3>
+                <p>Fused images improve semantic segmentation and object detection in downstream recognition benchmarks.</p>
+              </article>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-band overview-band">
+      <div class="container is-max-widescreen">
+        <div class="section-heading centered">
+          <p class="eyebrow">Overview</p>
+          <h2>Feature decomposition for better cross-modality fusion</h2>
+        </div>
+        <div class="overview-pair">
+          <figure class="overview-card">
+            <h3>From vanilla fusion to base/detail decomposition</h3>
+            <img src="static/images/introduction_2-1.png" width="3327" height="1674"
+              alt="Comparison between existing multi-modality image fusion pipelines and CDDFuse" loading="lazy" />
+            <figcaption>
+              Existing pipelines mix modality-shared and modality-specific cues. CDDFuse explicitly separates base and
+              detail branches.
+            </figcaption>
+          </figure>
+          <figure class="overview-card">
+            <h3>Metric gains across MSRS and RoadScene</h3>
+            <img src="static/images/introduction_1-1.png" width="2700" height="1260"
+              alt="Radar plots showing CDDFuse performance on MSRS and RoadScene metrics" loading="lazy" />
+            <figcaption>
+              CDDFuse achieves leading performance across eight fusion metrics on representative IVF benchmarks.
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section id="method" class="section-band method-band">
+      <div class="container is-max-widescreen">
+        <div class="section-heading">
+          <p class="eyebrow">Architecture</p>
+          <h2>Dual-branch architecture with correlation-driven decomposition loss</h2>
+        </div>
+        <figure class="image-shell method-image">
+          <img src="static/images/Workflow.png" width="7170" height="2014"
+            alt="CDDFuse network architecture and training workflow" loading="lazy" />
+        </figure>
+        <div class="method-undergrid">
+          <p>
+            CDDFuse first learns an autoencoder-style decomposition pipeline, then fuses decomposed base and detail
+            features to decode the final fused image.
+          </p>
+          <div class="method-steps">
+            <article>
+              <strong>Shared feature encoder</strong>
+              <span>Restormer blocks extract cross-modality shallow features.</span>
+            </article>
+            <article>
+              <strong>Base transformer encoder</strong>
+              <span>Lite Transformer blocks capture long-range, low-frequency shared information.</span>
+            </article>
+            <article>
+              <strong>Detail CNN encoder</strong>
+              <span>INN blocks keep local, high-frequency details with information-preserving transforms.</span>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="results" class="section-band results-band">
+      <div class="container is-max-widescreen">
+        <div class="section-heading centered">
+          <p class="eyebrow">Qualitative Results</p>
+          <h2>Infrared-visible and medical fusion examples</h2>
+        </div>
+
+        <div class="gallery" data-gallery="fusion">
+          <div class="gallery-stage">
+            <button class="gallery-arrow previous" type="button" data-gallery-prev aria-label="Previous result">
+              <i class="fas fa-chevron-left"></i>
+            </button>
+            <img data-gallery-image src="static/images/MSRS_00706N-1.png" width="1088" height="390"
+              alt="MSRS infrared-visible image fusion comparison" loading="lazy" />
+            <button class="gallery-arrow next" type="button" data-gallery-next aria-label="Next result">
+              <i class="fas fa-chevron-right"></i>
+            </button>
+          </div>
+          <div class="gallery-caption">
+            <h3 data-gallery-title>MSRS: Infrared-Visible Fusion</h3>
+            <p data-gallery-text>
+              CDDFuse preserves salient infrared targets while recovering visible texture and scene structure.
+            </p>
+          </div>
+          <div class="gallery-tabs" role="tablist" aria-label="Result gallery">
+            <button class="gallery-tab is-active" type="button" data-gallery-tab="0">MSRS (Infrared-Visible Fusion)</button>
+            <button class="gallery-tab" type="button" data-gallery-tab="1">RoadScene (Infrared-Visible Fusion)</button>
+            <button class="gallery-tab" type="button" data-gallery-tab="2">MRI-PET (Medical Fusion)</button>
+          </div>
+        </div>
+
+        <div class="quant-grid">
+          <figure class="image-shell">
+            <img src="static/images/Quantitative_IVF.png" width="1034" height="1300"
+              alt="Quantitative comparison for infrared-visible image fusion" loading="lazy" />
+            <figcaption>Infrared-visible image fusion: TNO, MSRS, and RoadScene quantitative comparison.</figcaption>
+          </figure>
+          <figure class="image-shell">
+            <img src="static/images/Quantitative_MIF.png" width="1026" height="1357"
+              alt="Quantitative comparison for medical image fusion"
+              loading="lazy" />
+            <figcaption>Medical image fusion: MRI-CT, MRI-PET, and MRI-SPECT quantitative comparison.</figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-band downstream-band">
+      <div class="container is-max-widescreen">
+        <div class="section-heading">
+          <p class="eyebrow">Downstream Recognition</p>
+          <h2>Fusion images that help perception models</h2>
+        </div>
+        <div class="downstream-grid">
+          <figure class="image-shell">
+            <img src="static/images/MMDet.png" width="1025" height="508"
+              alt="Multi-modal object detection comparison after fusion"
+              loading="lazy" />
+            <figcaption>Object detection benefits from clearer thermal targets and visible-scene context.</figcaption>
+          </figure>
+          <figure class="image-shell">
+            <img src="static/images/MMSeg.png" width="1026" height="422"
+              alt="Multi-modal semantic segmentation comparison after fusion"
+              loading="lazy" />
+            <figcaption>Semantic segmentation improves from sharper boundaries and more informative fused images.</figcaption>
+          </figure>
+        </div>
+        <div class="gallery downstream-gallery" data-gallery="downstream">
+          <div class="gallery-stage">
+            <button class="gallery-arrow previous" type="button" data-gallery-prev aria-label="Previous downstream result">
+              <i class="fas fa-chevron-left"></i>
+            </button>
+            <img data-gallery-image src="static/images/sm_OD00110-1.png" width="1498" height="585"
+              alt="Infrared-visible object detection visualization on M3FD" loading="lazy" />
+            <button class="gallery-arrow next" type="button" data-gallery-next aria-label="Next downstream result">
+              <i class="fas fa-chevron-right"></i>
+            </button>
+          </div>
+          <div class="gallery-caption">
+            <h3 data-gallery-title>Infrared-visible Object Detection on M<sup>3</sup>FD</h3>
+            <p data-gallery-text>
+              Detection comparison on fused images, highlighting target localization under challenging visibility.
+            </p>
+          </div>
+          <div class="gallery-tabs" role="tablist" aria-label="Downstream visualization gallery">
+            <button class="gallery-tab is-active" type="button" data-gallery-tab="0">M<sup>3</sup>FD Detection A</button>
+            <button class="gallery-tab" type="button" data-gallery-tab="1">M<sup>3</sup>FD Detection B</button>
+            <button class="gallery-tab" type="button" data-gallery-tab="2">MSRS Segmentation A</button>
+            <button class="gallery-tab" type="button" data-gallery-tab="3">MSRS Segmentation B</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-band resource-band">
+      <div class="container is-max-desktop">
+        <div class="section-heading centered">
+          <p class="eyebrow">Release</p>
+          <h2>Everything needed to reproduce CDDFuse</h2>
+        </div>
+        <div class="release-panel">
+          <div class="release-grid">
+            <article>
+              <strong>Pretrained Weights</strong>
+              <span>IVF and MIF checkpoints are included in the repository.</span>
+            </article>
+            <article>
+              <strong>Training Code</strong>
+              <span>Two-stage decomposition and fusion training scripts are public.</span>
+            </article>
+            <article>
+              <strong>Testing Scripts</strong>
+              <span>Paper-level IVF and MIF metrics can be reproduced directly.</span>
+            </article>
+          </div>
+          <a class="release-button" href="https://github.com/Zhaozixiang1228/MMIF-CDDFuse" target="_blank"
+            rel="noopener noreferrer">
+            <span class="icon"><i class="fab fa-github"></i></span>
+            <span>Open GitHub Repository</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section id="citation" class="section-band citation-band">
+      <div class="container is-max-desktop">
+        <div class="section-heading">
+          <p class="eyebrow">Citation</p>
+          <h2>BibTeX</h2>
+        </div>
+        <div class="citation-box">
+          <button class="copy-button" type="button" data-copy-citation>
+            <span class="icon"><i class="fas fa-copy"></i></span>
+            <span>Copy BibTeX</span>
+          </button>
+          <pre><code id="bibtex">@InProceedings{Zhao_2023_CVPR,
+  author    = {Zhao, Zixiang and Bai, Haowen and Zhang, Jiangshe and Zhang, Yulun and Xu, Shuang and Lin, Zudi and Timofte, Radu and Van Gool, Luc},
+  title     = {CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month     = {June},
+  year      = {2023},
+  pages     = {5906-5916}
+}</code></pre>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer-section">
+    <div class="container is-max-desktop">
+      <p>
+        Website template inspired by the Nerfies project page and the VF-Bench project page. Content and figures are
+        from CDDFuse.
+      </p>
+    </div>
+  </footer>
+</body>
+
+</html>

@@ -126,7 +126,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * **Zixiang Zhao**, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Kai Zhang, Shuang Xu, Dongdong Chen, Radu Timofte, Luc Van Gool
 * **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024** 
 * Propose a novel end-to-end self-supervised fusion algorithm based on the equivariant sensing and imaging prior     
-  [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Equivariant_Multi-Modality_Image_Fusion_CVPR_2024_paper.html), [arXiv](https://arxiv.org/abs/2305.11443), [Code](https://github.com/Zhaozixiang1228/MMIF-EMMA)
+  [Project Page](https://zhaozixiang1228.github.io/Project/EMMA/), [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Equivariant_Multi-Modality_Image_Fusion_CVPR_2024_paper.html), [arXiv](https://arxiv.org/abs/2305.11443), [Code](https://github.com/Zhaozixiang1228/MMIF-EMMA)
 
 1. <img class="pub-thumb" src="images/paper_image/018_ReFusion.png" alt="ReFusion" loading="lazy" onerror="this.remove()"/> ***ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning***
 * Haowen Bai, **Zixiang Zhao<sup>&dagger;</sup>**, Jiangshe Zhang<sup>&dagger;</sup>, Yichen Wu, Lilun Deng, Yukun Cui, Shuang Xu, Baisong Jiang
@@ -138,7 +138,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 * **Zixiang Zhao**, Haowen Bai, Yuanzhi Zhu, Jiangshe Zhang, Shuang Xu, Yulun Zhang, Kai Zhang, Deyu Meng, Radu Timofte, Luc Van Gool
 * **IEEE/CVF International Conference on Computer Vision (ICCV) 2023** <strong class="emph">(Oral)</strong>
 * Propose a novel fusion algorithm based on the denoising diffusion sampling model     
-  [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_DDFM_Denoising_Diffusion_Model_for_Multi-Modality_Image_Fusion_ICCV_2023_paper.html), [arXiv](https://arxiv.org/abs/2303.06840), [Code](https://github.com/Zhaozixiang1228/MMIF-DDFM)
+  [Project Page](https://zhaozixiang1228.github.io/Project/DDFM/), [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_DDFM_Denoising_Diffusion_Model_for_Multi-Modality_Image_Fusion_ICCV_2023_paper.html), [arXiv](https://arxiv.org/abs/2303.06840), [Code](https://github.com/Zhaozixiang1228/MMIF-DDFM)
 
 1. <img class="pub-thumb" src="images/paper_image/011_SSDNet.png" alt="SSDNet" loading="lazy" onerror="this.remove()"/> ***Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution***
 * **Zixiang Zhao**, Jiangshe Zhang, Xiang Gu, Chengli Tan, Shuang Xu, Yulun Zhang, Radu Timofte, Luc Van Gool

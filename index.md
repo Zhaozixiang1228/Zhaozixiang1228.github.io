@@ -50,6 +50,7 @@ For collaborations beyond ETH domain, Iâ€™m open to all kinds of collaboration â
 
 # NEWS
 <!-- - <span class="badge badge-hot">HOT</span> One first-authored paper on video fusion is accepted by **NeurIPS 2025** <strong class="emph">(Spotlight)</strong>. -->
+- [2026-07] One paper on 3D objects articulation is accepted by **ACM Multimedia 2026**. Serving as an **Senior Program Committee** for AAAI 2027.
 - [2026-06] Serving as an **Area Chair** for WACV 2027.
 - [2026-05] We held the 1st International Workshop on Sustainable and Efficient Language, Vision, and Action Models ([SELVA](https://selva-workshop.github.io)) at [ACL 2026](https://2026.aclweb.org/).
 - [2026-04] One paper on GUI Agent is accepted by **ICML 2026**. Serving as an **Area Chair** for BMVC 2026.
@@ -317,10 +318,11 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 # Professional Services
 
-## <u> Area Chair </u>
+## <u> Area Chair (Senior Program Committee) </u>
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 * European Conference on Computer Vision (ECCV)
 * Conference on Neural Information Processing Systems (NeurIPS)
+* Association for the Advancement of Artificial Intelligence (AAAI)
 * British Machine Vision Conference (BMVC)
 * Winter Conference on Applications of Computer Vision (WACV)
 

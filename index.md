@@ -318,11 +318,11 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 # Professional Services
 
-## <u> Area Chair (Senior Program Committee) </u>
+## <u> Area Chair</u>
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 * European Conference on Computer Vision (ECCV)
 * Conference on Neural Information Processing Systems (NeurIPS)
-* Association for the Advancement of Artificial Intelligence (AAAI)
+* Association for the Advancement of Artificial Intelligence (AAAI, Senior Program Committee)
 * British Machine Vision Conference (BMVC)
 * Winter Conference on Applications of Computer Vision (WACV)
 

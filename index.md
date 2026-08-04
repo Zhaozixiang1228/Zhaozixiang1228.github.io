@@ -50,7 +50,7 @@ For collaborations beyond ETH domain, Iâ€™m open to all kinds of collaboration â
 
 # NEWS
 <!-- - <span class="badge badge-hot">HOT</span> One first-authored paper on video fusion is accepted by **NeurIPS 2025** <strong class="emph">(Spotlight)</strong>. -->
-- [2026-07] One paper on 3D objects articulation is accepted by **ACM Multimedia 2026**. Serving as an **Senior Program Committee** for AAAI 2027. Serving as an **Area Chair** for ACL Rolling Review (ARR).
+- [2026-07] One paper on 3D object articulation is accepted by **ACM Multimedia 2026**. Serving as a **Senior Program Committee** for AAAI 2027. Serving as an **Area Chair** for ACL Rolling Review.
 - [2026-06] Serving as an **Area Chair** for WACV 2027.
 - [2026-05] We held the 1st International Workshop on Sustainable and Efficient Language, Vision, and Action Models ([SELVA](https://selva-workshop.github.io)) at [ACL 2026](https://2026.aclweb.org/).
 - [2026-04] One paper on GUI Agent is accepted by **ICML 2026**. Serving as an **Area Chair** for BMVC 2026.
@@ -389,10 +389,10 @@ at: [04/2024] Peking University, Shenzhen, China
 at: [02/2024] University of Electronic Science and Technology of China (UESTC), Online 
 
 * Conference on Frontiers in Mathematics Doctoral Student: Prior Knowledge-Guided Multi-Modal Image Fusion.    
-at: [10/2023] Peking University, Beijing, China
+at: [11/2023] Peking University, Beijing, China
 
 * ICCV 2023 Oral Talk: DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion    
-at: [12/2025] Paris, France
+at: [10/2023] Paris, France
 
 * Multi-modal Image Fusion and Image Reconstruction [[Website]](https://twitter.com/CamImaging/status/1707755502203990431).        
 at: [09/2023] Cambridge University, Online

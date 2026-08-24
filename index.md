@@ -50,6 +50,7 @@ For collaborations beyond ETH domain, Iâ€™m open to all kinds of collaboration â
 
 # NEWS
 <!-- - <span class="badge badge-hot">HOT</span> One first-authored paper on video fusion is accepted by **NeurIPS 2025** <strong class="emph">(Spotlight)</strong>. -->
+- [2026-08] One paper on continual learning is accepted by **IJCV**.
 - [2026-07] One paper on 3D object articulation is accepted by **ACM Multimedia 2026**. Serving as a **Senior Program Committee** for AAAI 2027. Serving as an **Area Chair** for ACL Rolling Review.
 - [2026-06] Serving as an **Area Chair** for WACV 2027.
 - [2026-05] We held the 1st International Workshop on Sustainable and Efficient Language, Vision, and Action Models ([SELVA](https://selva-workshop.github.io)) at [ACL 2026](https://2026.aclweb.org/).

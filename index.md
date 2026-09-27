@@ -96,11 +96,23 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 <p class="cors-note"><strong>&dagger;</strong> denotes the corresponding author(s).</p>
 
 ## <u> First-Author / Project Leader </u>
+1. <img class="pub-thumb" src="images/paper_image/037_StitchVM.png" alt="StitchVM" loading="lazy" onerror="this.remove()"/> ***Stitched Value Model for Diffusion Alignment***
+* Hyojun Go, Hyungjin Chung<sup>&dagger;</sup>, Prune Truong, Goutam Bhat, Li Mi, Zhaochong An, **Zixiang Zhao<sup>&dagger;</sup>**, Dominik Narnhofer, Serge Belongie, Federico Tombari, Konrad Schindler
+* **Neural Information Processing Systems (NeurIPS) 2026**
+* Make any clean-image reward model work on noisy diffusion latents.    
+  [Project Page](https://gohyojun15.github.io/StitchVM/), [arXiv](https://arxiv.org/abs/2605.19804), [Code](https://github.com/prs-eth/StitchVM)
+
+1. <img class="pub-thumb" src="images/paper_image/038_MambaVF.png" alt="MambaVF" loading="lazy" onerror="this.remove()"/> ***MambaVF: State Space Model for Efficient Video Fusion***
+* **Zixiang Zhao**, Yukun Cui, Lilun Deng, Haowen Bai, Haotong Qin, Tao Feng, Konrad Schindler
+* arXiv:2602.06017
+* MambaVF combines reciprocal state interaction with spatiotemporal bidirectional scanning for efficient video fusion    
+  [Project Page](https://mambavf.github.io/), [arXiv](https://arxiv.org/abs/2602.06017), [Code]()
+
 1. <img class="pub-thumb" src="images/paper_image/030_VF-Bench.jpg" alt="VF-Bench" loading="lazy" onerror="this.remove()"/> ***A Unified Solution to Video Fusion: From Multi-Frame Learning to Benchmarking***
 * **Zixiang Zhao**, Haowen Bai, Bingxin Ke, Yukun Cui, Lilun Deng, Yulun Zhang, Kai Zhang, Konrad Schindler
 * **Neural Information Processing Systems (NeurIPS) 2025** <strong class="emph">(Spotlight)</strong>
 * Pioneering the first unified framework, benchmark, loss and evaluation protocol for video fusion across four key tasks    
-  [Project Page🔥](https://vfbench.github.io/), [arXiv](https://arxiv.org/abs/2505.19858), [Code](https://github.com/Zhaozixiang1228/VF-Bench)
+  [Project Page](https://vfbench.github.io/), [arXiv](https://arxiv.org/abs/2505.19858), [Code](https://github.com/Zhaozixiang1228/VF-Bench)
 
 1. <img class="pub-thumb" src="images/paper_image/027_Hipandas.png" alt="Hipandas" loading="lazy" onerror="this.remove()"/> ***Hipandas: Hyperspectral Image Joint Denoising and Super-Resolution by Image Fusion with the Panchromatic Image***
 * Shuang Xu, **Zixiang Zhao<sup>&dagger;</sup>**, Haowen Bai, Chang Yu, Jiangjun Peng, Xiangyong Cao<sup>&dagger;</sup>, Deyu Meng
@@ -194,6 +206,18 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
   [Paper](https://www.sciencedirect.com/science/article/pii/S0165168420302772), [arXiv](https://arxiv.org/abs/2005.05839), [Code](https://github.com/Zhaozixiang1228/IVIF-Bayesian-Fusion)
 
 ## <u> Collaborative Works </u>
+1. <img class="pub-thumb" src="images/paper_image/036_C-FlatPP.png" alt="C-FlatPP" loading="lazy" onerror="this.remove()"/> ***C-Flat++: Towards a More Efficient and Powerful Framework for Continual Learning***
+* Wei Li, Hangjie Yuan, **Zixiang Zhao**, Yifan Zhu, Aojun Lu, Tao Feng, Yanan Sun
+* **International Journal of Computer Vision (IJCV) 2026** 
+- C-Flat++, an efficient yet effective framework leverages selective flatness-driven promotion and reducing the update cost in C-Flat
+  [Paper](https://link.springer.com/epdf/10.1007/s11263-026-03009-5?sharing_token=I2n6hPkIcNr0b7FG0vfOQ_e4RwlQNchNByi7wbcMAY7y8eeQsFiybeZihJiu9mFMKg9B03vKL3daH7AUgQ8uVladMPxrxi0Gsk7DLI0w-SD90LOTLdngZJoITpt0Qo_j4Jv7IvH3FmVJjQYKNU9ItVVzmCRLpc_irA8LSovZ3fc%3D), [arXiv](https://arxiv.org/abs/2508.18860), [Code](https://github.com/WanNaa/C-Flat_PP)
+
+1. <img class="pub-thumb" src="images/paper_image/035_ArtiWorld.png" alt="ArtiWorld" loading="lazy" onerror="this.remove()"/> ***ArtiWorld: LLM-Driven Articulation of 3D Objects in Scenes***
+* Yixuan Yang, Luyang Xie, Zhen Luo, **Zixiang Zhao**, Tongsheng Ding, Xudong XU, Mingqi Gao, Feng Zheng
+- **ACM International Conference on Multimedia (ACMMM) 2026**
+- Present ArtiWorld, a scene-aware pipeline automatically localizes rigid objects in 3D environments and converts them into interactive URDF models
+  [Paper](), [arXiv](https://arxiv.org/abs/2511.12977), [Code]()
+
 1. <img class="pub-thumb" src="images/paper_image/034_Continual-GUI.png" alt="Continual-GUI" loading="lazy" onerror="this.remove()"/> ***Continual GUI Agents***
 * Ziwei Liu, Borui Kang, Hangjie Yuan, **Zixiang Zhao**, Wei Li, Yifan Zhu, Tao Feng
 * **International Conference on Machine Learning (ICML) 2026**

@@ -104,7 +104,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 1. <img class="pub-thumb" src="images/paper_image/038_MambaVF.png" alt="MambaVF" loading="lazy" onerror="this.remove()"/> ***MambaVF: State Space Model for Efficient Video Fusion***
 * **Zixiang Zhao**, Yukun Cui, Lilun Deng, Haowen Bai, Haotong Qin, Tao Feng, Konrad Schindler
-* arXiv:2602.06017
+* **arXiv:2602.06017**
 * MambaVF combines reciprocal state interaction with spatiotemporal bidirectional scanning for efficient video fusion    
   [Project Page](https://mambavf.github.io/), [arXiv](https://arxiv.org/abs/2602.06017), [Code]()
 

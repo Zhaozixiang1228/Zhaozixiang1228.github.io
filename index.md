@@ -50,6 +50,7 @@ For collaborations beyond ETH domain, Iâ€™m open to all kinds of collaboration â
 
 # NEWS
 <!-- - <span class="badge badge-hot">HOT</span> One first-authored paper on video fusion is accepted by **NeurIPS 2025** <strong class="emph">(Spotlight)</strong>. -->
+- [2025-10] Named to [Stanford University's list of the World's Top 2% Scientists (2026)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9).
 - [2026-09] Serving as an **Area Chair** for ICLR 2027 and CVPR 2027. One paper on diffusion alignment is accepted by **NeurIPS 2026**.
 - [2026-08] One paper on continual learning is accepted by **IJCV**.
 - [2026-07] One paper on 3D object articulation is accepted by **ACM Multimedia 2026**. Serving as a **Senior Program Committee** for AAAI 2027. Serving as an **Area Chair** for ACL Rolling Review.

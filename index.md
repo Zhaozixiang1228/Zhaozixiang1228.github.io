@@ -50,7 +50,7 @@ For collaborations beyond ETH domain, Iâ€™m open to all kinds of collaboration â
 
 # NEWS
 <!-- - <span class="badge badge-hot">HOT</span> One first-authored paper on video fusion is accepted by **NeurIPS 2025** <strong class="emph">(Spotlight)</strong>. -->
-- [2025-10] Named to [Stanford University's list of the World's Top 2% Scientists (2026)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9).
+- [2025-10] Named to [Stanford University's list of the World's Top 2% Scientists (2026)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9). Serving as an **Area Chair** for ICASSP 2027.
 - [2026-09] Serving as an **Area Chair** for ICLR 2027 and CVPR 2027. One paper on diffusion alignment is accepted by **NeurIPS 2026**.
 - [2026-08] One paper on continual learning is accepted by **IJCV**.
 - [2026-07] One paper on 3D object articulation is accepted by **ACM Multimedia 2026**. Serving as a **Senior Program Committee** for AAAI 2027. Serving as an **Area Chair** for ACL Rolling Review.
@@ -97,6 +97,12 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 <p class="cors-note"><strong>&dagger;</strong> denotes the corresponding author(s).</p>
 
 ## <u> First-Author / Project Leader </u>
+1. <img class="pub-thumb" src="images/paper_image/039_SMART.jpg" alt="SMART" loading="lazy" onerror="this.remove()"/> ***Long-horizon Video Generation with Slot Memory Addressed By Region Tokens***
+* Eren Cetin, Julius Erbach, Vukasin Bozic, Hyojun Go, **Zixiang Zhao<sup>&dagger;</sup>**, Nikolai Kalischek, Federico Tombari, Konrad Schindler, Dominik Narnhofer<sup>&dagger;</sup>
+* **arXiv:2610.19257**
+* SMART enables long-horizon video generation with constant-size slot memory and spatially addressed recall.<br/>
+  [Project Page](https://eren-cetin.github.io/SMART/), [arXiv](https://arxiv.org/abs/2610.19257)
+
 1. <img class="pub-thumb" src="images/paper_image/037_StitchVM.png" alt="StitchVM" loading="lazy" onerror="this.remove()"/> ***Stitched Value Model for Diffusion Alignment***
 * Hyojun Go, Hyungjin Chung<sup>&dagger;</sup>, Prune Truong, Goutam Bhat, Li Mi, Zhaochong An, **Zixiang Zhao<sup>&dagger;</sup>**, Dominik Narnhofer, Serge Belongie, Federico Tombari, Konrad Schindler
 * **Neural Information Processing Systems (NeurIPS) 2026**
